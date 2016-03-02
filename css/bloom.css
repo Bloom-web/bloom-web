@@ -1,69 +1,94 @@
-
 html,
 body {
-    width:100%;
-    height:100%;
-    margin:0;
-    padding:0;
-    font-family:sans-serif;
-    background-color:transparent;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
 }
 .clear {
-    clear:both;
+    clear: both;
 }
 .invisible {
-    display:none;
-    visibility:hidden;
+    display: none;
+    visibility: hidden;
 }
 .selected {
     -webkit-box-shadow: #000 0px 0px 40px 1px inset;
     -moz-box-shadow: #000 0px 0px 40px 1px inset;
-    box-shadow: #000 0px 0px 40px 1px inset; /* #22c000 */
+    box-shadow: #000 0px 0px 40px 1px inset;
+    /* #22c000 */
 }
 .selected .corner-icon {
-    background-color:rgba(40,40,40,1);
+    background-color: rgba(40, 40, 40, 1);
 }
 .selected .corner-icon .dsi {
-	color:#96ff80; /* #96ff80; */
+    color: #96ff80;
+    /* #96ff80; */
 }
 .top {
-    top:0px;
+    top: 0px;
 }
 .bottom {
-    bottom:0px;
+    bottom: 0px;
 }
 .left {
-    left:0px;
+    left: 0px;
 }
 .right {
-    right:0px;
+    right: 0px;
 }
 .fleft {
-    float:left;
+    float: left;
 }
 .fright {
-    float:right;
+    float: right;
 }
-.tleft {
-    text-align:left;
-}
-.tright {
-    text-align:right;
-}
-.middle { /* for lining up horizontal icons and text */
-    vertical-align:middle;
+.middle {
+    /* for lining up horizontal icons and text */
+    vertical-align: middle;
 }
 .iblock {
-    display:inline-block;
+    display: inline-block;
+}
+
+/* Removes floats and uses inline block for dynamic flowing boxes */
+
+.iblock-mono {
+    float: none !important;
+    display: inline-block;
+    margin: 0 -0.125em;
+}
+.iblock-multi {
+    float: none !important;
+    display: inline-block;
+    margin: 0 -0.125em;
+    vertical-align: top;
 }
 .block {
-    display:block;
+    display: block;
 }
 .abs {
-    position:absolute;
+    position: absolute;
+}
+.rel {
+    position: relative;
+}
+.page-header .mask .flush {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.stretchx {
+    width: 100%;
+}
+.stretchy {
+    height: 100%;
 }
 
 /* ------------------------  x y centering  */
+
 .center {
     text-align: center;
 }
@@ -81,27 +106,75 @@ body {
 }
 
 /* ------------------------  Text and sizing  */
+
 .sm {
-    font-size:40%;
+    font-size: 40%;
 }
 .ms {
-    font-size:70%;
+    font-size: 70%;
 }
 .md {
-    font-size:80%;
+    font-size: 80%;
 }
 .lg {
-    font-size:120%;
+    font-size: 120%;
 }
 .xl {
-    font-size:180%;
+    font-size: 140%;
 }
-a {
-    color:rgba(34,134,210,1);
+.xxl {
+    font-size: 180%;
+}
+.xxxl {
+    font-size: 200%;
+}
+@media (max-width: 992px) {
+    .sm {
+        font-size: 30%;
+    }
+    .ms {
+        font-size: 50%;
+    }
+    .md {
+        font-size: 70%;
+    }
+    .lg {
+        font-size: 100%;
+    }
+    .xl {
+        font-size: 120%;
+    }
+    .xxl {
+        font-size: 160%;
+    }
+    .xxxl {
+        font-size: 190%;
+    }
+}
+.thin {
+    font-weight: 100;
+}
+.light {
+    font-weight: 300;
+}
+.regular {
+    font-weight: 400;
+}
+.medium {
+    font-weight: 500;
+}
+.bold {
+    font-weight: 700;
+}
+.black {
+    font-weight: 900;
+}
+footer a {
+    color: rgba(255, 255, 255, 1);
 }
 .link {
-    color:rgba(34,134,210,1);
-    cursor:pointer;
+    color: rgba(34, 134, 210, 1);
+    cursor: pointer;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -110,7 +183,7 @@ a {
     user-select: none;
 }
 .blink {
-    cursor:pointer;
+    cursor: pointer;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -119,8 +192,145 @@ a {
     user-select: none;
 }
 .white {
-    color:#fff;
+    color: #fff;
 }
 .black {
-	color:#000;
+    color: #000;
+}
+.grayback {
+    background-color: #f7f9f9;
+}
+
+/* Objects */
+
+.header-blurb {
+    background-color: rgba(255, 255, 255, .85);
+    text-align: left;
+    padding-left: 4%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+}
+.blurb-home {
+    position: absolute;
+    top: 250px;
+}
+.slider-home {
+    position: absolute;
+}
+@media (max-width: 992px) {
+    .blurb-home {
+        top: 124px;
+    }
+    .header-text {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+}
+@media (max-width: 760px) {
+    .blurb-home {
+        position: relative;
+        top: 100px;
+    }
+    .slider-home {
+        position: relative;
+        top: 100px;
+    }
+    .firstblock {
+        margin-top: 100px;
+    }
+    footer p {
+        font-size: 140%;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+
+/* These two are a custom underline for links */
+
+span.pi-has-border {
+    position: relative;
+    padding-bottom: 3px;
+    margin-bottom: 25px;
+}
+span.pi-has-border:hover:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #444;
+}
+
+/* These two make clickable objects avoid selection artifacts */
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.noselect:focus {
+    outline: none;
+}
+
+/* This is for replacing anchor links, so our sticky header doesn't overlap */
+
+.anchor {
+    display: block;
+    height: 70px;
+    /*same height as header*/
+    margin-top: -70px;
+    /*same height as header*/
+    visibility: hidden;
+}
+.main-logo-light {
+    width: 300px;
+}
+@media (max-width: 1200px) {
+    .main-logo-light {
+        width: 200px;
+    }
+}
+
+/* Padding sizes */
+
+.pad-top-50 {
+    padding-top: 50px;
+}
+.pad-top-20 {
+    padding-top: 20px;
+}
+.pad-bottom-20 {
+    padding-bottom: 20px;
+}
+.pad-left-50 {
+    padding-left: 50px;
+}
+.pad-right-50 {
+    padding-right: 50px;
+}
+.pad-left-20 {
+    padding-left: 20px;
+}
+
+/* Adding another column width for our menu footer */
+@media (min-width:768px) {
+    .col-9-items {
+        width: 11.11111111%
+    }
+}
+@media (min-width:992px) {
+    .col-9-items {
+        width: 11.11111111%
+    }
+}
+@media (min-width:1200px) {
+    .col-9-items {
+        width: 11.11111111%
+    }
 }

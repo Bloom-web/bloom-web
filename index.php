@@ -24,10 +24,13 @@
                     <div class="mask opacity-5">
                         <div class="flush">
                             <div class="row">
-                                <div class="col-md-5 iblock-mono">
-                                    <img src="images/ydraw-example.jpg" class="slider-video">
+                                <div class="col-md-1"></div>
+                                <div class="col-md-5">
+                                    <div class="embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item slider-video" src="https://player.vimeo.com/video/157542772?title=0&badge=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                    </div>
                                 </div>
-                                <div class="col-md-5 iblock-mono padding-small">
+                                <div class="col-md-5 padding-small">
                                     <div class="center">
                                         <div class="centered">
                                             <div class="header-text tleft text00 white">
@@ -38,6 +41,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-md-1"></div>
                             </div>
                         </div>
                     </div>

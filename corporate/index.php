@@ -111,7 +111,7 @@
             				<video poster="/images/dog.jpg" autoplay loop>
             					<!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
             					<source type="video/mp4" src="/images/dog-loop.mp4">
-            					<source type="video/ogg" src="/images/dog-loop.ogg">
+            					<source type="video/ogg" src="/images/dog-loop.ogv">
             					<source type="video/webm" src="/images/dog-loop.webm">
             					<!-- Flash fallback for non-HTML5 browsers without JavaScript -->
             					<object class="video-flash" type="application/x-shockwave-flash" data="neko-framework/external-plugins/mediaelement/flashmediaelement.swf">

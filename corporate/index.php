@@ -29,9 +29,9 @@
                             <p class="text regular lumps">
                                 Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers innovative solutions and strategic services to security, marketing and sales executives to support enterprise modernization and transformation. 
                                 <br><br>
-                                The Bloom Modern Solution SuiteTM aggregate data from IP-enabled security objects (IoT), social apps, web apps, modern apps, and disparate databases into an Azure cloud hub that can display executive-level business insight seamlessly across Windows and cross-platform devices. Bloom’s innovative solutions for follow-you-anywhere computing experiences across phones, tablets, PCs, XBox, wearables and the HoloLens are rapidly changing the way enterprises do business in a modern, mobile workplace.
+                                The Bloom Modern Solution Suite&trade; aggregate data from IP-enabled security objects (IoT), social apps, web apps, modern apps, and disparate databases into an Azure cloud hub that can display executive-level business insight seamlessly across Windows and cross-platform devices. Bloom’s innovative solutions for follow-you-anywhere computing experiences across phone, tablet, PC, XBox, wearable, and HoloLens are rapidly changing the way enterprise does business in a modern, mobile workplace.
                                 <br><br>
-                                Bloom’s complimentary strategic services span strategic business management consulting, enterprise risk digital transformation, performance improvement, Big Data analytics, and change management. 
+                                Bloom’s complimentary strategic services span business management consulting, enterprise risk transformation, performance improvement, big-data analytics, and change management. 
                                 <br><br>
                                 In 2015, Bloom won a Security Innovation Award from Security Technology Executive Magazine alongside partner Microsoft for its Azure-driven, enterprise Windows application. The App was awarded the Gold Medal by judges for best Collaborative Security Project for the Microsoft Advanced Patrol Platform.
                             </p>
@@ -72,7 +72,7 @@
                                     <p class="text regular">
                                         Andrew Herb<br>
                                         <span class="text-00">
-                                            VP of Customer Engagement
+                                            GM of App Strategy and Customer Experience
                                         </span>
                                     </p>
                                 </div>

@@ -107,47 +107,59 @@ body {
 
 /* ------------------------  Text and sizing  */
 
-.sm {
-    font-size: 40%;
+.text-0000 {
+    font-size: 60%;
 }
-.ms {
+.text-000 {
     font-size: 70%;
 }
-.md {
+.text-00 {
     font-size: 80%;
 }
-.lg {
+.text-0 {
+    font-size: 90%;
+}
+.text {
+    font-size: 100%;
+}
+.text0 {
     font-size: 120%;
 }
-.xl {
+.text00 {
     font-size: 140%;
 }
-.xxl {
+.text000 {
     font-size: 180%;
 }
-.xxxl {
+.text0000 {
     font-size: 200%;
 }
 @media (max-width: 992px) {
-    .sm {
-        font-size: 30%;
-    }
-    .ms {
+    .text-0000 {
         font-size: 50%;
     }
-    .md {
+    .text-000 {
+        font-size: 60%;
+    }
+    .text-00 {
         font-size: 70%;
     }
-    .lg {
+    .text-0 {
+        font-size: 80%;
+    }
+    .text {
+        font-size: 90%;
+    }
+    .text0 {
         font-size: 100%;
     }
-    .xl {
+    .text00 {
         font-size: 120%;
     }
-    .xxl {
+    .text000 {
         font-size: 160%;
     }
-    .xxxl {
+    .text0000 {
         font-size: 190%;
     }
 }
@@ -168,6 +180,9 @@ body {
 }
 .black {
     font-weight: 900;
+}
+.caps {
+    text-transform: uppercase;
 }
 footer a {
     color: rgba(255, 255, 255, 1);
@@ -194,7 +209,7 @@ footer a {
 .white {
     color: #fff;
 }
-.black {
+dark {
     color: #000;
 }
 .grayback {
@@ -215,23 +230,42 @@ footer a {
     position: absolute;
     top: 250px;
 }
+.blurb-corp {
+    position: absolute;
+    right: 0px;
+    top: 300px;
+}
 .slider-home {
     position: absolute;
 }
 .slider-video {
     height:230px;
 }
+.lumps {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
 @media (max-width: 992px) {
+    .header-blurb {
+        padding-left: 8%;
+        padding-right: 4%;
+    }
     .blurb-home {
         top: 124px;
     }
-    .header-text {
-        padding-left: 3%;
-        padding-right: 3%;
+    .lumps {
+        -webkit-column-count: 2; /* Chrome, Safari, Opera */
+        -moz-column-count: 2; /* Firefox */
+        column-count: 2;
     }
 }
 @media (max-width: 760px) {
     .blurb-home {
+        position: relative;
+        top: 100px;
+    }
+    .blurb-corp {
         position: relative;
         top: 100px;
     }
@@ -246,10 +280,19 @@ footer a {
     .firstblock {
         margin-top: 100px;
     }
-    footer p {
-        font-size: 140%;
-        margin-left: 20%;
-        margin-right: 20%;
+    .lumps {
+        -webkit-column-count: 1; /* Chrome, Safari, Opera */
+        -moz-column-count: 1; /* Firefox */
+        column-count: 1;
+    }
+    footer {
+        font-size: 130%;
+        text-align: center;
+    }
+    footer .text-right {
+        text-align: center;
+        padding-left: 0;
+        padding-right: 0;
     }
 }
 

@@ -29,7 +29,7 @@
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav navbar-right">
                             <li class="neko-mega-menu-trigger">
-                                <a href="/" class="has-sub-menu" id="page-home">Home</a>
+                                <a href="/" class="" id="page-home">Home</a>
                             </li>
                             <li>
                                 <a href="/corporate/" class="has-sub-menu" id="page-corporate">Corporate</a>
@@ -60,7 +60,7 @@
                                     <li><a href="/services/#experience">User experience and interface design</a></li>
                                     <li><a href="/services/#outsourcing">Project management outsourcing</a></li>
                                     <li><a href="/services/#cloud">Azure cloud services</a></li>
-                                    <li><a href="/services/#aapdev">Windows application development</a></li>
+                                    <li><a href="/services/#appdev">Windows application development</a></li>
                                 </ul>
                             </li>
                             <li>

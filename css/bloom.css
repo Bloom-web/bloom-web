@@ -581,6 +581,25 @@ span.has-border:hover:after {
     }
 }
 
+/* Adding another header size to neko */
+
+.page-header.xlarge {
+  height: 350px;
+  margin-top: 112px;
+}
+@media (min-width: 768px) {
+  .page-header.xlarge {
+    height: 400px;
+    margin-top: 0px;
+  }
+}
+@media (min-width: 992px) {
+  .page-header.xlarge {
+    height: 600px;
+    margin-top: 0px;
+  }
+}
+
 /* Adding another breakpoint to Boostrap */
 
 .col-xxs-1,

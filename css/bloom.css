@@ -89,20 +89,28 @@ body {
 
 /* ------------------------  x y centering  */
 
-.center {
+.xycenter {
     text-align: center;
 }
-.center::before {
+.xycenter::before {
     content: '';
     display: inline-block;
     height: 100%;
     vertical-align: middle;
     margin-right: -0.25em;
 }
-.centered {
+.xycentered {
     display: inline-block;
     vertical-align: middle;
     text-align: center;
+}
+
+.icon-vcenter {
+   -ms-transform: translate(0,15%);
+   -moz-transform: translate(0,15%);
+   -webkit-transform: translate(0,15%);
+   transform: translate(0,15%);
+   display:inline-block;
 }
 
 /* ------------------------  Text and sizing  */
@@ -129,7 +137,7 @@ body {
     font-size: 140%;
 }
 .text000 {
-    font-size: 180%;
+    font-size: 160%;
 }
 .text0000 {
     font-size: 200%;
@@ -157,7 +165,7 @@ body {
         font-size: 120%;
     }
     .text000 {
-        font-size: 160%;
+        font-size: 150%;
     }
     .text0000 {
         font-size: 190%;
@@ -248,7 +256,7 @@ dark {
     font-size: 140%;
 }
 .icon000 {
-    font-size: 180%;
+    font-size: 350%;
 }
 .icon0000 {
     font-size: 400%;
@@ -276,7 +284,7 @@ dark {
         font-size: 120%;
     }
     .icon000 {
-        font-size: 160%;
+        font-size: 300%;
     }
     .icon0000 {
         font-size: 350%;
@@ -284,7 +292,7 @@ dark {
 }
 @media (max-width: 460px) {
     .icon000 {
-        font-size: 140%;
+        font-size: 450%;
     }
     .icon0000 {
         font-size: 500%;
@@ -320,6 +328,13 @@ dark {
     right: 0px;
     top: 350px;
 }
+.blurb-clients {
+    position: absolute;
+    top: 300px;
+    -webkit-box-shadow: 7px 7px 11px 1px rgba(0,0,0,0.12);
+    -moz-box-shadow: 7px 7px 11px 1px rgba(0,0,0,0.12);
+    box-shadow: 7px 7px 11px 1px rgba(0,0,0,0.12);
+}
 .slider-home {
     position: absolute;
 }
@@ -333,10 +348,47 @@ dark {
     height:190px;
     position:absolute;
 }
+.header-shade2 {
+    background-color:rgba(55,54,54,.80);
+    width:100%;
+    height:190px;
+    position:absolute;
+    top: 0px;
+}
 .lumps {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
+}
+.square {
+    float:left;
+    position: relative;
+    width: 100%;
+    padding-bottom : 100%; /* = width for a 1:1 aspect ratio */
+    margin:1.66%;
+}
+.square-inside {
+    position:absolute;
+    height:100%; /* = 100% - 2*5% padding */
+    width:100%; /* = 100% - 2*5% padding */
+    padding: 0%;
+    
+}
+.tblock {
+    display:table;
+    width:100%;
+    height:100%;
+}
+.tcell {
+    display:table-cell;
+    vertical-align:middle;
+    text-align: center;
+}
+.client-logo {
+    width:auto;
+    height:auto;
+    max-height:60%;
+    max-width:80%;
 }
 @media (max-width: 1200px) {
     .slider-video {
@@ -359,6 +411,12 @@ dark {
     }
     .blurb-solutions {
         top: 320px;
+    }
+    .blurb-clients {
+        top: 300px;
+    }
+    .header-shade2 {
+        height:1px;
     }
     .lumps {
         -webkit-column-count: 2; /* Chrome, Safari, Opera */
@@ -384,6 +442,10 @@ dark {
     }
     .blurb-services {
         top: 140px;
+    }
+    .blurb-clients {
+        position: relative;
+        top: 100px;
     }
     .slider-home {
         position: relative;
@@ -416,12 +478,12 @@ dark {
 }
 /* These two are a custom underline for links */
 
-span.pi-has-border {
+span.has-border {
     position: relative;
     padding-bottom: 3px;
     margin-bottom: 25px;
 }
-span.pi-has-border:hover:after {
+span.has-border:hover:after {
     content: "";
     display: block;
     width: 100%;
@@ -511,4 +573,193 @@ span.pi-has-border:hover:after {
     .col-9-items {
         width: 11.11111111%
     }
+}
+
+/* Adding another breakpoint to Boostrap */
+
+.col-xxs-1,
+.col-xxs-2,
+.col-xxs-3,
+.col-xxs-4,
+.col-xxs-5,
+.col-xxs-6,
+.col-xxs-7,
+.col-xxs-8,
+.col-xxs-9,
+.col-xxs-10,
+.col-xxs-11,
+.col-xxs-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+@media (max-width: 460px) {
+	.col-xxs-1,
+	.col-xxs-2,
+	.col-xxs-3,
+	.col-xxs-4,
+	.col-xxs-5,
+	.col-xxs-6,
+	.col-xxs-7,
+	.col-xxs-8,
+	.col-xxs-9,
+	.col-xxs-10,
+	.col-xxs-11,
+	.col-xxs-12 {
+		float: left
+	}
+	.col-xxs-12 {
+		width: 100%
+	}
+	.col-xxs-11 {
+		width: 91.66666667%
+	}
+	.col-xxs-10 {
+		width: 83.33333333%
+	}
+	.col-xxs-9 {
+		width: 75%
+	}
+	.col-xxs-8 {
+		width: 66.66666667%
+	}
+	.col-xxs-7 {
+		width: 58.33333333%
+	}
+	.col-xxs-6 {
+		width: 50%
+	}
+	.col-xxs-5 {
+		width: 41.66666667%
+	}
+	.col-xxs-4 {
+		width: 33.33333333%
+	}
+	.col-xxs-3 {
+		width: 25%
+	}
+	.col-xxs-2 {
+		width: 16.66666667%
+	}
+	.col-xxs-1 {
+		width: 8.33333333%
+	}
+	.col-xxs-pull-12 {
+		right: 100%
+	}
+	.col-xxs-pull-11 {
+		right: 91.66666667%
+	}
+	.col-xxs-pull-10 {
+		right: 83.33333333%
+	}
+	.col-xxs-pull-9 {
+		right: 75%
+	}
+	.col-xxs-pull-8 {
+		right: 66.66666667%
+	}
+	.col-xxs-pull-7 {
+		right: 58.33333333%
+	}
+	.col-xxs-pull-6 {
+		right: 50%
+	}
+	.col-xxs-pull-5 {
+		right: 41.66666667%
+	}
+	.col-xxs-pull-4 {
+		right: 33.33333333%
+	}
+	.col-xxs-pull-3 {
+		right: 25%
+	}
+	.col-xxs-pull-2 {
+		right: 16.66666667%
+	}
+	.col-xxs-pull-1 {
+		right: 8.33333333%
+	}
+	.col-xxs-pull-0 {
+		right: auto
+	}
+	.col-xxs-push-12 {
+		left: 100%
+	}
+	.col-xxs-push-11 {
+		left: 91.66666667%
+	}
+	.col-xxs-push-10 {
+		left: 83.33333333%
+	}
+	.col-xxs-push-9 {
+		left: 75%
+	}
+	.col-xxs-push-8 {
+		left: 66.66666667%
+	}
+	.col-xxs-push-7 {
+		left: 58.33333333%
+	}
+	.col-xxs-push-6 {
+		left: 50%
+	}
+	.col-xxs-push-5 {
+		left: 41.66666667%
+	}
+	.col-xxs-push-4 {
+		left: 33.33333333%
+	}
+	.col-xxs-push-3 {
+		left: 25%
+	}
+	.col-xxs-push-2 {
+		left: 16.66666667%
+	}
+	.col-xxs-push-1 {
+		left: 8.33333333%
+	}
+	.col-xxs-push-0 {
+		left: auto
+	}
+	.col-xxs-offset-12 {
+		margin-left: 100%
+	}
+	.col-xxs-offset-11 {
+		margin-left: 91.66666667%
+	}
+	.col-xxs-offset-10 {
+		margin-left: 83.33333333%
+	}
+	.col-xxs-offset-9 {
+		margin-left: 75%
+	}
+	.col-xxs-offset-8 {
+		margin-left: 66.66666667%
+	}
+	.col-xxs-offset-7 {
+		margin-left: 58.33333333%
+	}
+	.col-xxs-offset-6 {
+		margin-left: 50%
+	}
+	.col-xxs-offset-5 {
+		margin-left: 41.66666667%
+	}
+	.col-xxs-offset-4 {
+		margin-left: 33.33333333%
+	}
+	.col-xxs-offset-3 {
+		margin-left: 25%
+	}
+	.col-xxs-offset-2 {
+		margin-left: 16.66666667%
+	}
+	.col-xxs-offset-1 {
+		margin-left: 8.33333333%
+	}
+	.col-xxs-offset-0 {
+		margin-left: 0
+	}
 }

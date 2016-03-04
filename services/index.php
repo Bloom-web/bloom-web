@@ -1,5 +1,5 @@
 <?php include($_SERVER["DOCUMENT_ROOT"] . "/doctype.php");?>
-    <title>Bloom - Solutions</title>
+    <title>Bloom - Services</title>
     <meta name="description" content="">
     <meta name="author" content="Bloom">
 

@@ -7,6 +7,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900" rel="stylesheet" type="text/css">
     <!-- Neko framework  -->
     <link type="text/css" rel="stylesheet" href="/custom-icons/css/custom-icons.css">
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link type="text/css" rel="stylesheet" href="/neko-framework/external-plugins/external-plugins.css">
     <link type="text/css" rel="stylesheet" href="/neko-framework/css/layout/neko-framework-layout.css">
     <link type="text/css" rel="stylesheet" id="color" href="/neko-framework/css/color/neko-framework-orange.css">

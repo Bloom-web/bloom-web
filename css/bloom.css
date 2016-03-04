@@ -224,6 +224,73 @@ dark {
     background-color: #f7f9f9;
 }
 
+/* ----  Icon sizing  */
+
+.icon-0000 {
+    font-size: 60%;
+}
+.icon-000 {
+    font-size: 70%;
+}
+.icon-00 {
+    font-size: 80%;
+}
+.icon-0 {
+    font-size: 90%;
+}
+.icon {
+    font-size: 100%;
+}
+.icon0 {
+    font-size: 120%;
+}
+.icon00 {
+    font-size: 140%;
+}
+.icon000 {
+    font-size: 180%;
+}
+.icon0000 {
+    font-size: 400%;
+}
+@media (max-width: 992px) {
+    .icon-0000 {
+        font-size: 50%;
+    }
+    .icon-000 {
+        font-size: 60%;
+    }
+    .icon-00 {
+        font-size: 70%;
+    }
+    .icon-0 {
+        font-size: 80%;
+    }
+    .icon {
+        font-size: 90%;
+    }
+    .icon0 {
+        font-size: 100%;
+    }
+    .icon00 {
+        font-size: 120%;
+    }
+    .icon000 {
+        font-size: 160%;
+    }
+    .icon0000 {
+        font-size: 350%;
+    }
+}
+@media (max-width: 460px) {
+    .icon000 {
+        font-size: 140%;
+    }
+    .icon0000 {
+        font-size: 500%;
+    }
+}
+
 /* Objects */
 
 .header-blurb {
@@ -247,6 +314,11 @@ dark {
 .blurb-solutions {
     position: absolute;
     top: 300px;
+}
+.blurb-services {
+    position: absolute;
+    right: 0px;
+    top: 350px;
 }
 .slider-home {
     position: absolute;
@@ -293,6 +365,10 @@ dark {
         -moz-column-count: 2; /* Firefox */
         column-count: 2;
     }
+    .single-col-space {
+        float: none;
+        padding-top: 100px;
+    }
 }
 @media (max-width: 760px) {
     .blurb-home {
@@ -304,6 +380,9 @@ dark {
         top: 100px;
     }
     .blurb-solutions {
+        top: 140px;
+    }
+    .blurb-services {
         top: 140px;
     }
     .slider-home {

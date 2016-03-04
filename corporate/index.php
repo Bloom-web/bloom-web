@@ -21,7 +21,7 @@
                 </div>
             </header>
             <!-- page content -->
-            <section class="pt-medium pb-medium light-color grayback firstblock">
+            <section class="pt-medium pb-medium light-color firstblock">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -94,7 +94,7 @@
             </section>
             <!-- / page content -->
             
-            <section class="pt-medium pb-medium light-color">
+            <section class="pt-medium pb-small light-color">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
@@ -129,9 +129,36 @@
                 <!-- container -->
             </section>
             <!-- / page content -->
-			<section>
 
-			</section>
+            
+            <section class="pt-small pb-medium light-color">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="text000 light">Latest news</p>
+                            <p class="text regular">
+                                <a href="http://www.securityinfowatch.com/article/12174810/bloom-consulting-delivers-bleeding-edge-tech-to-security-execs" target="_blank" class="text00">
+                                Bloom Consulting delivers 'bleeding-edge' tech to security execs</a><br>
+                                Joel Griffin - Security Info. Watch
+                            </p>
+                            <p class="text regular">
+                                <a href="http://www.securitysystemsnews.com/article/bloom-hones-focus-security" target="_blank" class="text00">
+                                Bloom hones focus on security</a><br>
+                                Martha Entwistle - Security Systems News
+                            </p>
+                            <p class="text regular">
+                                <a href="http://www.bsminfo.com/doc/ways-it-integrators-can-help-security-leaders-effectively-manage-enterprise-operations-0001" target="_blank" class="text00">
+                                7 Ways IT Integrators Can Help Security Leaders Effectively Manage Enterprise Operations</a><br>
+                                Heather Zindel for Business Solutions
+                            </p>
+                            
+                        </div>
+                    </div>
+                    <!-- row -->
+                </div>
+                <!-- container -->
+            </section>
+            <!-- / page content -->
 
         </main>
         <!-- / content -->

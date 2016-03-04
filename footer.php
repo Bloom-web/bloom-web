@@ -75,7 +75,7 @@
                                 <a href="#" class="pad-right-50">Privacy</a>
                             </div>
                             <div class="text-00 pad-top-20">
-                            &copy; 2016 Bloom Consulting and Project Management Inc. all rights reserved.
+                            &copy; <?php echo date("Y"); ?> Bloom Consulting and Project Management Inc. all rights reserved.
                             </div>
                             <div class="pad-top-50"></div>
                         </div>

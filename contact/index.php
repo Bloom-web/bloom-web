@@ -29,7 +29,7 @@
                             information@bloomconsultinggroup.com<br>
                             <br>
                             8060 - 165th Ave. NE, Suite 200, Redmond, WA 98052<br>
-    						<br><br>
+    						<br>
     
     						Offices:<br>
                             Headquarters and Software Engineering - Redmond, WA (Suite 200-220)<br>

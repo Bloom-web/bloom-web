@@ -581,6 +581,24 @@ span.has-border:hover:after {
     }
 }
 
+/* Modifying the neko header behavior of collapsing at mobile size */
+
+.page-header.x-large.stay {
+  height: 400px;
+  margin-top: 112px;
+}
+@media (min-width: 768px) {
+  .page-header.x-large.stay {
+    height: 550px;
+    margin-top: 0px;
+  }
+}
+@media (min-width: 992px) {
+  .page-header.x-large.stay {
+    height: 770px;
+    margin-top: 0px;
+  }
+}
 /* Adding another header size to neko */
 
 .page-header.xlarge {

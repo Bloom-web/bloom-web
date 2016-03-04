@@ -20,7 +20,7 @@
                 <div class="">
                     <div class="row">
                         <div class="col-sm-6">
-                            <div><iframe width="100%" height="400" frameborder="0" scrolling="no" seamless="seamless" src="https://www.bing.com/maps/embed/viewer.aspx?v=3&amp;cp=47.679401~-122.099217&amp;lvl=12&amp;w=800&amp;h=400&amp;sty=r&amp;typ=d&amp;pp=&amp;ps=&amp;dir=0&amp;mkt=en-us&amp;src=SHELL&amp;form=BMEMJS"></iframe></div>
+                            <div><iframe width="100%" height="400" frameborder="0" scrolling="no" seamless="seamless" src="http://www.bing.com/maps/embed/viewer.aspx?v=3&amp;cp=47.675770~-122.120026&amp;lvl=16&amp;w=500&amp;h=400&amp;sty=r&amp;typ=d&amp;pp=~~47.675770~-122.120026&amp;ps=&amp;dir=0&amp;mkt=en-us&amp;src=SHELL&amp;form=BMEMJS"></iframe></div>
                         </div>
                         <div class="col-sm-6 pad-top-50">
                             <div class="text00">Contact us</div>
@@ -35,7 +35,7 @@
                             Headquarters and Software Engineering - Redmond, WA (Suite 200-220)<br>
                             Sales Offices - Redmond, WA + Washington D.C.<br>
                             <br>
-                            Download a Bloom Consulting Group Brochure
+                            <a href="https://s3-us-west-2.amazonaws.com/bcg-site-assets/Bloom_E_Brochure.pdf">Download a Bloom Consulting Group Brochure</a>
                         </div>
                     </div>
                 </div>

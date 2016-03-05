@@ -16,7 +16,8 @@
             <header class="page-header no-padding rel">
                 <div class="row">
                     <div class="header-blurb blurb-services text00 regular col-md-5">
-                        "When you think there is nothing left to improve on, your business dies, for there is no shortage of innovators."<br><span class="text-00 medium">Bankgambiki Habyarimana, The Great Pearl of Wisdom</span>
+                        "When you think there is nothing left to improve on, your business dies, for there is no shortage of innovators."<br>
+                        <span class="text-00 medium">Bankgambiki Habyarimana, The Great Pearl of Wisdom</span>
                     </div>
                 </div>
             </header>

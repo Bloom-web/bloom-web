@@ -16,8 +16,8 @@
             <header class="page-header center x-large image-background no-padding rel" style="background-image: url('images/background-home.jpg');">
                 <div class="row">
                     <div class="header-blurb blurb-home text0 regular col-md-7">
-                        "Bloom Innovation begins with a single, customer problem that causes pain, followed by a desire to change that outcome."
-                        <br>Heather Zindel, C.E.O.
+                        "Bloom innovation begins with a single, customer problem that causes pain, followed by a desire to change that outcome."
+                        <br><span class="text-00 medium">Heather Zindel, C.E.O.</span>
                     </div>
                 </div>
                 <div class="slider-home bottom left right">

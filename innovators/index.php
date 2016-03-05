@@ -21,7 +21,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12"><a name="experts" class="anchor"></a>
-                            <p class="text0000 light">Meet the experts</p>
+                            <p class="text0000 light">Meet some experts</p>
                             <div class="text-center">
                                 <div class="col-md-3 col-xs-6">
                                     <img src="/images/headshot-bryan.jpg" class="responsive">
@@ -131,13 +131,19 @@
 						  <p class="text0000 light">Featured articles</p>
                         </div>
                         <div class="col-xs-4 col-xxs-12 text-center">
-                            <img src="/images/article-smartwatch.jpg" class="img-responsive" style="border:solid 1px black;">
+                            <a href="http://www.v3.co.uk/v3-uk/analysis/2419255/poor-smartwatch-security-poses-business-risks-as-apple-watch-stimulates-wearables-use" target="_blank">
+                                <img src="/images/article-smartwatch.jpg" class="img-responsive" style="border:solid 1px black;">
+                            </a>
                         </div>
                         <div class="col-xs-4 col-xxs-12 text-center">
-                            <img src="/images/article-trends.jpg" class="img-responsive" style="border:solid 1px black;">
+                            <a href="http://zeendo.com/info/future-trends-of-mobile-technology/" target="_blank">
+                                <img src="/images/article-trends.jpg" class="img-responsive" style="border:solid 1px black;">
+                            </a>
                         </div>
                         <div class="col-xs-4 col-xxs-12 text-center">
-                            <img src="/images/article-mobility.jpg" class="img-responsive" style="border:solid 1px black;">
+                            <a href="https://www.microsoft.com/enterprise/it-trends/mobility/articles/our-vision-for-mobility-devices.aspx" target="_blank">
+                                <img src="/images/article-mobility.jpg" class="img-responsive" style="border:solid 1px black;">
+                            </a>
                         </div>
                     </div> <!-- / row -->
                 </div><!-- / container -->
@@ -155,8 +161,8 @@
                                 MAPP is designed to demonstrate the future of mobile law enforcement by streamlining the roles of law enforcement and security professionals through interaction with technology. It is currently demonstrated on a Ford Police Interceptor SUV branded to represent Microsoft technologies and partners, with the goal of providing patrol teams with a mobile command center that delivers critical information and intelligence once only accessible at a physical command center.
                             </p>
                         </div>
-                        <div class="col-md-5 pad-top-75 text-center">
-                            <img src="/images/award-security-exec.jpg" class="responsive">
+                        <div class="col-md-5 pad-top-50">
+                            <img src="/images/award-security-exec.jpg" class="stretchx">
                         </div>
                     </div>
                 </div>

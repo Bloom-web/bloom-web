@@ -17,7 +17,8 @@
                 <div class="header-shade"></div>
                 <div class="row">
                     <div class="header-blurb blurb-solutions text000 regular col-md-7">
-                        "Experience is everything. what we deliver doesn't matter if the customer experience is less than flawless." GM of Client Experience
+                        "Experience is everything. What we deliver doesn't matter if the customer experience is less than flawless."<br>
+                        <span class="text-00 medium">Andrew Herb, GM of Client Experience</span>
                     </div>
                 </div>
             </header>

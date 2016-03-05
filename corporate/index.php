@@ -21,10 +21,11 @@
                 </div>
             </header>
             <!-- page content -->
+            
             <section class="pt-medium pb-medium light-color firstblock">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12"><a name="about" class="anchor"></a>
                             <p class="text000 light">About Bloom</p>
                             <p class="text regular lumps">
                                 Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers innovative solutions and strategic services to security, marketing and sales executives to support enterprise modernization and transformation. 
@@ -43,10 +44,11 @@
             </section>
             <!-- / page content -->
             <!-- page content -->
+            
             <section class="pt-small pb-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12"><a name="global" class="anchor"></a>
                             <p class="text000 light">Global Management</p>
                             <div class="text-center">
                                 <div class="col-md-3 col-sm-6">
@@ -97,7 +99,7 @@
             <section class="pt-medium pb-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6"><a name="culture" class="anchor"></a>
                             <p class="text000 light">Culture</p>
                             <p class="text regular">
                                 Culture reflects the essence of Bloom because it directly affects the success of our strategy and hiring practices. 
@@ -130,11 +132,11 @@
             </section>
             <!-- / page content -->
 
-            
+            <a name="news" class="anchor"></a>
             <section class="pt-small pb-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12"><a name="news" class="anchor"></a>
                             <p class="text000 light">Latest news</p>
                             <p class="text regular">
                                 <a href="http://www.securityinfowatch.com/article/12174810/bloom-consulting-delivers-bleeding-edge-tech-to-security-execs" target="_blank" class="text00">

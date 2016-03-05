@@ -35,7 +35,7 @@
                                 <a href="/corporate/" class="has-sub-menu" id="page-corporate">Corporate</a>
                                 <ul class="sub-menu">
                                     <li><a href="/corporate/#about">About Bloom</a></li>
-                                    <li><a href="/corporate/#global">Global Management</a></li>
+                                    <li><a href="/corporate/#global">Global management</a></li>
                                     <li><a href="/corporate/#culture">Culture</a></li>
                                     <li><a href="/corporate/#news">News</a></li>
                                 </ul>
@@ -43,31 +43,31 @@
                             <li>
                                 <a href="/solutions/" class="has-sub-menu" id="page-solutions">Solutions</a>
                                 <ul class="sub-menu">
-                                    <li><a href="/solutions/#marketing">Modern Enterprise Marketing Solutions</a></li>
-                                    <li><a href="/solutions/#sales">Modern Enterprise Sales Solutions</a></li>
                                     <li><a href="/solutions/#security">Modern Enterprise Security Solutions</a></li>
+                                    <li><a href="/solutions/#sales">Modern Enterprise Sales Solutions</a></li>
+                                    <li><a href="/solutions/#marketing">Modern Enterprise Marketing Solutions</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/services/" class="has-sub-menu" id="page-services">Services</a>
                                 <ul class="sub-menu">
                                     <li><a href="/services/#consulting">Strategic consulting</a></li>
-                                    <li><a href="/services/#process">Business process re-engineering</a></li>
-                                    <li><a href="/services/#performance">Business performance improvement</a></li>
-                                    <li><a href="/services/#change">Change management</a></li>
                                     <li><a href="/services/#analytics">IoT and big data analytics</a></li>
-                                    <li><a href="/services/#transformation">Project management transformation</a></li>
-                                    <li><a href="/services/#experience">User experience and interface design</a></li>
-                                    <li><a href="/services/#outsourcing">Project management outsourcing</a></li>
-                                    <li><a href="/services/#cloud">Azure cloud services</a></li>
                                     <li><a href="/services/#appdev">Windows application development</a></li>
+                                    <li><a href="/services/#experience">User experience and interface design</a></li>
+                                    <li><a href="/services/#performance">Business performance improvement</a></li>
+                                    <li><a href="/services/#holographic">Holographic computing experiences</a></li>
+                                    <li><a href="/services/#intelligence">Business intelligence</a></li>
+                                    <li><a href="/services/#cloud">Azure cloud services</a></li>
+                                    <li><a href="/services/#outsourcing">Project management outsourcing</a></li>
+                                    <li><a href="/services/#transformation">Project management transformation</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/clients/" class="has-sub-menu" id="page-clients">Clients</a>
                                 <ul class="sub-menu">
-                                    <li><a href="/clients/#stories">Success Stories</a></li>
-                                    <li><a href="/clients/#saying">What People Are Saying</a></li>
+                                    <li><a href="/clients/#saying">What people are saying</a></li>
+                                    <li><a href="/clients/#stories">Success stories</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -75,13 +75,16 @@
                                 <ul class="sub-menu">
                                     <li><a href="/industries/#security">Security</a></li>
                                     <li><a href="/industries/#technology">Technology</a></li>
+                                    <li><a href="/industries/#petroleum">Oil &amp; Gas</a></li>
+                                    <li><a href="/industries/#entertainment">Entertainment</a></li>
+                                    <li><a href="/industries/#other">Other</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/innovators/" class="has-sub-menu" id="page-innovators">Innovators</a>
                                 <ul class="sub-menu">
-                                    <li><a href="/innovators/#experts">Meet the Experts</a></li>
-                                    <li><a href="/innovators/#whitepapers">White papers</a></li>
+                                    <li><a href="/innovators/#experts">Meet the experts</a></li>
+                                    <li><a href="/innovators/#articles">Featured articles</a></li>
                                     <li><a href="/innovators/#awards">Awards</a></li>
                                 </ul>
                             </li>

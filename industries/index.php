@@ -17,10 +17,10 @@
             </header>
 
             <!-- page content -->
-
+            
             <section class="pt-medium light-color firstblock">
                 <div class="container">
-                    <div class="row">
+                    <div class="row"><a name="security" class="anchor"></a>
                             <div class="col-xs-3 col-xxs-12 text-center">
                                 <img src="/images/logo-bloom-security-color-gray.png" class="img-responsive client-logo">
                             </div>
@@ -34,17 +34,19 @@
                     </div> <!-- / row -->
                 </div><!-- / container -->
             </section>
-
+            
             <section class="pt-medium light-color">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
+                            <a name="technology" class="anchor"></a>
                             <p class="text000 light">High Tech</p>
                             <p class="text regular">
                                 Bloom consultants have been working for over twenty years in high tech with executives that are responsible marketing and selling the most advanced technology direct and indirect through complex partner channels. Bloom is a true partner with marketing, sales, and channel executives in high tech to solve complex global business challenges and realize business transformation.
                             </p>
                         </div>
                         <div class="col-md-6">
+                            <a name="analytics" class="anchor"></a>
                             <p class="text000 light">Oil & Gas</p>
                             <p class="text regular">
                                 Visualizing dashboards to display industrial control system data means aligning the layout in a way that is generally consistent with the operator’s mental model of the process. Important information and key performance indicators have embedded trends and bright colors are used only to quickly draw the operator’s attention to abnormal colors and alarms. These are some of the key considerations when designing world class visualization for Oil & Gas Operators and executives. Bloom understand this industry and can harness big data to provide important insight.
@@ -57,12 +59,14 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
+                            <a name="entertainment" class="anchor"></a>
                             <p class="text000 light">Entertainment</p>
                             <p class="text regular">
                                 Changing technology and consumer engagement habits present some of the biggest challenges for media and entertainment today. Consumers switch between multiple devices throughout the day, dictating where, when and how they will watch movies, TV shows, listen to music, or catch up on the day's events. Bloom can help Entertainment companies reach their audiences more effectively through follow-you-anywhere device experiences.
                             </p>
                         </div>
                         <div class="col-md-6">
+                            <a name="other" class="anchor"></a>
                             <p class="text000 light">Other Industries</p>
                             <p class="text regular">
                                 All industries aim to increase productivity, cut costs, and add value to their solutions. Bloom’s full range of services and solutions, including big data analytics, performance improvement, change management, business intelligence, and application development services, support executives in all industries. Bloom’s ability to help companies modernize their employee and customer experiences across devices makes us one of the move innovative and progressive consulting and technologies companies in the world today.

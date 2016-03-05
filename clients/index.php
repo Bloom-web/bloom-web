@@ -17,6 +17,7 @@
                 <div class="header-shade2"></div>
             </header>
             <div class="row">
+                <a name="saying" class="anchor"></a>
                 <div class="header-blurb blurb-clients text0 regular col-md-6">
                     <span class="text0">BUSINESS CONSULTING</span><br>
                     Heather kept us on time, on budget and on track across many stakeholders with different objectives. We simply could not have delivered this project at such high quality and within our budget requirements without her leading the effort.<br>
@@ -26,8 +27,9 @@
                 </div>
             </div>
             <!-- page content -->
+            
             <section class="pt-medium pb-small light-color firstblock">
-                <div class="container">
+                <div class="container"><a name="stories" class="anchor"></a>
                     <div class="text0000 light">Success stories</div>
                 </div>
             </section>

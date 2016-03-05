@@ -16,11 +16,11 @@
             <header class="page-header center xlarge image-background no-padding rel" style="background-image: url('/images/background-innovators.jpg');">
             </header>
             <!-- page content -->
-
+            
             <section class="pt-medium pb-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12"><a name="experts" class="anchor"></a>
                             <p class="text0000 light">Meet the experts</p>
                             <div class="text-center">
                                 <div class="col-md-3 col-xs-6">
@@ -123,10 +123,11 @@
                 </div>
                 <!-- container -->
             </section>
+            
             <section class="pt-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xs-12">
+                        <div class="col-xs-12"><a name="articles" class="anchor"></a>
 						  <p class="text0000 light">Featured articles</p>
                         </div>
                         <div class="col-xs-4 col-xxs-12 text-center">
@@ -142,10 +143,11 @@
                 </div><!-- / container -->
             </section>
 
+            
             <section class="pt-medium pb-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-7">
+                        <div class="col-md-7"><a name="awards" class="anchor"></a>
                             <p class="text0000 light">Awards</p>
                             <p class="text0 regular">
                                 Bloom is the proud co-winner with Microsoft of the Security Technology Executive Magazine’s Security Innovation Award for best collaborative effort for 2015. Bloom developed an innovative, new Azure-driven Windows Application for the Microsoft Advanced Patrol Platform (MAPP), a joint effort between Microsoft Global Security, Worldwide Solutions, OEM, Worldwide Public Safety and Justice as well as a consortium of leading technology and service partners. 

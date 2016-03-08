@@ -53,7 +53,7 @@
                                                                     </div>
                                 <div class="col-9-items col-xs-12 iblock-multi">
                                     <p><a href="/innovators/" class="text00">Innovators</a></p>
-                                    <p><a href="/innovators/#experts" class="text-0">Meet the experts</a></p>
+                                    <p><a href="/innovators/#experts" class="text-0">Meet some experts</a></p>
                                     <p><a href="/innovators/#articles" class="text-0">Featured articles</a></p>
                                     <p><a href="/innovators/#awards" class="text-0">Awards</a></p>
                                 </div>

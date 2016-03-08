@@ -83,7 +83,7 @@
                             <li>
                                 <a href="/innovators/" class="has-sub-menu" id="page-innovators">Innovators</a>
                                 <ul class="sub-menu">
-                                    <li><a href="/innovators/#experts">Meet the experts</a></li>
+                                    <li><a href="/innovators/#experts">Meet some experts</a></li>
                                     <li><a href="/innovators/#articles">Featured articles</a></li>
                                     <li><a href="/innovators/#awards">Awards</a></li>
                                 </ul>

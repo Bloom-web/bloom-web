@@ -447,6 +447,9 @@ footer a {
         float: none;
         padding-top: 100px;
     }
+    .col-md-5.tcell {
+        display: inline-block;
+    }
 }
 @media (max-width: 760px) {
     .blurb-home {

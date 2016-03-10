@@ -23,90 +23,93 @@
                         <div class="col-md-12"><a name="experts" class="anchor"></a>
                             <p class="text0000 light">Meet some experts</p>
                             <div class="text-center">
-                                <div class="col-md-3 col-xs-6">
+                            
+                            <div class="owl-carousel neko-data-owl" data-neko_items="4" data-neko_pagination="true" data-neko_navigation="false" data-neko_autoPlay="5000" data-neko_transitionstyle="backSlide" >
+
+                                <div class="item">
                                     <img src="/images/headshot-bryan.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Bryan Zembureski<br>
                                         <span class="text-00">
                                             Consultant
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-cassie.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Cassie Fischer<br>
                                         <span class="text-00">
                                             Project Manager
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-eddie.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Eddie Mulcahy<br>
                                         <span class="text-00">
                                             Project Manager
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-hoby.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Hoby Van Hoose<br>
                                         <span class="text-00">
                                             Experience Architect, Product Owner
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-john.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         John Brooks<br>
                                         <span class="text-00">
                                             Consultant
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-mason.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Mason Tejera<br>
                                         <span class="text-00">
                                             Developer
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-rachelle.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Rachelle Raymond<br>
                                         <span class="text-00">
                                             Project Manager
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-sukhie.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Sukhie Patel<br>
                                         <span class="text-00">
                                             Project Manager
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-tj.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         TJ Filley<br>
                                         <span class="text-00">
                                             Consultant
                                         </span>
                                     </p>
                                 </div>
-                                <div class="col-md-3 col-xs-6">
+                                <div class="item">
                                     <img src="/images/headshot-tracey.jpg" class="responsive">
-                                    <p class="text regular">
+                                    <p class="text0 regular">
                                         Tracey Cummings<br>
                                         <span class="text-00">
                                             Consultant
@@ -114,7 +117,7 @@
                                     </p>
                                 </div>
 
-
+                                </div>
 
                             </div>
                         </div>
@@ -153,7 +156,7 @@
             <section class="pt-medium pb-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-7"><a name="awards" class="anchor"></a>
+                        <div class="col-md-7 iblock-mono tcell text-left"><a name="awards" class="anchor"></a>
                             <p class="text0000 light">Awards</p>
                             <p class="text0 regular">
                                 Bloom is the proud co-winner with Microsoft of the Security Technology Executive Magazine’s Security Innovation Award for best collaborative effort for 2015. Bloom developed an innovative, new Azure-driven Windows Application for the Microsoft Advanced Patrol Platform (MAPP), a joint effort between Microsoft Global Security, Worldwide Solutions, OEM, Worldwide Public Safety and Justice as well as a consortium of leading technology and service partners. 
@@ -161,8 +164,10 @@
                                 MAPP is designed to demonstrate the future of mobile law enforcement by streamlining the roles of law enforcement and security professionals through interaction with technology. It is currently demonstrated on a Ford Police Interceptor SUV branded to represent Microsoft technologies and partners, with the goal of providing patrol teams with a mobile command center that delivers critical information and intelligence once only accessible at a physical command center.
                             </p>
                         </div>
-                        <div class="col-md-5 pad-top-50">
+                        <div class="col-md-5 iblock-mono tcell stretchy">
+                        <div class="">
                             <img src="/images/award-security-exec.jpg" class="stretchx">
+                        </div>
                         </div>
                     </div>
                 </div>

@@ -137,7 +137,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12"><a name="news" class="anchor"></a>
-                            <p class="text000 light">Latest news</p>
+                            <p class="text000 light">Latest news <a href="/bloom.rss" target="_blank"><i class="material-icons icon">rss_feed</i></a></p>
                             <p class="text regular">
                                 <a href="http://www.securityinfowatch.com/article/12174810/bloom-consulting-delivers-bleeding-edge-tech-to-security-execs" target="_blank" class="text00">
                                 Bloom Consulting delivers 'bleeding-edge' tech to security execs</a><br>

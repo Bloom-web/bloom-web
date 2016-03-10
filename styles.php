@@ -35,4 +35,7 @@
 
     <script src="/neko-framework/external-plugins/modernizr/modernizr.custom.js"></script>
 
+    <!-- RSS ================================================== -->
+    <link rel="alternate" type="application/rss+xml" title="Bloom RSS" href="/bloom.rss" />
+    
 </head>

@@ -351,6 +351,9 @@ footer a {
     right: 0px;
     left: 0px;
 }
+.blurb-clients .owl-controls {
+    bottom: -60px;
+}
 .header-shade {
     background-color:rgba(51,88,123,.78);
     width:100%;

@@ -19,11 +19,86 @@
             <div class="row">
                 <a name="saying" class="anchor"></a>
                 <div class="header-blurb blurb-clients text0 regular col-md-6">
-                    <span class="text0">BUSINESS CONSULTING</span><br>
-                    Heather kept us on time, on budget and on track across many stakeholders with different objectives. We simply could not have delivered this project at such high quality and within our budget requirements without her leading the effort.<br>
-                    Also, Heather brought great clarity and organizational thought to our web development project in helping customers navigate through our licensing offerings online in Public Sector. I think everyone on the virtual team found her ability to stay focused, balanced and on task in driving our project to success nothing short of amazing! 
-                    <br>
-                    <br><span class="text-00 medium">- Mark Day, Government Marketing Director, Microsoft</span>
+                    <div class="owl-carousel neko-data-owl" data-neko_items="1" data-neko_singleitem="true" data-neko_pagination="true" data-neko_navigation="false" data-neko_autoPlay="10000" data-neko_transitionstyle="backSlide" >
+
+                        <div class="item">
+                            <span class="text0">BUSINESS CONSULTING</span><br>
+                            Heather kept us on time, on budget and on track across many stakeholders with different objectives. We simply could not have delivered this project at such high quality and within our budget requirements without her leading the effort.<br>
+                            Also, Heather brought great clarity and organizational thought to our web development project in helping customers navigate through our licensing offerings online in Public Sector. I think everyone on the virtual team found her ability to stay focused, balanced and on task in driving our project to success nothing short of amazing!<br><br>
+                            <span class="text-00 medium">- Mark Day, Government Marketing Director, Microsoft</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">BUSINESS CONSULTING</span><br>
+                            Heather has worked with the worldwide partner marketing team for several years. She easily assimilated complex organizational processes and information in a channel business with an extensive field organization and many personalities.<br>
+                            Within months, Heather was part of our team. She helped us to make key decisions around business strategy and process for our through partner marketing team. Through all of our meetings and difficult discussions, we found Heather to be organized, dependable and fun to work with. We wouldn't hesitate to have her work with us again.<br><br>
+                            <span class="text-00 medium">- Jennifer Tomlinson, Senior Marketing Manager, Microsoft</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">BUSINESS CONSULTING</span><br>
+                            Heather is one of the strongest marketing consultants I've worked with. She always asked the right questions and delivered what I needed efficiently during our eight months working together on the worldwide campaign planning and execution strategy.<br><br>
+                            <span class="text-00 medium">- Pouneh Partowkia, Microsoft</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">BUSINESS CONSULTING</span><br>
+                            If Heather hadn't been involved in the marketing of our joint solution for the past twelve months, our unified campaign would not have launched on time or on budget. Her understanding of our business and her consultative approach were of great value to the project. We wouldn't hesitate to work with her again.<br><br>
+                            <span class="text-00 medium">- Doug Silverstein, Alliance Manager, Cisco Systems</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">BUSINESS CONSULTING</span><br>
+                            I worked with Heather for over a year, where she supported our team's planning for a joint marketing initiative with one of our partners. Heather was an invaluable asset to our team. Heather used her meticulous organizational skills to simplify what was a very complex marketing plan across our companies. She provided innovative ideas that helped define our strategy, and used her broad network to refine our approach. Heather gave us with the highest quality project management and marketing consultant skills, and I give her only the highest recommendation.<br><br>
+                            <span class="text-00 medium">- Ibrahim Hamza, Senior Product Manager, Microsoft</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">PROJECT MANAGEMENT</span><br>
+                            Thank you Amber. You are always on top of things. We are very lucky to have you on engaged with our team&hellip; Really appreciate it.<br><br>
+                            <span class="text-00 medium">- Microsoft Consulting Services TimeZone Lead</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">PROJECT MANAGEMENT</span><br>
+                            I must commend Sukhie. She is awesome and everyone on our team is giving top feedback on her professionalism, proactive behavior, punctuality and ability to handle ambiguity.<br><br>
+                            <span class="text-00 medium">- Microsoft Consulting Services Solution Architect Lead</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">WINDOW 8 APPLICATION DEVELOPMENT CONSULTING</span><br>
+                            You're amazing Nicole. It never ceases to amaze me how well you can distill down all the content we have and pull out what's relevant. For someone like me who's been around a couple years, yeah, I'd see that happening. But for someone like you who's new to our business, wow.<br><br>
+                            <span class="text-00 medium">- Chief Marketing Officer, Building Intelligence, New York-Based Security company</span>
+                        </div>
+                            <div class="item">
+                            <span class="text0">WINDOW 8 APPLICATION DEVELOPMENT CONSULTING</span><br>
+                            You nailed the concept and design. Thank you.<br><br>
+                            <span class="text-00 medium">- Chief Marketing Officer, Building Intelligence, New York-Based Security company</span>
+                        </div>
+                            <div class="item">
+                            <span class="text0">WINDOW 8 APPLICATION DEVELOPMENT CONSULTING</span><br>
+                            Your work is Nicole is unfreakingbelievable.<br><br>
+                            <span class="text-00 medium">- Chief Marketing Officer, Building Intelligence, New York-Based Security company</span>
+                        </div>
+                            <div class="item">
+                            <span class="text0">BUSINESS INTELLIGENCE</span><br>
+                            Thank you for good work, especially with the tight turnaround and additional data refreshes today.<br><br>
+                            <span class="text-00 medium">- Microsoft Consulting Services Marketing and Operations Lead</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">BUSINESS INTELLIGENCE</span><br>
+                            This report is dramatically going to increase the quality of the target cascade for all of the Scorecards. This is the first time in the whole Scorecard history that we are having this detailed view. THANK YOU Steve!!!<br><br>
+                            <span class="text-00 medium">- Microsoft Consulting Services Marketing and Operations Director</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">BUSINESS INTELLIGENCE</span><br>
+                            We've never had business scorecard target audits with this level of depth and richness at this point in the process. We've never been able to get updates to the reports on the timeline planned for these. I'm pretty stoked about the results.<br><br>
+                            <span class="text-00 medium">- Microsoft Consulting Services Marketing and Operations Director</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">BUSINESS INTELLIGENCE</span><br>
+                            The client's feedback on the workshop was awesome!<br><br>
+                            <span class="text-00 medium">- Penny Rosen, Business Development Manager, N3</span>
+                        </div>
+                        <div class="item">
+                            <span class="text0">STUDENT QUOTE</span><br>
+                            I can't begin to tell you how much I appreciate the tips and knowledge you gave us. I thought the tips you gave us regarding interview strategies were very useful. The key strategies such as having confidence, taking notes during the interview, taking criticism well...etc. were extremely helpful, especially to people like me who has never had a job interview before. (I was telling myself "This is what you're going to do, remember this!") You brought in points that I have never heard from any other professional, and I know they will be very useful in the coming years as I start pursuing a career.<br><br>
+                            <span class="text-00 medium">- Lin-Chiao Huang</span>
+                        </div>
+                    </div>
                 </div>
             </div>
             <!-- page content -->

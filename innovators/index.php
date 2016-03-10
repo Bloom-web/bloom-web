@@ -29,7 +29,7 @@
                                 <div class="item">
                                     <img src="/images/headshot-bryan.jpg" class="responsive">
                                     <p class="text0 regular">
-                                        Bryan Zembureski<br>
+                                        Bryan Zembruski<br>
                                         <span class="text-00">
                                             Consultant
                                         </span>

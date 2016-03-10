@@ -30,7 +30,7 @@
                             <p class="text regular lumps">
                                 Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers innovative solutions and strategic services to security, marketing and sales executives to support enterprise modernization and transformation. 
                                 <br><br>
-                                The Bloom Modern Solution Suite&trade; aggregates data from IP-enabled security objects (IoT), social apps, web apps, modern apps, and disparate databases into an Azure cloud hub that can display executive-level business insight seamlessly across Windows and cross-platform devices. Bloom’s innovative solutions for follow-you-anywhere computing experiences across phone, tablet, PC, XBox, wearable, and HoloLens are rapidly changing the way enterprise does business in a modern, mobile workplace.
+                                The Bloom Modern Solution Suite&trade; aggregates data from IP-enabled security objects (IoT), social apps, web apps, modern apps, and disparate databases into an Azure cloud hub that can display executive-level business insight seamlessly across Windows and cross-platform devices. Bloom’s innovative solutions for follow-you-anywhere computing experiences across phone, tablet, PC, Xbox, wearable, and HoloLens are rapidly changing the way enterprise does business in a modern, mobile workplace.
                                 <br><br>
                                 Bloom’s complimentary strategic services span business management consulting, enterprise risk transformation, performance improvement, big-data analytics, and change management. 
                                 <br><br>

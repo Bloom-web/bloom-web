@@ -120,7 +120,7 @@
                                     <div class="col-md-6">
                                         <p class="text0000 light">IoT big data is here</p>
                                         <p class="text0 regular">
-                                            The Internet of Things will grow to 26 billion units in 2020 according to Gartner, Inc. Due to decreasing costs, connectivity will become a standard feature of just about everything—leading to the need for big data cloud storage and data analytics. Ask sales executives about Bloom's current IoT project to analyze data from over 25 thousand physical security devices worldwide and surface it in it's award winning Windows 10 Azure-driven app.
+                                            The Internet of Things will grow to 26 billion units in 2020 according to Gartner, Inc. Due to decreasing costs, connectivity will become a standard feature of just about everything—leading to the need for big data cloud storage and data analytics. Ask sales executives about Bloom's current IoT project to analyze data from over 25 thousand physical security devices worldwide and surface it in its award winning Windows 10 Azure-driven app.
                                         </p>
                                     </div>
                                     <div class="col-md-6 text-center">

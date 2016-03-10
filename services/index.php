@@ -81,7 +81,7 @@
                             <div class="col-sm-10">
                                 <p class="text0000 light">Windows application development</p>
                                 <p class="text0 regular">
-                                    Bloom is one of the leading Microsoft Windows 10 Application developers creating follow-you-anywhere experiences across Windows-based devices. Bloom can also create Xamarin cross-platform projects that deliver a seamless application experience across IoS and Android-based devices.
+                                    Bloom is one of the leading Microsoft Windows 10 Application developers creating follow-you-anywhere experiences across Windows-based devices. Bloom can also create Xamarin cross-platform projects that deliver a seamless application experience across iOS and Android-based devices.
                                 </p>
                             </div>
                         </div>
@@ -93,7 +93,7 @@
                             <div class="col-sm-10">
                                 <p class="text0000 light">User experience and interface design</p>
                                 <p class="text0 regular">
-                                    It's easy to get so pumped up about technology and the function of software, that we forget the end user. The reality is that although we work hard to make the applications we build work, the user just expects them to work. After that, they want their experience to be intuitive and seamless across devices. Bloom's world class experience architects work tirelessly to ensure the UI (refers to the visuals and controls of your application) and the user experience (encompasses both the UI and the behavior of the application related to the UI as well as the "feeling" the user gets from the app) is awesome.
+                                    It's easy to get so pumped up about technology and the function of software that the end user is forgotten. The reality is that although we work hard to make the applications we build work, the user just expects them to work. After that, they want their experience to be effortless and seamless across devices. Bloom's world class experience architects work tirelessly to ensure the UI (refers to the visuals and controls of your application) and the user experience (encompasses both the UI and the behavior of the application related to the UI as well as the "feeling" the user gets from the app) is awesome.
                                 </p>
                             </div>
                         </div>
@@ -111,7 +111,7 @@
                             <div class="col-sm-10">
                                 <p class="text0000 light">Business performance improvement</p>
                                 <p class="text0 regular">
-                                    Just as a car needs a tune-up every once in a while to perform at its best, business practices also need to be taken apart and tweaked in order to stay in top shape. The Consultants at Bloom have the experience and tools to turn your area of business into a top performer.
+                                    Just as a car needs a tune-up every once in a while to perform at its best, business practices also need to be taken apart and tweaked in order to stay in top shape. Consultants at Bloom have the experience and tools to turn your area of business into a top performer.
                                 </p>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                             <div class="col-sm-10">
                                 <p class="text0000 light">Business intelligence</p>
                                 <p class="text0 regular">
-                                    Bloom helps clients find ways to turn everyday information into actionable insights by embedding analytics across the organization. Bloom can create custom PowerBi or App dashboards, Excel Reports, Scorecards, and perform complex data integration.
+                                    Bloom helps clients find ways to turn everyday information into actionable insights by embedding analytics across the organization. Bloom can create custom Power BI or app dashboards, Excel reports, scorecards, and perform complex data integration.
                                 </p>
                             </div>
                         </div>

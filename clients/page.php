@@ -224,7 +224,17 @@
                                 </div>
                             </div>
                         </div>
-
+                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+                            <div class="square grayback">
+                                <div class="square-inside">
+                                    <div class="tblock">
+                                        <div class="tcell">
+                                            <img src="/images/logo-n3.png" class="client-logo">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                     </div> <!-- / row -->
                 </div><!-- / container -->

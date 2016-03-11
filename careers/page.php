@@ -14,7 +14,7 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header center x-large stay image-background no-padding rel" style="background-image: url('/images/background-careers.jpg');">
+            <header class="page-header x-large stay image-background no-padding rel" style="background-image: url('/images/background-careers.jpg');">
 
                 <div class="row">
                     <div class="header-blurb blurb-services text00 light col-md-4">

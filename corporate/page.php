@@ -14,7 +14,7 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header center x-large image-background no-padding rel" style="background-image: url('/images/background-corporate.jpg');">
+            <header class="page-header xlarge image-background no-padding rel" style="background-image: url('/images/background-corporate.jpg');">
                 <div class="row">
                     <div class="header-blurb blurb-corp xl regular col-md-6 caps">
                         innovative solutions and strategic consulting for executives driving transformation across the fabric of the modern enterprise
@@ -23,7 +23,7 @@
             </header>
             <!-- page content -->
             
-            <section class="pt-medium pb-medium light-color firstblock">
+            <section class="pt-medium pb-medium light-color">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12"><a name="about" class="anchor"></a>

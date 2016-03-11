@@ -24,7 +24,7 @@
                 </div>
             </header>
             <!-- video -->
-			<section class="pad-top-75" style="background-color:#33587b;">
+			<section class="video-header x-large stay">
 				<video class="html5-fullscreen video-medp" poster="/images/solutions-loop.jpg" autoplay loop>
 
 					<!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
@@ -44,7 +44,7 @@
 
             <!-- page content -->
             
-            <section class="pt-medium light-color firstblock">
+            <section class="pt-medium light-color">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7"><a name="security" class="anchor"></a>

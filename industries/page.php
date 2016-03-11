@@ -14,12 +14,12 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header center x-large image-background no-padding rel" style="background-image: url('/images/background-industries.jpg');">
+            <header class="page-header xlarge image-background no-padding rel" style="background-image: url('/images/background-industries.jpg');">
             </header>
 
             <!-- page content -->
             
-            <section class="pt-medium light-color firstblock">
+            <section class="pt-medium light-color">
                 <div class="container">
                     <div class="row"><a name="security" class="anchor"></a>
                             <div class="col-xs-3 col-xxs-12 text-center">

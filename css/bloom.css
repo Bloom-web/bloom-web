@@ -441,11 +441,14 @@ img .slider-banner-half {
     .blurb-home {
         top: 124px;
     }
+    .blurb-corp {
+        top: 200px;
+    }
     .blurb-solutions {
         top: 320px;
     }
     .blurb-clients {
-        top: 300px;
+        top: 200px;
     }
     .header-shade2 {
         height:1px;
@@ -490,7 +493,7 @@ img .slider-banner-half {
     }
     .blurb-clients {
         position: relative;
-        top: 100px;
+        top: 0px;
     }
     .slider-home {
         position: relative;
@@ -650,6 +653,22 @@ span.has-border:hover:after {
         margin-top: 0px;
     }
 }
+/* New large video header to set margins like the page header */
+
+.video-header.x-large.stay {
+  margin-top: 100px;
+}
+@media (min-width: 768px) and (max-width:1023px) {
+  .video-header.x-large.stay {
+    margin-top: 25px;
+  }
+}
+@media (min-width: 1024px) {
+  .video-header.x-large.stay {
+    margin-top: 0px;
+  }
+}
+
 /* Modifying the neko header behavior of collapsing at mobile size */
 
 .page-header.x-large.stay {

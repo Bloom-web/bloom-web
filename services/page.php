@@ -23,7 +23,7 @@
                 </div>
             </header>
             <!-- video -->
-			<section>
+			<section class="video-header x-large stay">
 				<video class="html5-fullscreen video-medp" poster="/images/services-loop.jpg" autoplay loop>
 					<!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
 					<source type="video/mp4" src="/images/services-loop.mp4" />

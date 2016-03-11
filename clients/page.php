@@ -14,12 +14,12 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header center x-large image-background no-padding rel" style="background-image: url('/images/background-clients.jpg');">
+            <header class="page-header x-large stay image-background no-padding rel" style="background-image: url('/images/background-clients.jpg');">
                 <div class="header-shade2"></div>
             </header>
             <div class="row">
                 <a name="saying" class="anchor"></a>
-                <div class="header-blurb blurb-clients text0 regular col-md-6">
+                <div class="header-blurb blurb-clients text0 regular col-sm-6">
                     <div class="owl-carousel neko-data-owl" data-neko_items="1" data-neko_singleitem="true" data-neko_pagination="true" data-neko_navigation="false" data-neko_autoPlay="10000" data-neko_transitionstyle="backSlide" >
 
                         <div class="item">
@@ -104,7 +104,7 @@
             </div>
             <!-- page content -->
             
-            <section class="pt-medium pb-small light-color firstblock">
+            <section class="pt-medium pb-small light-color">
                 <div class="container"><a name="stories" class="anchor"></a>
                     <div class="text0000 light">Success stories</div>
                 </div>

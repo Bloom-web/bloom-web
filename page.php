@@ -14,7 +14,7 @@
                     <!-- content-->
 
                     <main id="content">
-                        <header class="page-header center x-large image-background no-padding rel" style="background-image: url('/images/background-home.jpg');">
+                        <header class="page-header x-large stay image-background no-padding rel" style="background-image: url('/images/background-home.jpg');">
                             <div class="row">
                                 <div class="header-blurb blurb-home text0 regular col-md-7">
                                     "Bloom innovation begins with a single, customer problem that causes pain, followed by a desire to change that outcome."
@@ -28,13 +28,13 @@
                                             <div class="flush">
                                                 <div class="row">
                                                     <div class="col-md-1"></div>
-                                                    <div class="col-md-5">
+                                                    <div class="col-md-5 text-center">
                                                         <div class="embed-responsive-16by9">
                                                             <iframe class="embed-responsive-item slider-video" src="https://player.vimeo.com/video/157542772?title=0&badge=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                                                         </div>
                                                     </div>
                                                     <div class="col-md-5">
-                                                        <div class="tcell slider-banner text-left text00 white">
+                                                        <div class="tcell slider-banner text00 white">
                                                                 We are all about better experiences. Watch how in our custom, animated video.
                                                         </div>
                                                     </div>
@@ -47,15 +47,15 @@
                                         <div class="image-background" style="background-image: url('/images/background-iscwest.jpg'); background-position: 0% 0%;">
                                             <div class="row">
                                                 <div class="col-md-1"></div>
-                                                <div class="col-md-6 image-background" style="background-image: url('/images/background-iscwest-blur.jpg'); background-position: 10% 0%;">
-                                                    <div class="col-sm-4 iblock-mono">
+                                                <div class="col-md-6 image-background" style="background-image: url('/images/background-iscwest-blur.jpg'); background-position: 0% 0%;">
+                                                    <div class="col-xs-4 iblock-mono">
                                                         <div class="tcell">
-                                                            <img src="/images/logo-iscwest.png" class="slider-banner" style="padding:30px;">
+                                                            <img src="/images/logo-iscwest.png" class="slider-banner-half">
                                                         </div>
                                                     </div>
-                                                    <div class="col-sm-8 iblock-mono">
+                                                    <div class="col-xs-8 iblock-mono">
                                                         <div class="tblock">
-                                                        <div class="tcell slider-banner text-left dark text0000 light">
+                                                        <div class="tcell slider-banner-half text-left dark text000 light">
                                                                 We will be exhibiting our solutions this April 5-8 in Las Vegas, Nevada
                                                         </div>
                                                         </div>
@@ -63,7 +63,7 @@
                                                 </div>
                                                 <div class="col-md-5">
                                                     <div class="tblock">
-                                                    <div class="tcell slider-banner">
+                                                    <div class="tcell slider-banner-half">
                                                         <a href="mailto:information@bloomconsultinggroup.com?subject=Visit Bloom at ISC West" class="btn default text00">Join us at ISC West</a>
                                                     </div>
                                                     </div>
@@ -77,7 +77,7 @@
                             <!-- slider home -->
                         </header>
                         <!-- page content -->
-                        <section class="pt-medium pb-medium light-color grayback firstblock">
+                        <section class="pt-medium pb-medium light-color grayback">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-6">

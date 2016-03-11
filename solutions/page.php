@@ -1,15 +1,16 @@
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/doctype.php");?>
+<?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
+<?php include($base . "/part-doctype.php");?>
     <title>Bloom - Solutions</title>
     <meta name="description" content="">
     <meta name="author" content="Bloom">
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/styles.php");?>
+<?php include($base . "/part-styles.php");?>
 
-<body class="activate-appear-animation header-6">
+<body class="activate-appear-animation header-6 pre-header-on-sm">
     <!-- global-wrapper -->
     <div id="global-wrapper">
         
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/navigation.php");?>
+<?php include($base . "/part-navigation.php");?>
         <!-- content-->
 
         <main id="content">
@@ -121,11 +122,11 @@
         </main>
         <!-- / content -->
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php");?>
+        <?php include($base . "/part-footer.php");?>
     </div>
     <!-- global wrapper -->
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/scripts.php");?>
+<?php include($base . "/part-scripts.php");?>
 
     <script type="text/javascript">
         $(document).ready(function() {

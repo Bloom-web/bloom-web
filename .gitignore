@@ -1,2 +1,4 @@
 # Ignore monaco settings
 .settings/
+._.DS_Store
+.DS_Store

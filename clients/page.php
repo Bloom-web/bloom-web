@@ -20,7 +20,7 @@
             <div class="row">
                 <a name="saying" class="anchor"></a>
                 <div class="header-blurb blurb-clients text0 regular col-sm-6">
-                    <div class="owl-carousel neko-data-owl" data-neko_items="1" data-neko_singleitem="true" data-neko_pagination="true" data-neko_navigation="false" data-neko_autoPlay="10000" data-neko_transitionstyle="backSlide" >
+                    <div class="owl-carousel neko-data-owl" data-neko_items="1" data-neko_singleitem="true" data-neko_pagination="true" data-neko_navigation="false" data-neko_autoPlay="10000" data-neko_transitionstyle="backSlide">
 
                         <div class="item">
                             <span class="text0">BUSINESS CONSULTING</span><br>

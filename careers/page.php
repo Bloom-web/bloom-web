@@ -18,11 +18,19 @@
 
                 <div class="row">
                     <div class="header-blurb blurb-services text00 light col-md-4">
-						<div class="text0">Employee Testimonials</div>
-                        "One of the best things about working for Bloom is that they encourage creativity and innovation, so you can put your own spin on things while constantly being challenged to do better"
-						<br><br>
-
-						- Cassie Fischer, Project Manager
+                        <div class="text0 pad-bottom-20">Employee Testimonials</div>
+                        <div class="owl-carousel neko-data-owl" data-neko_items="1" data-neko_singleitem="true" data-neko_pagination="false" data-neko_navigation="false" data-neko_autoPlay="10000" data-neko_transitionstyle="backSlide">
+                            <div class="item">
+                            "One of the best things about working for Bloom is that they encourage creativity and innovation, so you can put your own spin on things while constantly being challenged to do better"
+    						<span class="text-00 medium"><br><br>
+    						- Cassie Fischer, Project Manager</span>
+                            </div>
+                            <div class="item">
+                            "Bloom is a highly collaborative work environment. Each deliverable has the input of multiple team members, working together to create our signature gold standard products"
+                            <span class="text-00 medium"><br><br>
+                            - Sukhie Patel, Project Manager</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </header>

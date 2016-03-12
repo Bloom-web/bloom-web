@@ -35,7 +35,7 @@
                 </div>
             </section>
 
-            <section class="pt-small pb-medium light-color">
+            <section class="pt-small pb-medium light-color" data-nekoanim="fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
@@ -50,7 +50,7 @@
                     </div>
                 </div>
             </section>
-            <section class="pb-medium light-color">
+            <section class="pb-medium light-color" data-nekoanim="fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
@@ -65,7 +65,7 @@
                     </div>
                 </div>
             </section>
-            <section class="pb-medium light-color">
+            <section class="pb-medium light-color" data-nekoanim="fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">

@@ -44,7 +44,7 @@
             <section class="pt-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="consulting" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">trending_up</i>
@@ -56,7 +56,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="analytics" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">wifi_tethering</i>
@@ -74,7 +74,7 @@
             <section class="pt-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="appdev" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">view_module</i>
@@ -86,7 +86,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="experience" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">tag_faces</i>
@@ -104,7 +104,7 @@
             <section class="pt-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="performance" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">check_circle</i>
@@ -116,7 +116,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="holographic" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">3d_rotation</i>
@@ -135,7 +135,7 @@
             <section class="pt-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="intelligence" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">insert_chart</i>
@@ -147,7 +147,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="cloud" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">cloud_queue</i>
@@ -165,7 +165,7 @@
             <section class="pt-small pb-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="outsourcing" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">assignment</i>
@@ -177,7 +177,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="transformation" class="anchor"></a>
                             <div class="col-sm-2 text-center">
                                 <i class="material-icons icon0000">stars</i>

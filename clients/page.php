@@ -112,7 +112,7 @@
             <section class="pt-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <div class="col-xs-2 col-xxs-12 text-center">
                                 <i class="material-icons icon000">view_module</i>
                             </div>
@@ -123,7 +123,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <div class="col-xs-2 col-xxs-12 text-center">
                                 <i class="material-icons icon000">trending_up</i>
                             </div>
@@ -141,7 +141,7 @@
             <section class="pt-small pb-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <div class="col-xs-2 col-xxs-12 text-center">
                                 <i class="material-icons icon000">check_circle</i>
                             </div>
@@ -152,7 +152,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <div class="col-xs-2 col-xxs-12 text-center">
                                 <i class="material-icons icon000">stars</i>
                             </div>
@@ -169,7 +169,7 @@
             <section class="pt-small pb-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12" data-nekoanim="fadeInLeft">
                             <div class="square grayback">
                                 <div class="square-inside">
                                     <div class="tblock">
@@ -180,7 +180,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12" data-nekoanim="fadeInUp">
                             <div class="square grayback">
                                 <div class="square-inside">
                                     <div class="tblock">
@@ -191,7 +191,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12" data-nekoanim="fadeInRight">
                             <div class="square grayback">
                                 <div class="square-inside">
                                     <div class="tblock">
@@ -202,7 +202,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12" data-nekoanim="fadeInLeft">
                             <div class="square grayback">
                                 <div class="square-inside">
                                     <div class="tblock">
@@ -213,7 +213,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12" data-nekoanim="fadeInUp">
                             <div class="square grayback">
                                 <div class="square-inside">
                                     <div class="tblock">
@@ -224,7 +224,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12" data-nekoanim="fadeInRight">
                             <div class="square grayback">
                                 <div class="square-inside">
                                     <div class="tblock">

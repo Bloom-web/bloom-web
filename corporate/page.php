@@ -23,7 +23,7 @@
             </header>
             <!-- page content -->
             
-            <section class="pt-medium pb-medium light-color">
+            <section class="pt-medium pb-medium light-color" data-nekoanim="fadeInUp" data-nekodelay="50">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12"><a name="about" class="anchor"></a>
@@ -46,7 +46,7 @@
             <!-- / page content -->
             <!-- page content -->
             
-            <section class="pt-small pb-small light-color">
+            <section class="pt-small pb-small light-color" data-nekoanim="fadeInUp" data-nekodelay="50">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12"><a name="global" class="anchor"></a>
@@ -97,7 +97,7 @@
             </section>
             <!-- / page content -->
             
-            <section class="pt-medium pb-small light-color">
+            <section class="pt-medium pb-small light-color" data-nekoanim="fadeInUp" data-nekodelay="50">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6"><a name="culture" class="anchor"></a>
@@ -139,17 +139,17 @@
                     <div class="row">
                         <div class="col-md-12"><a name="news" class="anchor"></a>
                             <p class="text000 light">Latest news <a href="/bloom.rss" target="_blank"><i class="material-icons icon">rss_feed</i></a></p>
-                            <p class="text regular">
+                            <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="10">
                                 <a href="http://www.securityinfowatch.com/article/12174810/bloom-consulting-delivers-bleeding-edge-tech-to-security-execs" target="_blank" class="text00">
                                 Bloom Consulting delivers 'bleeding-edge' tech to security execs</a><br>
                                 Joel Griffin - Security Info. Watch
                             </p>
-                            <p class="text regular">
+                            <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="500">
                                 <a href="http://www.securitysystemsnews.com/article/bloom-hones-focus-security" target="_blank" class="text00">
                                 Bloom hones focus on security</a><br>
                                 Martha Entwistle - Security Systems News
                             </p>
-                            <p class="text regular">
+                            <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="1000">
                                 <a href="http://www.bsminfo.com/doc/ways-it-integrators-can-help-security-leaders-effectively-manage-enterprise-operations-0001" target="_blank" class="text00">
                                 7 Ways IT Integrators Can Help Security Leaders Effectively Manage Enterprise Operations</a><br>
                                 Business Solutions Magazine

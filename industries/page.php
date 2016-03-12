@@ -22,10 +22,10 @@
             <section class="pt-medium light-color">
                 <div class="container">
                     <div class="row"><a name="security" class="anchor"></a>
-                            <div class="col-xs-3 col-xxs-12 text-center">
+                            <div class="col-xs-3 col-xxs-12 text-center" data-nekoanim="fadeInLeft">
                                 <img src="/images/logo-bloom-security-color-gray.png" class="img-responsive client-logo">
                             </div>
-                            <div class="col-xs-9 col-xxs-12">
+                            <div class="col-xs-9 col-xxs-12" data-nekoanim="fadeInRight">
                                 <p class="text0000 light">Private & Enterprise Security</p>
                                 <p class="text0 regular">
                                     The private security industry is one of Bloom's primary focus areas for solutions and services. Bloom has deep experience working with organizations that provide a wide range of services, including guard services, alarm monitoring, investigation, armored transport, systems integration and management, security consulting, and information technology security. Bloom works mostly with commercial and critical infrastructure organizations to modernize the business of security to better protect employees and property, conduct investigations, predict threats, and respond to incidents.
@@ -39,14 +39,14 @@
             <section class="pt-medium light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="technology" class="anchor"></a>
                             <p class="text000 light">High Tech</p>
                             <p class="text regular">
                                 Bloom consultants have been working for over twenty years in high tech with executives that are responsible marketing and selling the most advanced technology direct and indirect through complex partner channels. Bloom is a true partner with marketing, sales, and channel executives in high tech to solve complex global business challenges and realize business transformation.
                             </p>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="analytics" class="anchor"></a>
                             <p class="text000 light">Oil & Gas</p>
                             <p class="text regular">
@@ -59,14 +59,14 @@
             <section class="pt-small light-color">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="entertainment" class="anchor"></a>
                             <p class="text000 light">Entertainment</p>
                             <p class="text regular">
                                 Changing technology and consumer engagement habits present some of the biggest challenges for media and entertainment today. Consumers switch between multiple devices throughout the day, dictating where, when and how they will watch movies, TV shows, listen to music, or catch up on the day's events. Bloom can help Entertainment companies reach their audiences more effectively through follow-you-anywhere device experiences.
                             </p>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
                             <a name="other" class="anchor"></a>
                             <p class="text000 light">Other Industries</p>
                             <p class="text regular">
@@ -77,7 +77,7 @@
                 </div><!-- / container -->
             </section>
             
-            <section class="pt-medium">
+            <section class="pt-medium" data-nekoanim="fadeInUp">
                     <div class="row">
                         <div class="col-sm-4 image-background blockphotos" style="background-image: url(/images/industry-video.jpg);">
                         </div>

@@ -20,7 +20,7 @@
             <section class="">
                 <div class="">
                     <div class="row">
-                        <div class="col-sm-6 col-sm-push-6 pad-top-50">
+                        <div class="col-sm-6 col-sm-push-6 pad-top-50" data-nekoanim="fadeInRight">
                             <div class="text00">Contact us</div>
                             <br>
                             1-425-219-3518<br>
@@ -35,7 +35,7 @@
                             <br>
                             <a href="https://s3-us-west-2.amazonaws.com/bcg-site-assets/Bloom_E_Brochure.pdf">Download a Bloom Consulting Group Brochure</a>
                         </div>
-                        <div class="col-sm-6 col-sm-pull-6">
+                        <div class="col-sm-6 col-sm-pull-6" data-nekoanim="fadeInLeft">
                             <div><iframe width="100%" height="400" frameborder="0" scrolling="no" seamless="seamless" src="http://www.bing.com/maps/embed/viewer.aspx?v=3&amp;cp=47.675770~-122.120026&amp;lvl=16&amp;w=500&amp;h=400&amp;sty=r&amp;typ=d&amp;pp=~~47.675770~-122.120026&amp;ps=&amp;dir=0&amp;mkt=en-us&amp;src=SHELL&amp;form=BMEMJS"></iframe></div>
                         </div>
 

@@ -80,13 +80,13 @@
                         <section class="pt-medium pb-medium light-color grayback">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" data-nekoanim="fadeInLeft" data-nekodelay="50">
                                         <p class="text0000 light">Aggregating data and apps</p>
                                         <p class="text0 regular">
                                             Are employees suffering from information and app overload? Bloom aggregates enterprise web apps, LOB apps, social apps, and business intelligence into a single pane of glass.
                                         </p>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" data-nekoanim="fadeInRight" data-nekodelay="50">
                                         <img src="/images/app-overload.png" class="responsive">
                                     </div>
 
@@ -99,13 +99,13 @@
                         <section class="pt-medium pb-medium light-color">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" data-nekoanim="fadeInLeft" data-nekodelay="50">
                                         <p class="text0000 light">Holographic computing</p>
                                         <p class="text0 regular">
                                             Bloom is a top Microsoft Windows Universal App development partner. With the release of the Hololens development kit, Bloom will be innovating once again to reimagine how security professionals collaborate and communicate in a mobile world.
                                         </p>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" data-nekoanim="fadeInRight" data-nekodelay="50">
                                         <img src="/images/hololens.jpg" class="responsive">
                                     </div>
 
@@ -118,13 +118,13 @@
                         <section class="pt-medium pb-medium light-color grayback">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" data-nekoanim="fadeInLeft" data-nekodelay="50">
                                         <p class="text0000 light">IoT big data is here</p>
                                         <p class="text0 regular">
                                             The Internet of Things will grow to 26 billion units in 2020 according to Gartner, Inc. Due to decreasing costs, connectivity will become a standard feature of just about everything—leading to the need for big data cloud storage and data analytics. Ask sales executives about Bloom's current IoT project to analyze data from over 25 thousand physical security devices worldwide and surface it in its award winning Windows 10 Azure-driven app.
                                         </p>
                                     </div>
-                                    <div class="col-md-6 text-center">
+                                    <div class="col-md-6 text-center" data-nekoanim="fadeInRight" data-nekodelay="50">
                                         <img src="/images/internetofthings.png" class="responsive">
                                     </div>
 

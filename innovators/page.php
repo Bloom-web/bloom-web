@@ -18,7 +18,7 @@
             </header>
             <!-- page content -->
             
-            <section class="pt-medium pb-small light-color">
+            <section class="pt-medium pb-small light-color" data-nekoanim="fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12"><a name="experts" class="anchor"></a>
@@ -128,7 +128,7 @@
                 <!-- container -->
             </section>
             
-            <section class="pt-medium light-color">
+            <section class="pt-medium light-color" data-nekoanim="fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12"><a name="articles" class="anchor"></a>
@@ -154,7 +154,7 @@
             </section>
 
             
-            <section class="pt-medium pb-medium light-color">
+            <section class="pt-medium pb-medium light-color" data-nekoanim="fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7 iblock-mono tcell text-left"><a name="awards" class="anchor"></a>

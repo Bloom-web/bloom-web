@@ -34,8 +34,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="col-md-5">
-                                                        <div class="tcell slider-banner text00 white">
-                                                                We are all about better experiences. Watch how in our custom, animated video.
+                                                        <div class="tcell slider-banner text0000 white">
+                                                                Bloom in 100 seconds
                                                         </div>
                                                     </div>
                                                     <div class="col-md-1"></div>

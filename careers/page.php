@@ -37,7 +37,7 @@
             <!-- page content -->
             <section class="pt-medium light-color">
                 <div class="container">
-                    <div class="row text0">
+                    <div class="row text0"><a name="positions" class="anchor"></a>
 						<p class="text0000 light">Open positions</p>
                     </div>
                 </div>

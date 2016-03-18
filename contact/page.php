@@ -23,7 +23,7 @@
                         <div class="col-sm-6 col-sm-push-6 pad-top-50" data-nekoanim="fadeInRight">
                             <div class="text00">Contact us</div>
                             <br>
-                            1-425-219-3518<br>
+                            1-425-495-9151<br>
                             information@bloomconsultinggroup.com<br>
                             <br>
                             8060 - 165th Ave. NE, Suite 200, Redmond, WA 98052<br>

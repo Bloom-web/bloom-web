@@ -13,6 +13,12 @@ body {
     display: none;
     visibility: hidden;
 }
+.hid {
+    display: none;
+}
+.shown {
+    display: block;
+}
 .selected {
     -webkit-box-shadow: #000 0px 0px 40px 1px inset;
     -moz-box-shadow: #000 0px 0px 40px 1px inset;
@@ -241,6 +247,9 @@ body {
 }
 .caps {
     text-transform: uppercase;
+}
+a .pad {
+    padding:3%;
 }
 footer a {
     color: rgba(255, 255, 255, 1);

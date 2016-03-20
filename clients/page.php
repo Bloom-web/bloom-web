@@ -119,7 +119,7 @@
                             <div class="col-xs-10 col-xxs-12">
                                 <p class="text000 light">Building Intelligence Apportal</p>
                                 <p class="text0 regular">
-                                    The client wanted a mobile app experience for their channel partners to deliver marketing material and company information in a usable and eye-catching manner. They wanted to be able to use the Apportal to consolidate all company information in one place and keep up to date by viewing a dashboard rather than sending emails.
+                                    The client wanted a mobile app experience for their channel partners to deliver marketing material and company information in a usable and eye-catching manner. They wanted to be able to use the Apportal to consolidate all company information in one place and keep up to date by viewing a dashboard rather than sending emails. <a href="/clients/Bloom_Success_Story_Building_Intelligence_Apportal.pdf" target="_blank" class="text-00 medium">read more (pdf)</a>
                                 </p>
                             </div>
                         </div>
@@ -130,7 +130,7 @@
                             <div class="col-xs-10 col-xxs-12">
                                 <p class="text000 light">Landing of Enterprise Priorities</p>
                                 <p class="text0 regular">
-                                    The client’s top leadership finalizes the company-wise priorities for the next fiscal year. It ensures a common understanding of company priorities, along with actions required to drive priorities worldwide and agreement on next steps. The client wanted to plan and execute successful landing of enterprise priorities, which were needed to land worldwide in over 100 countries. Feedback from the previous year had to be incorporated in the process.
+                                    The client’s top leadership finalizes the company-wise priorities for the next fiscal year. It ensures a common understanding of company priorities, along with actions required to drive priorities worldwide and agreement on next steps. The client wanted to plan and execute successful landing of enterprise priorities, which were needed to land worldwide in over 100 countries. Feedback from the previous year had to be incorporated in the process. <a href="/clients/Bloom_Success_Story_Enterprise_Priorities.pdf" target="_blank" class="text-00 medium">read more (pdf)</a>
                                 </p>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                 </div><!-- / container -->
             </section>
 
-            <section class="pt-small pb-medium light-color">
+            <section class="pt-small pb-small light-color">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6" data-nekoanim="fadeInUp">
@@ -148,7 +148,7 @@
                             <div class="col-xs-10 col-xxs-12">
                                 <p class="text000 light">Segment Productivity</p>
                                 <p class="text0 regular">
-                                    The client was looking to build a data model to show a relationship between influenced revenue and head count (i.e., the number of employees within a team). The goal was to show not just revenue influence, but actual profits. For example, a team that influenced $10m of revenue, but it might be comprised of $20m of employees, not turning a profit.
+                                    The client was looking to build a data model to show a relationship between influenced revenue and head count (i.e., the number of employees within a team). The goal was to show not just revenue influence, but actual profits. For example, a team that influenced $10m of revenue, but it might be comprised of $20m of employees, not turning a profit. <a href="/clients/Bloom_Success_Story_Segment_Productivity_1.pdf" target="_blank" class="text-00 medium">read more (pdf)</a>
                                 </p>
                             </div>
                         </div>
@@ -159,13 +159,176 @@
                             <div class="col-xs-10 col-xxs-12">
                                 <p class="text000 light">Worldwide Performance</p>
                                 <p class="text0 regular">
-                                    The client was looking to build a centralized platform to capture Account Manager (AM) performance across all countries. The objective was to enable the managers to evaluate their individual AMs based on role and duration of their role to identify areas that needed focus.
+                                    The client was looking to build a centralized platform to capture Account Manager (AM) performance across all countries. The objective was to enable the managers to evaluate their individual AMs based on role and duration of their role to identify areas that needed focus. <a href="/clients/Bloom_Success_Story_WW_Performance.pdf" target="_blank" class="text-00 medium">read more (pdf)</a>
                                 </p>
                             </div>
                         </div>
                     </div> <!-- / row -->
                 </div><!-- / container -->
             </section>
+            <section class="light-color">
+                <div class="showhide noselect text-center scrunch">
+                    <a><span class="text-0">show more<br>success stories<br></span><i class="material-icons icon0000">expand_more</i></a>
+                </div>
+                <div class="hid">
+                        <div class="container">
+
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">trending_up</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Account Transition Program</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Account_Transition_Program.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">view_module</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">AS Solution Apportal</span><br>
+                                        <a href="/clients/Bloom_Success_Story_AS_Solution_Apportal.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Cloud Program</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Cloud_Program.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">view_module</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Enhanced Patrol Experience Apportal</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Enhanced_Patrol_Experience_Apportal.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Partner Performance</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Partner_Performance_1.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Partner Performance 2</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Partner_Performance_2.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Partner Performance 3</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Partner_Performance_3.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Partner Activation Program</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Partner_Activation_Program.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">view_module</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Partner Executive Briefing Apportal</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Partner_Executive_Briefing_Apportal.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Scorecard Audits</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Scorecard Audits.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Segment Productivity</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Segment_Productivity_1.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">insert_chart</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Segment Productivity 2</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Segment_Productivity_2.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">view_module</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Sparkhound Apportal</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Sparkhound_Apportal.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">assignment</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">Tele Program Development</span><br>
+                                        <a href="/clients/Bloom_Success_Story_Tele_Program_Development.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            <div class="row pt-small pb-small">
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000">assignment</i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light">WW Tele Program</span><br>
+                                        <a href="/clients/Bloom_Success_Story_WW_Tele_Program.pdf" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+                            </div> <!-- / row -->
+                            
+                        </div><!-- / container -->
+                </div><!-- / hidden portion -->
+            </section><!-- / showhide section -->
+            
             <section class="pt-small pb-medium light-color">
                 <div class="container">
                     <div class="row">
@@ -254,6 +417,15 @@
             $('#page-clients').addClass('active');
         });
     </script>
+
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $(".showhide").on("click", function() {
+          $(this).next(".hid").fadeToggle();
+        });
+    });
+    </script>
+    
 </body>
 
 </html>

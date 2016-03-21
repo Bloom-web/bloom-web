@@ -65,13 +65,13 @@
                                 		<div class="quote-wrapper">
 Nicole is a senior executive with nearly 20 years of experience growing and managing medium to large businesses in high-tech, manufacturing, and services industries. Nicole has a degree in Molecular Biology from Tulane University and an MBA from Rice University.
 <br><br>
-She is a Senior Consultant on Bloom Consulting Group’s team, helping global clients with landing new strategies, targets, and systems. Prior to Bloom, Nicole was a Vice President at GardaWorld, a private security and risk consulting firm (formerly Vance and Kroll Security) where she led business development, government contracts, and marketing.
+She is helping global clients with landing new strategies, targets, and systems. Prior to Bloom, Nicole was a Vice President at GardaWorld, a private security and risk consulting firm (formerly Vance and Kroll Security) where she led business development, government contracts, and marketing.
 <br><br>
 Prior to GardaWorld, Nicole led global channel marketing and alliances for a data networking and security manufacturer transitioning from direct sales to a high-touch channel model. She overhauled their partner program and expanded the solution and reseller network. She also crafted go-to-market strategies, managed global sales operations plans, and created joint solutions with IBM, Siemens, Deloitte, and SAP. She traveled and spoke extensively across Asia, Europe, and the Americas.
 <br><br>
 Earlier in her career, Nicole managed process reengineering teams for a voice/data systems integrator and financial analysis for a start-up digital wireless provider. Inevitably, she developed an early penchant for fiscally sound sales, service, and cost structures. Nicole has developed a reputation for enabling visionary ideas with diverse teams and pragmatic execution to build businesses and brands.
 <br><br>
-In Nicole’s spare time, she enjoys scuba diving, traveling, and spending time with her nieces.
+In Nicole’s spare time she enjoys scuba diving, traveling, and spending time with her nieces.
                                 		</div>
                                 	</div>
                                     <br><br>
@@ -89,11 +89,11 @@ In Nicole’s spare time, she enjoys scuba diving, traveling, and spending time 
                                 		<div class="quote-wrapper">
 Mitch joined Bloom Consulting to take the next step in his career and bring his broad and deep industry knowledge to bear on the firm's BI and App Dev practice.
 <br><br>
-He created his first software project—“Alphabet Invaders”—at the age of 14 on the computer that was his birthday present. Soon thereafter he created a Reversi board game and then got his first computer-related job teaching software development classes for a local computer store.
+He created his first software project—“Alphabet Invaders” at the age of 14 on the computer that was his birthday present. Soon thereafter he created a Reversi board game and then got his first computer-related job teaching software development classes for a local computer store.
 <br><br>
 He went to school at the College of Charleston where he spent his junior year as a student in Munich, Germany. He made his first business right out of college and soon had enough money saved up to spend a year backpacking throughout Asia, including spending six months in Taiwan teaching English and doing graphic design at the China Post, a Taipei-based English-Language newspaper.
 <br><br>
-Back in the US, he went on to be part of several technology startups, eventually co-founding a company that specialized in Port Security software, working with the United States Coast Guard to help to protect the ports of Miami, Long Beach and Seattle, among others. He was recruited by Microsoft where he worked for five years as an architect and developer and eventually left to start his own consulting company, which is how he got to know the folks at Bloom.
+Back in the US, he went on to be part of several technology startups&mdash;eventually co-founding a company that specialized in Port Security software&mdash;working with the United States Coast Guard to help to protect the ports of Miami, Long Beach, and Seattle, among others. He was recruited by Microsoft where he worked for five years as an architect and developer and eventually left to start his own consulting company&mdash;which is how he got to know the folks at Bloom.
 <br><br>
 These days he loves cooking and especially likes to experiment with sauces and marinades. His other passions include hiking, martial arts, history, and woodworking.
                                 		</div>
@@ -113,7 +113,7 @@ These days he loves cooking and especially likes to experiment with sauces and m
                                 		<div class="quote-wrapper">
 Andrew has over 16 years of experience working in Business Intelligence and IT, developing and managing projects from client conception to deployment. He attended Oregon Institute of Technology and received a Bachelors in Management Information Systems.
 <br><br>
-As VP of Business Intelligence and Application Development, Andrew is responsible for practice strategy and expanding Bloom's suite of services to include those that enable a mobile first, cloud first approach to marketing and sales solutions.  Before joining Bloom, Andrew was an Account Lead and developer for Inviso Corporation. During his time with the company, he pioneered line-of-business applications for Windows 8, which earned him the nickname of, “Godfather of Apportals”. Additionally, Andrew has worked for industry leaders such as Compaq, Microsoft, Disney and T-Mobile. 
+Andrew is responsible for enhancing Bloom's client experience with technology and maintenance services&mdash;enabled by mobile first, cloud first approaches to solutions.  Before joining Bloom, Andrew was an Account Lead and Developer for Inviso Corporation. During his time with the company he pioneered line-of-business applications for Windows 8, which earned him the nickname of, “Godfather of Apportals”. Additionally, Andrew has worked for industry leaders such as Compaq, Microsoft, Disney and T-Mobile. 
 <br><br>
 Offline, Andrew enjoys spending time with his children, cooking, horseback riding, scuba diving, traveling, and is always up for the next adventure.
                                 		</div>
@@ -135,7 +135,7 @@ Caleb has over 11 years of Project Management experience working in both the pri
 <br><br>
 After serving in the U.S. Army, Caleb moved into the role of Project Manager at Technicolor Digital Delivery Services.  He then consulted to Verizon Digital Media Services and brought to market their new B2B service offering.  After his contract finished, Caleb moved to Program Manager at MGO to aid in the GA release of their consumer app, MGO. 
 <br><br>
-As a Scrum Master and Product Owner at Bloom Consulting Group, Caleb takes pride in bringing new products and services to market.  He enjoys working with cross-functional teams to develop cutting edge software and is always on the lookout to optimize business processes to drive profitability.  Caleb serves as the Team’s Agile coach and continues to refine internal practices and train new team members. 
+Caleb takes pride in bringing new products and services to market.  He enjoys working with cross-functional teams to develop cutting edge software and is always on the lookout to optimize business processes to drive profitability.  Caleb serves as the team’s Agile coach and continues to refine internal practices and train new team members. 
 <br><br>
 In addition to being an avid Auburn University sports fan, Caleb enjoys golfing, diving, hiking, and adventure sports with his wife and two pups.
                                 		</div>

@@ -75,10 +75,9 @@
                             </ul>
                         </div>
                         <div class="white pad-top-50 pad-bottom-20">
-                            <!--<div class="text text-right">
-                                <a href="#" class="pad-right-50">Terms</a>
-                                <a href="#" class="pad-right-50">Privacy</a>
-                            </div>-->
+                            <div class="text text-right">
+                                <a href="/terms/">Terms and Privacy</a>
+                            </div>
                             <div class="text-00 pad-top-20">
                             &copy; <?php echo date("Y"); ?> Bloom Consulting and Project Management Inc. all rights reserved.
                             </div>

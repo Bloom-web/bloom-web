@@ -68,10 +68,10 @@
                         </div>
                         <div class="text-right">
                             <ul class="social-icons medium circle social-hover">
-                                <li class=""><a href="https://twitter.com/Bloom_CG" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
-                                <li class="pad-left-20"><a href="https://www.facebook.com/bloomconsultingseattle" class="facebook" title="facebook"><i class="icon-glyph-320"></i></a></li>
-                                <li class="pad-left-20"><a href="https://www.linkedin.com/company/bloom-consulting-group" class="linkedin" title="linkedin"><i class="icon-glyph-308"></i></a></li>
-                                <li class="pad-left-20"><a href="https://www.instagram.com/bloom.consulting/" class="instagram" title="instagram"><i class="icon-glyph-316"></i></a></li>
+                                <li class=""><a href="https://twitter.com/Bloom_CG" target="_blank" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
+                                <li class="pad-left-20"><a href="https://www.facebook.com/bloomconsultingseattle" target="_blank" class="facebook" title="facebook"><i class="icon-glyph-320"></i></a></li>
+                                <li class="pad-left-20"><a href="https://www.linkedin.com/company/bloom-consulting-group" target="_blank" class="linkedin" title="linkedin"><i class="icon-glyph-308"></i></a></li>
+                                <li class="pad-left-20"><a href="https://www.instagram.com/bloom.consulting/" target="_blank" class="instagram" title="instagram"><i class="icon-glyph-316"></i></a></li>
                             </ul>
                         </div>
                         <div class="white pad-top-50 pad-bottom-20">

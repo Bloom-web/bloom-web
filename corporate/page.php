@@ -60,7 +60,7 @@
                                             Vice President, Strategy
                                         </span>
                                     </p>
-                                	<a class="bio-showhide noselect">bio</a>
+                                	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
                             				 From street food to Michelin star restaurants, my globetrotting exposed me to abundant cultures and cuisines. Find me frequently pondering unusual restaurant menus&mdash;or concocting novel recipes at home&mdash;and sharing with anyone who's willing (commemorative selfies while feasting are routine).<br><br>
@@ -86,7 +86,7 @@
                                             GM, Software Engineering
                                         </span>
                                     </p>
-                                	<a class="bio-showhide noselect">bio</a>
+                                	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
                                             Like many in this industry, my love of technology started at an early age. I’d gotten a computer for my 14th birthday and soon after developed my first program&mdash;Alphabet Invaders. From that point on the only distraction from my interest in software development was traveling the world, which I did for many years after graduating from the College of Charleston.​<br><br>
@@ -110,7 +110,7 @@
                                             GM, Customer Experience
                                         </span>
                                     </p>
-                                	<a class="bio-showhide noselect">bio</a>
+                                	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
                                             My passion for making the complicated, simple, with technology has driven my career to some of the greatest places with more on the way. I have had the honor of working with incredibly talented people enabling visions to reality. I am always seeking talent to grow in this amazing time of opportunity.​
@@ -134,7 +134,7 @@
                                             GM, Project Management Office
                                         </span>
                                     </p>
-                                	<a class="bio-showhide noselect">bio</a>
+                                	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
                                             As a former Combat Air Assault UH-60 Helicopter Pilot, I am accustomed to working well under pressure when the stakes are high. I thrive in environments where the requirements are vague, technology is new, risk is high, and timelines are short&mdash;like all cutting edge technological developments. I have been fortunate to lead small teams of highly skilled, steely eyed warriors as well as cross functional consulting teams to Fortune 50 companies. I take pride in bringing new products and services to market and am always on the lookout to optimize business processes to drive profitability.
@@ -215,7 +215,85 @@
                                 7 Ways IT Integrators Can Help Security Leaders Effectively Manage Enterprise Operations</a><br>
                                 Business Solutions Magazine
                             </p>
-                            
+                            <br><br>
+                            <div class="showhide noselect scrunch">
+                                <a><span class="text-0">older news<br></span><i class="material-icons icon00">expand_more</i></a>
+                            </div>
+                            <div class="hid">
+                                
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-consulting-group-honored" class="text00">
+                                        Bloom Consulting Group honored
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-consulting-group-announces-formation-of-board-of-advisors" class="text00">
+                                        Bloom Consulting Group announces formation of board of advisors
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-hired-by-as-solution-to-create-marketing-app" class="text00">
+                                        Bloom hired by as solution to create marketing app
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-partners-with-microsoft-and-local-law-enforcement" class="text00">
+                                        Bloom partners with Microsoft and local law enforcement
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-cassie-fischer" class="text00">
+                                        Bloom welcomes Cassie Fischer
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-ceo-heather-zindel-leads-innovation-forum-at-drive-conference" class="text00">
+                                        Bloom CEO Heather Zindel leads innovation forum at drive conference
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-headed-to-anaheim-for-61st-asis-convention" class="text00">
+                                        Bloom headed to Anaheim for 61st ASIS convention
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-rachelle-raymond" class="text00">
+                                        Bloom welcomes Rachelle Raymond
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-hoby-van-hoose" class="text00">
+                                        Bloom welcomes Hoby Van Hoose
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-mason-tejera" class="text00">
+                                        Bloom welcomes Mason Tejera
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-sara-bush" class="text00">
+                                        Bloom welcomes Sara Bush
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-nicole-watson" class="text00">
+                                        Bloom welcomes Nicole Watson
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-caleb-van-dyken" class="text00">
+                                        Bloom welcomes Caleb Van Dyken
+                                    </a>
+                                </p>
+                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                    <a href="/news/bloom-welcomes-andrew-herb" class="text00">
+                                        Bloom welcomes Andrew Herb
+                                    </a>
+                                </p>
+                                
+                                
+                            </div>
                         </div>
                     </div>
                     <!-- row -->
@@ -235,7 +313,7 @@
 
     <script type="text/javascript">
     $(document).ready(function() {
-        $(".bio-showhide").on("click", function() {
+        $(".showhide").on("click", function() {
           $(this).next(".hid").fadeToggle();
         });
     });

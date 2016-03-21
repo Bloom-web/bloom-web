@@ -11,7 +11,7 @@
 								<li><a href="/careers/">Careers</a></li>
 
 								<li><a href="/bloom.rss" class="rss" title="rss"><i class="icon-glyph-342"></i></a></li>
-								<li><a href="https://twitter.com/BloomCG" target="_blank" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
+								<li><a href="https://twitter.com/Bloom_CG" target="_blank" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
 								<li><a href="https://www.facebook.com/bloomconsultingseattle" target="_blank" class="facebook" title="facebook"><i class="icon-glyph-320"></i></a></li>
 								<li><a href="https://www.linkedin.com/company/bloom-consulting-group" target="_blank" class="linkedin" title="linkedin"><i class="icon-glyph-308"></i></a></li>
 								<li><a href="https://www.instagram.com/bloom.consulting/" target="_blank" class="instagram" title="instagram"><i class="icon-glyph-316"></i></a></li>

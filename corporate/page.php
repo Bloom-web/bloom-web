@@ -63,17 +63,15 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-                            				 From street food to Michelin star restaurants, my globetrotting exposed me to abundant cultures and cuisines. Find me frequently pondering unusual restaurant menus&mdash;or concocting novel recipes at home&mdash;and sharing with anyone who's willing (commemorative selfies while feasting are routine).<br><br>
-                                            Similarly, my career has followed a similar path&mdash;from humble math and neuroscience geek to working with innovative business thinkers in high tech and low tech IT/communications and security firms. Inevitably, I developed a penchant for enabling visionary ideas with diverse teams (best served over local food and beverage).
-                                            <br><br>
-                                            <span class="medium">Specialties</span>​<br>
-                                            Building global businesses and brands​<br>
-                                            Cultivating go-to-market strategies​<br>
-                                            Reengineering processes​<br>
-                                            Developing profitable revenue streams via direct and indirect sales channels​<br>
-                                            Creating demand and brand recognition​<br>
-                                            Measuring performance​<br>
-                                            Warming hearts and bellies​
+Nicole is a senior executive with nearly 20 years of experience growing and managing medium to large businesses in high-tech, manufacturing, and services industries. Nicole has a degree in Molecular Biology from Tulane University and an MBA from Rice University.
+<br><br>
+She is a Senior Consultant on Bloom Consulting Group’s team, helping global clients with landing new strategies, targets, and systems. Prior to Bloom, Nicole was a Vice President at GardaWorld, a private security and risk consulting firm (formerly Vance and Kroll Security) where she led business development, government contracts, and marketing.
+<br><br>
+Prior to GardaWorld, Nicole led global channel marketing and alliances for a data networking and security manufacturer transitioning from direct sales to a high-touch channel model. She overhauled their partner program and expanded the solution and reseller network. She also crafted go-to-market strategies, managed global sales operations plans, and created joint solutions with IBM, Siemens, Deloitte, and SAP. She traveled and spoke extensively across Asia, Europe, and the Americas.
+<br><br>
+Earlier in her career, Nicole managed process reengineering teams for a voice/data systems integrator and financial analysis for a start-up digital wireless provider. Inevitably, she developed an early penchant for fiscally sound sales, service, and cost structures. Nicole has developed a reputation for enabling visionary ideas with diverse teams and pragmatic execution to build businesses and brands.
+<br><br>
+In Nicole’s spare time, she enjoys scuba diving, traveling, and spending time with her nieces.
                                 		</div>
                                 	</div>
                                     <br><br>
@@ -89,15 +87,15 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-                                            Like many in this industry, my love of technology started at an early age. I’d gotten a computer for my 14th birthday and soon after developed my first program&mdash;Alphabet Invaders. From that point on the only distraction from my interest in software development was traveling the world, which I did for many years after graduating from the College of Charleston.​<br><br>
-                                            When I eventually settled back down in the U.S., I found my home at several tech startups before spending five years at Microsoft as an architect and developer. This led to the creation of my own consulting company before joining the Bloom team.<br><br>
-                                            Of all of these experiences, however, there’s nothing I take pride in more than seeing my kids discover their own strengths and interests and guiding them along their individual paths.​
-                                            <br><br>
-                                            <span class="medium">Specialties</span>​<br>
-                                            Mobile/Phone​<br>
-                                            C#/XAML​<br>
-                                            Azure​<br>
-                                            User Experience​
+Mitch joined Bloom Consulting to take the next step in his career and bring his broad and deep industry knowledge to bear on the firm's BI and App Dev practice.
+<br><br>
+He created his first software project—“Alphabet Invaders”—at the age of 14 on the computer that was his birthday present. Soon thereafter he created a Reversi board game and then got his first computer-related job teaching software development classes for a local computer store.
+<br><br>
+He went to school at the College of Charleston where he spent his junior year as a student in Munich, Germany. He made his first business right out of college and soon had enough money saved up to spend a year backpacking throughout Asia, including spending six months in Taiwan teaching English and doing graphic design at the China Post, a Taipei-based English-Language newspaper.
+<br><br>
+Back in the US, he went on to be part of several technology startups, eventually co-founding a company that specialized in Port Security software, working with the United States Coast Guard to help to protect the ports of Miami, Long Beach and Seattle, among others. He was recruited by Microsoft where he worked for five years as an architect and developer and eventually left to start his own consulting company, which is how he got to know the folks at Bloom.
+<br><br>
+These days he loves cooking and especially likes to experiment with sauces and marinades. His other passions include hiking, martial arts, history, and woodworking.
                                 		</div>
                                 	</div>
                                     <br><br>
@@ -113,15 +111,11 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-                                            My passion for making the complicated, simple, with technology has driven my career to some of the greatest places with more on the way. I have had the honor of working with incredibly talented people enabling visions to reality. I am always seeking talent to grow in this amazing time of opportunity.​
- ​                                           <br><br>
-                                            With a Bachelor’s in Management information Systems from Oregon Institute of Technology, I've held many roles in the last two decades, working for industry leaders such as Compaq, Microsoft, Disney and T-Mobile. This has provided a wide range of experiences that help me better understand client needs and deliver flawless solutions.​
-                                             ​<br><br>
-                                            <span class="medium">Specialties</span>​<br>
-                                            Visionary of merging technology and business to drive superior results with a “WOW” factor​<br>
-                                            Inspiring, motivating, leading others to transform visions to reality​<br>
-                                            Problem solver…where there is a will, there is a way​<br>
-                                            Excellent smoke ring blower with a good cigar​
+Andrew has over 16 years of experience working in Business Intelligence and IT, developing and managing projects from client conception to deployment. He attended Oregon Institute of Technology and received a Bachelors in Management Information Systems.
+<br><br>
+As VP of Business Intelligence and Application Development, Andrew is responsible for practice strategy and expanding Bloom's suite of services to include those that enable a mobile first, cloud first approach to marketing and sales solutions.  Before joining Bloom, Andrew was an Account Lead and developer for Inviso Corporation. During his time with the company, he pioneered line-of-business applications for Windows 8, which earned him the nickname of, “Godfather of Apportals”. Additionally, Andrew has worked for industry leaders such as Compaq, Microsoft, Disney and T-Mobile. 
+<br><br>
+Offline, Andrew enjoys spending time with his children, cooking, horseback riding, scuba diving, traveling, and is always up for the next adventure.
                                 		</div>
                                 	</div>
                                     <br><br>
@@ -137,15 +131,13 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-                                            As a former Combat Air Assault UH-60 Helicopter Pilot, I am accustomed to working well under pressure when the stakes are high. I thrive in environments where the requirements are vague, technology is new, risk is high, and timelines are short&mdash;like all cutting edge technological developments. I have been fortunate to lead small teams of highly skilled, steely eyed warriors as well as cross functional consulting teams to Fortune 50 companies. I take pride in bringing new products and services to market and am always on the lookout to optimize business processes to drive profitability.
-                                             ​<br><br>
-                                            <span class="medium">Specialties</span>​<br>
-                                            Agile Project Management​<br>
-                                            Change Management​<br>
-                                            Cross-functional Team Leadership​<br>
-                                            Program | Project Management​<br>
-                                            Business Development​<br>
-                                            Process Improvement​​
+Caleb has over 11 years of Project Management experience working in both the private and public sector for Start-Up companies as well as Fortune 100 companies. As an Army Officer and Combat Aviator, Caleb is proven in working in high stress environments for demanding clients. Caleb received a Bachelor of Science in Business Administration from Auburn University and is a Certified Project Management Professional (PMP), Certified Scrum Master (CSM), and Certified Product Owner (CSPO).
+<br><br>
+After serving in the U.S. Army, Caleb moved into the role of Project Manager at Technicolor Digital Delivery Services.  He then consulted to Verizon Digital Media Services and brought to market their new B2B service offering.  After his contract finished, Caleb moved to Program Manager at MGO to aid in the GA release of their consumer app, MGO. 
+<br><br>
+As a Scrum Master and Product Owner at Bloom Consulting Group, Caleb takes pride in bringing new products and services to market.  He enjoys working with cross-functional teams to develop cutting edge software and is always on the lookout to optimize business processes to drive profitability.  Caleb serves as the Team’s Agile coach and continues to refine internal practices and train new team members. 
+<br><br>
+In addition to being an avid Auburn University sports fan, Caleb enjoys golfing, diving, hiking, and adventure sports with his wife and two pups.
                                 		</div>
                                 	</div>
                                     <br><br>

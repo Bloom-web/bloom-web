@@ -1,3 +1,21 @@
+    
+    <!-- social sharing metas ================================================== -->
+    <?php $currentServer = $_SERVER['HTTP_HOST']; ?>
+
+    <meta property="og:title" content="Bloom" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers strategic services to security, marketing and sales executives to help maximize their productivity and efficiency. Bloom also develops and implements an innovative line of business application solutions that accelerate enterprise-wide transformation to a modern, mobile workplace." />
+    <meta property="og:url" content="http://<?php echo $currentServer; ?>/" />
+    <meta property="og:image" content="http://<?php echo $currentServer; ?>/images/Bloom-basic-logo-300.png" />
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="http://<?php echo $currentServer; ?>/">
+    <meta name="twitter:site" content="@Bloom_CG">
+    <meta name="twitter:title" content="Bloom">
+    <meta name="twitter:description" content="Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers strategic services to security, marketing and sales executives to help maximize their productivity and efficiency. Bloom also develops and implements an innovative line of business application solutions that accelerate enterprise-wide transformation to a modern, mobile workplace.">
+    <meta name="twitter:image" content="http://<?php echo $currentServer; ?>/images/Bloom-basic-logo-300.png" />
+  
+    
     <!-- Mobile Specific Metas ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -13,7 +31,7 @@
     <link type="text/css" rel="stylesheet" id="color" href="/neko-framework/css/color/neko-framework-orange.css">
     <link type="text/css" rel="stylesheet" id="bloom" href="/css/bloom.css">
 
-    <!-- Favicons ================================================== -->
+    <!-- enhanced favicons ================================================== -->
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">

@@ -52,7 +52,33 @@
                         <div class="col-md-12"><a name="global" class="anchor"></a>
                             <p class="text000 light">Global Management</p>
                             <div class="text-center">
-                                <div class="col-md-3 col-sm-6 iblock-multi">
+                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                    <img src="/images/headshot-heather.jpg" class="responsive">
+                                    <p class="text regular">
+                                        Heather Zindel<br>
+                                        <span class="text-00">
+                                            Chief Executive Officer
+                                        </span>
+                                    </p>
+                                	<a class="showhide noselect">bio</a>
+                                	<div class="hid box-testimonial light-color text-00 text-left">
+                                		<div class="quote-wrapper">
+                                            As the CEO and Principal for Bloom Consulting Group, Inc., Heather oversees the definition and implementation of the firm’s strategic goals and objectives. She provides leadership and direction in strengthening the company’s service offerings and performance standards to assist clients with excellence in consulting, application development, project management, and business intelligence.
+                                            <br><br>
+                                            Heather is a highly qualified business leader with more than 20 years of experience and proven success developing strategies and executing business plans that drive revenue growth and profitability for companies across enterprise, mid-market, and consumer segments. She is passionate about technology, channel dynamics, Agile development, and cloud economics and how all four are redefining business strategy.
+                                            <br><br>
+                                            Before founding Bloom Consulting Group, Inc. in 2009, Heather spent eight years consulting for some of the largest Fortune 500 firms in the world to increase sales revenue and growth, including Microsoft, Hewlett Packard, Computer Associates, IBM, Cisco, Citrix, BEA Systems, Enterasys, and GardaWorld.
+                                            <br><br>
+                                            Prior to consulting, Heather was a Vice President of Marketing for Lindsay Communications, a boutique marketing and sales communication firm in Seattle, where she was hired to build the online marketing business unit of the company. Heather also previously served as the Director of North America Marketing for one of Europe’s leading consumer software developers, Avanquest Software, a $100M and 500-person company based in France. There Heather was responsible for North American marketing efforts via multiple sales channels including retail, online, direct-to-consumer, business-to-business, and through original equipment manufacturers. Heather has additionally served in the capacity of Director of Marketing for eLocal.com, a provider of co-branded and private-labeled online content for Telcos, where she was responsible for public relations, marketing, and branding.
+                                            <br><br>
+                                            Heather is passionate about helping college students and is a frequent speaker on consulting at local events, including for the Seattle World Trade Center, Seattle Pacific University, and the University of Washington. Heather is also a speaker at industry conferences and panels, such as DRIVE and for the Institute of International Research. She is also a thought leader contributing to blogs on innovation, Windows application development, and the future of business intelligence visualization.
+                                            <br><br>
+                                            When Heather isn’t working, she reads, skis, plays tennis, travels, and spends as much time as possible with her husband Brian and her mini-dachshund, Maximus.
+                                		</div>
+                                	</div>
+                                    <br><br>
+                                </div>
+                                <div class="col-md-4 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-nicole.jpg" class="responsive">
                                     <p class="text regular">
                                         Nicole Watson<br>
@@ -63,20 +89,20 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-Nicole is a senior executive with nearly 20 years of experience growing and managing medium to large businesses in high-tech, manufacturing, and services industries. Nicole has a degree in Molecular Biology from Tulane University and an MBA from Rice University.
-<br><br>
-She is helping global clients with landing new strategies, targets, and systems. Prior to Bloom, Nicole was a Vice President at GardaWorld, a private security and risk consulting firm (formerly Vance and Kroll Security) where she led business development, government contracts, and marketing.
-<br><br>
-Prior to GardaWorld, Nicole led global channel marketing and alliances for a data networking and security manufacturer transitioning from direct sales to a high-touch channel model. She overhauled their partner program and expanded the solution and reseller network. She also crafted go-to-market strategies, managed global sales operations plans, and created joint solutions with IBM, Siemens, Deloitte, and SAP. She traveled and spoke extensively across Asia, Europe, and the Americas.
-<br><br>
-Earlier in her career, Nicole managed process reengineering teams for a voice/data systems integrator and financial analysis for a start-up digital wireless provider. Inevitably, she developed an early penchant for fiscally sound sales, service, and cost structures. Nicole has developed a reputation for enabling visionary ideas with diverse teams and pragmatic execution to build businesses and brands.
-<br><br>
-In Nicole’s spare time she enjoys scuba diving, traveling, and spending time with her nieces.
+                                            Nicole is a senior executive with nearly 20 years of experience growing and managing medium to large businesses in high-tech, manufacturing, and services industries. Nicole has a degree in Molecular Biology from Tulane University and an MBA from Rice University.
+                                            <br><br>
+                                            She is helping global clients with landing new strategies, targets, and systems. Prior to Bloom, Nicole was a Vice President at GardaWorld, a private security and risk consulting firm (formerly Vance and Kroll Security) where she led business development, government contracts, and marketing.
+                                            <br><br>
+                                            Prior to GardaWorld, Nicole led global channel marketing and alliances for a data networking and security manufacturer transitioning from direct sales to a high-touch channel model. She overhauled their partner program and expanded the solution and reseller network. She also crafted go-to-market strategies, managed global sales operations plans, and created joint solutions with IBM, Siemens, Deloitte, and SAP. She traveled and spoke extensively across Asia, Europe, and the Americas.
+                                            <br><br>
+                                            Earlier in her career, Nicole managed process reengineering teams for a voice/data systems integrator and financial analysis for a start-up digital wireless provider. Inevitably, she developed an early penchant for fiscally sound sales, service, and cost structures. Nicole has developed a reputation for enabling visionary ideas with diverse teams and pragmatic execution to build businesses and brands.
+                                            <br><br>
+                                            In Nicole’s spare time she enjoys scuba diving, traveling, and spending time with her nieces.
                                 		</div>
                                 	</div>
                                     <br><br>
                                 </div>
-                                <div class="col-md-3 col-sm-6 iblock-multi">
+                                <div class="col-md-4 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-mitch2.jpg" class="responsive">
                                     <p class="text regular">
                                         Mitch Cappelmann<br>
@@ -87,20 +113,20 @@ In Nicole’s spare time she enjoys scuba diving, traveling, and spending time w
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-Mitch joined Bloom Consulting to take the next step in his career and bring his broad and deep industry knowledge to bear on the firm's BI and App Dev practice.
-<br><br>
-He created his first software project—“Alphabet Invaders” at the age of 14 on the computer that was his birthday present. Soon thereafter he created a Reversi board game and then got his first computer-related job teaching software development classes for a local computer store.
-<br><br>
-He went to school at the College of Charleston where he spent his junior year as a student in Munich, Germany. He made his first business right out of college and soon had enough money saved up to spend a year backpacking throughout Asia, including spending six months in Taiwan teaching English and doing graphic design at the China Post, a Taipei-based English-Language newspaper.
-<br><br>
-Back in the US, he went on to be part of several technology startups&mdash;eventually co-founding a company that specialized in Port Security software&mdash;working with the United States Coast Guard to help to protect the ports of Miami, Long Beach, and Seattle, among others. He was recruited by Microsoft where he worked for five years as an architect and developer and eventually left to start his own consulting company&mdash;which is how he got to know the folks at Bloom.
-<br><br>
-These days he loves cooking and especially likes to experiment with sauces and marinades. His other passions include hiking, martial arts, history, and woodworking.
+                                            Mitch joined Bloom Consulting to take the next step in his career and bring his broad and deep industry knowledge to bear on the firm's BI and App Dev practice.
+                                            <br><br>
+                                            He created his first software project—“Alphabet Invaders” at the age of 14 on the computer that was his birthday present. Soon thereafter he created a Reversi board game and then got his first computer-related job teaching software development classes for a local computer store.
+                                            <br><br>
+                                            He went to school at the College of Charleston where he spent his junior year as a student in Munich, Germany. He made his first business right out of college and soon had enough money saved up to spend a year backpacking throughout Asia, including spending six months in Taiwan teaching English and doing graphic design at the China Post, a Taipei-based English-Language newspaper.
+                                            <br><br>
+                                            Back in the US, he went on to be part of several technology startups&mdash;eventually co-founding a company that specialized in Port Security software&mdash;working with the United States Coast Guard to help to protect the ports of Miami, Long Beach, and Seattle, among others. He was recruited by Microsoft where he worked for five years as an architect and developer and eventually left to start his own consulting company&mdash;which is how he got to know the folks at Bloom.
+                                            <br><br>
+                                            These days he loves cooking and especially likes to experiment with sauces and marinades. His other passions include hiking, martial arts, history, and woodworking.
                                 		</div>
                                 	</div>
                                     <br><br>
                                 </div>
-                                <div class="col-md-3 col-sm-6 iblock-multi">
+                                <div class="col-md-4 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-andrew3.jpg" class="responsive">
                                     <p class="text regular">
                                         Andrew Herb<br>
@@ -111,16 +137,16 @@ These days he loves cooking and especially likes to experiment with sauces and m
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-Andrew has over 16 years of experience working in Business Intelligence and IT, developing and managing projects from client conception to deployment. He attended Oregon Institute of Technology and received a Bachelors in Management Information Systems.
-<br><br>
-Andrew is responsible for enhancing Bloom's client experience with technology and maintenance services&mdash;enabled by mobile first, cloud first approaches to solutions.  Before joining Bloom, Andrew was an Account Lead and Developer for Inviso Corporation. During his time with the company he pioneered line-of-business applications for Windows 8, which earned him the nickname of, “Godfather of Apportals”. Additionally, Andrew has worked for industry leaders such as Compaq, Microsoft, Disney and T-Mobile. 
-<br><br>
-Offline, Andrew enjoys spending time with his children, cooking, horseback riding, scuba diving, traveling, and is always up for the next adventure.
+                                            Andrew has over 16 years of experience working in Business Intelligence and IT, developing and managing projects from client conception to deployment. He attended Oregon Institute of Technology and received a Bachelors in Management Information Systems.
+                                            <br><br>
+                                            Andrew is responsible for enhancing Bloom's client experience with technology and maintenance services&mdash;enabled by mobile first, cloud first approaches to solutions.  Before joining Bloom, Andrew was an Account Lead and Developer for Inviso Corporation. During his time with the company he pioneered line-of-business applications for Windows 8, which earned him the nickname of, “Godfather of Apportals”. Additionally, Andrew has worked for industry leaders such as Compaq, Microsoft, Disney and T-Mobile. 
+                                            <br><br>
+                                            Offline, Andrew enjoys spending time with his children, cooking, horseback riding, scuba diving, traveling, and is always up for the next adventure.
                                 		</div>
                                 	</div>
                                     <br><br>
                                 </div>
-                                <div class="col-md-3 col-sm-6 iblock-multi">
+                                <div class="col-md-4 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-caleb2.jpg" class="responsive">
                                     <p class="text regular">
                                         Caleb Van Dyken<br>
@@ -131,13 +157,13 @@ Offline, Andrew enjoys spending time with his children, cooking, horseback ridin
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-Caleb has over 11 years of Project Management experience working in both the private and public sector for Start-Up companies as well as Fortune 100 companies. As an Army Officer and Combat Aviator, Caleb is proven in working in high stress environments for demanding clients. Caleb received a Bachelor of Science in Business Administration from Auburn University and is a Certified Project Management Professional (PMP), Certified Scrum Master (CSM), and Certified Product Owner (CSPO).
-<br><br>
-After serving in the U.S. Army, Caleb moved into the role of Project Manager at Technicolor Digital Delivery Services.  He then consulted to Verizon Digital Media Services and brought to market their new B2B service offering.  After his contract finished, Caleb moved to Program Manager at MGO to aid in the GA release of their consumer app, MGO. 
-<br><br>
-Caleb takes pride in bringing new products and services to market.  He enjoys working with cross-functional teams to develop cutting edge software and is always on the lookout to optimize business processes to drive profitability.  Caleb serves as the team’s Agile coach and continues to refine internal practices and train new team members. 
-<br><br>
-In addition to being an avid Auburn University sports fan, Caleb enjoys golfing, diving, hiking, and adventure sports with his wife and two pups.
+                                            Caleb has over 11 years of Project Management experience working in both the private and public sector for Start-Up companies as well as Fortune 100 companies. As an Army Officer and Combat Aviator, Caleb is proven in working in high stress environments for demanding clients. Caleb received a Bachelor of Science in Business Administration from Auburn University and is a Certified Project Management Professional (PMP), Certified Scrum Master (CSM), and Certified Product Owner (CSPO).
+                                            <br><br>
+                                            After serving in the U.S. Army, Caleb moved into the role of Project Manager at Technicolor Digital Delivery Services.  He then consulted to Verizon Digital Media Services and brought to market their new B2B service offering.  After his contract finished, Caleb moved to Program Manager at MGO to aid in the GA release of their consumer app, MGO. 
+                                            <br><br>
+                                            Caleb takes pride in bringing new products and services to market.  He enjoys working with cross-functional teams to develop cutting edge software and is always on the lookout to optimize business processes to drive profitability.  Caleb serves as the team’s Agile coach and continues to refine internal practices and train new team members. 
+                                            <br><br>
+                                            In addition to being an avid Auburn University sports fan, Caleb enjoys golfing, diving, hiking, and adventure sports with his wife and two pups.
                                 		</div>
                                 	</div>
                                     <br><br>

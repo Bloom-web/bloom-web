@@ -122,8 +122,6 @@ body {
     text-align: center;
 }
 .text-left.tcell {
-    display: table-cell;
-    vertical-align: middle;
     text-align: left;
 }
 .client-logo {
@@ -315,10 +313,10 @@ footer a {
     font-size: 100%;
 }
 .icon0 {
-    font-size: 150%;
+    font-size: 200%;
 }
 .icon00 {
-    font-size: 200%;
+    font-size: 250%;
 }
 .icon000 {
     font-size: 350%;
@@ -343,10 +341,10 @@ footer a {
         font-size: 90%;
     }
     .icon0 {
-        font-size: 140%;
+        font-size: 180%;
     }
     .icon00 {
-        font-size: 180%;
+        font-size: 200%;
     }
     .icon000 {
         font-size: 300%;
@@ -356,6 +354,9 @@ footer a {
     }
 }
 @media (max-width: 460px) {
+    .icon00 {
+        font-size: 350%;
+    }
     .icon000 {
         font-size: 450%;
     }

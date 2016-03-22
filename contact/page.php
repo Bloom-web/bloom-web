@@ -14,7 +14,7 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header xlarge stay image-background no-padding rel" style="background-image: url('/images/background-contact.jpg');">
+            <header class="page-header xmedium image-background no-padding rel" style="background-image: url('/images/background-contact.jpg'); background-position: top center;">
             </header>
             <!-- page content -->
             <section class="">
@@ -42,14 +42,14 @@
                                     <i class="material-icons icon0">place</i>
                                 </div>
                                 <div class="col-sm-11 iblock-multi tcell text-left">
-                                    Headquarters (Suite 200) and Software Engineering (Suite 220)<br>
+                                    Headquarters (Suite 200)<br>Software Engineering (Suite 220)<br>
                                     <a href="http://www.bing.com/mapspreview?&ty=18&q=8060%20165th%20Ave.%20NE%2c%20Redmond%2c%20WA%2098052&mb=47.681267~-122.129274~47.670272~-122.110777&tt=8060%20165th%20Ave%20NE%2c%20Redmond%2c%20WA%2098052&tsts0=%2526ty%253d18%2526q%253d8060%252520165th%252520Ave.%252520NE%25252c%252520Redmond%25252c%252520WA%25252098052%2526mb%253d47.681267~-122.129274~47.670272~-122.110777&tstt0=8060%20165th%20Ave%20NE%2c%20Redmond%2c%20WA%2098052&cp=47.676059~-122.123394&lvl=16&ftst=0&ftics=False&v=2&sV=1&form=S00027" target="_blank">
                                     8060 165th Ave. NE, Redmond, WA 98052</a>
                                 </div>
                             </div>
                             <div class="row pb-small">
                                 <div class="col-sm-1 iblock-multi tcell">
-                                    <i class="material-icons icon0">attach_money</i>
+                                    <i class="material-icons icon0">person_pin</i>
                                 </div>
                                 <div class="col-sm-11 iblock-multi tcell text-left">
                                     Sales Offices - Redmond, WA + Washington D.C.

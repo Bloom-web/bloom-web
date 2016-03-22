@@ -124,6 +124,9 @@ body {
 .text-left.tcell {
     text-align: left;
 }
+.text-right.tcell {
+    text-align: right;
+}
 .client-logo {
     width:auto;
     height:auto;
@@ -727,6 +730,25 @@ span.has-border:hover:after {
 @media (min-width: 1024px) {
   .page-header.xlarge {
     height: 600px;
+    margin-top: 0px;
+  }
+}
+
+/* Adding another smaller header size to neko */
+
+.page-header.xmedium {
+  height: 250px;
+  margin-top: 100px;
+}
+@media (min-width: 768px) and (max-width:1023px)  {
+  .page-header.xmedium {
+    height: 300px;
+    margin-top: 25px;
+  }
+}
+@media (min-width: 1024px) {
+  .page-header.xmedium {
+    height: 400px;
     margin-top: 0px;
   }
 }

@@ -177,6 +177,38 @@
             </section>
             <!-- / page content -->
             
+            <section class="pt-small pb-small light-color" data-nekoanim="fadeInUp" data-nekodelay="50">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12"><a name="board" class="anchor"></a>
+                            <p class="text000 light">Advisory board</p>
+                            <div class="text-center">
+                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                    <img src="/images/advisor-ray-ohara.jpg" class="responsive">
+                                    <p class="text regular">
+                                        Ray O’Hara<br>
+                                    </p>
+                                </div>
+                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                    <img src="/images/advisor-rob-hile.jpg" class="responsive">
+                                    <p class="text regular">
+                                        Rob Hile<br>
+                                    </p>
+                                </div>
+                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                    <img src="/images/advisor-shawn-usher.jpg" class="responsive">
+                                    <p class="text regular">
+                                        Shawn Usher<br>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- row -->
+                </div>
+                <!-- container -->
+            </section>
+
             <section class="pt-medium pb-small light-color" data-nekoanim="fadeInUp" data-nekodelay="50">
                 <div class="container">
                     <div class="row">
@@ -237,76 +269,76 @@
                             <div class="showhide noselect scrunch">
                                 <a><span class="text-0">older news<br></span><i class="material-icons icon00">expand_more</i></a>
                             </div>
-                            <div class="hid">
+                            <div class="hid" data-nekoanim="fadeInLeft">
                                 
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-consulting-group-honored" class="text00">
                                         Bloom Consulting Group honored
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
-                                    <a href="/news/bloom-consulting-group-announces-formation-of-board-of-advisors" class="text00">
-                                        Bloom Consulting Group announces formation of board of advisors
-                                    </a>
-                                </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-hired-by-as-solution-to-create-marketing-app" class="text00">
                                         Bloom hired by as solution to create marketing app
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-partners-with-microsoft-and-local-law-enforcement" class="text00">
                                         Bloom partners with Microsoft and local law enforcement
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
-                                    <a href="/news/bloom-welcomes-cassie-fischer" class="text00">
-                                        Bloom welcomes Cassie Fischer
-                                    </a>
-                                </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-ceo-heather-zindel-leads-innovation-forum-at-drive-conference" class="text00">
                                         Bloom CEO Heather Zindel leads innovation forum at drive conference
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-headed-to-anaheim-for-61st-asis-convention" class="text00">
                                         Bloom headed to Anaheim for 61st ASIS convention
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
-                                    <a href="/news/bloom-welcomes-rachelle-raymond" class="text00">
-                                        Bloom welcomes Rachelle Raymond
-                                    </a>
-                                </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-welcomes-hoby-van-hoose" class="text00">
                                         Bloom welcomes Hoby Van Hoose
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-welcomes-mason-tejera" class="text00">
                                         Bloom welcomes Mason Tejera
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
-                                    <a href="/news/bloom-welcomes-sara-bush" class="text00">
-                                        Bloom welcomes Sara Bush
+                                <p class="text regular">
+                                    <a href="/news/bloom-welcomes-cassie-fischer" class="text00">
+                                        Bloom welcomes Cassie Fischer
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
-                                    <a href="/news/bloom-welcomes-nicole-watson" class="text00">
-                                        Bloom welcomes Nicole Watson
+                                <p class="text regular">
+                                    <a href="/news/bloom-welcomes-rachelle-raymond" class="text00">
+                                        Bloom welcomes Rachelle Raymond
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-welcomes-caleb-van-dyken" class="text00">
                                         Bloom welcomes Caleb Van Dyken
                                     </a>
                                 </p>
-                                <p class="text regular" data-nekoanim="fadeInLeft" data-nekodelay="800">
+                                <p class="text regular">
                                     <a href="/news/bloom-welcomes-andrew-herb" class="text00">
                                         Bloom welcomes Andrew Herb
+                                    </a>
+                                </p>
+                                <p class="text regular">
+                                    <a href="/news/bloom-welcomes-sara-bush" class="text00">
+                                        Bloom welcomes Sara Bush
+                                    </a>
+                                </p>
+                                <p class="text regular">
+                                    <a href="/news/bloom-welcomes-nicole-watson" class="text00">
+                                        Bloom welcomes Nicole Watson
+                                    </a>
+                                </p>
+                                <p class="text regular">
+                                    <a href="/news/bloom-consulting-group-announces-formation-of-board-of-advisors" class="text00">
+                                        Bloom Consulting Group announces formation of board of advisors
                                     </a>
                                 </p>
                                 

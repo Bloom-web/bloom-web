@@ -13,6 +13,7 @@
                                     <p><a href="/corporate" class="text00">Corporate</a></p>
                                     <p><a href="/corporate/#about" class="text-0">About Bloom</a></p>
                                     <p><a href="/corporate/#global" class="text-0">Global management team</a></p>
+                                    <p><a href="/corporate/#board" class="text-0">Advisory board</a></p>
                                     <p><a href="/corporate/#culture" class="text-0">Culture</a></p>
                                     <p><a href="/corporate/#news" class="text-0">News</a></p>
                                 </div>

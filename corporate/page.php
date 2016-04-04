@@ -188,18 +188,43 @@
                                     <p class="text regular">
                                         Ray O’Hara<br>
                                     </p>
+                                	<a class="showhide noselect">bio</a>
+                                	<div class="hid box-testimonial light-color text-00 text-left">
+                                		<div class="quote-wrapper">
+                                            I support the International Security Foundation efforts to keep Americans travelling the world safe. <a href="http://isf4osac.org/" target="_blank">isf4osac.org</a>
+                                            <br><br>
+                                            Founder and President Global Security Risk Management Alliance. <a href="http://www.gsrma.net/" target="_blank">www.gsrma.net</a>
+                                            <br><br>
+                                            Recipient 2015 Insightful Practitioner Award from Security Industry Association
+                                		</div>
+                                	</div>
+                                    <br><br>
                                 </div>
                                 <div class="col-md-4 col-sm-6 iblock-multi">
                                     <img src="/images/advisor-rob-hile.jpg" class="responsive">
                                     <p class="text regular">
                                         Rob Hile<br>
                                     </p>
+                                	<a class="showhide noselect">bio</a>
+                                	<div class="hid box-testimonial light-color text-00 text-left">
+                                		<div class="quote-wrapper">
+                                            Rob Hile is the Director of Enterprise Command Centers at SureView Systems, Inc.
+                                		</div>
+                                	</div>
+                                    <br><br>
                                 </div>
                                 <div class="col-md-4 col-sm-6 iblock-multi">
                                     <img src="/images/advisor-shawn-usher.jpg" class="responsive">
                                     <p class="text regular">
                                         Shawn Usher<br>
                                     </p>
+                                	<a class="showhide noselect">bio</a>
+                                	<div class="hid box-testimonial light-color text-00 text-left">
+                                		<div class="quote-wrapper">
+                                            20+ years’ experience in nearly all aspects of the technology industry with particular interest in helping business leaders use information technology effectively to accomplish business goals. Sparkhound was formed in 1998 with with a mission to Make a meaningful impact on our client’s businesses by solving their business problems with technology and leadership.
+                                		</div>
+                                	</div>
+                                    <br><br>
                                 </div>
                             </div>
                         </div>

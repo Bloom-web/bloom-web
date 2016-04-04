@@ -33,7 +33,7 @@
                                 <br><br>
                                 The Bloom Modern Solution Suite&trade; aggregates data from IP-enabled security objects (IoT), social apps, web apps, modern apps, and disparate databases into an Azure cloud hub that can display executive-level business insight seamlessly across Windows and cross-platform devices. Bloom’s innovative solutions for follow-you-anywhere computing experiences across phone, tablet, PC, Xbox, wearable, and HoloLens are rapidly changing the way enterprise does business in a modern, mobile workplace.
                                 <br><br>
-                                Bloom’s complimentary strategic services span business management consulting, enterprise risk transformation, performance improvement, big-data analytics, and change management. 
+                                Bloom’s complementary strategic services span business management consulting, enterprise risk transformation, performance improvement, big-data analytics, and change management. 
                                 <br><br>
                                 In 2015, Bloom won a Security Innovation Award from Security Technology Executive Magazine alongside partner Microsoft for its Azure-driven, enterprise Windows application. The App was awarded the Gold Medal by judges for best Collaborative Security Project for the Microsoft Advanced Patrol Platform.
                             </p>

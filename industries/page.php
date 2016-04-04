@@ -43,7 +43,7 @@
                             <a name="technology" class="anchor"></a>
                             <p class="text000 light">High Tech</p>
                             <p class="text regular">
-                                Bloom consultants have been working for over twenty years in high tech with executives that are responsible marketing and selling the most advanced technology direct and indirect through complex partner channels. Bloom is a true partner with marketing, sales, and channel executives in high tech to solve complex global business challenges and realize business transformation.
+                                Bloom consultants have been working for over twenty years in high tech with executives who are responsible for marketing and selling the most advanced technology directly and indirectly through complex partner channels. Bloom is a true partner with marketing, sales, and channel executives in high tech to solve complex global business challenges and realize business transformation.
                             </p>
                         </div>
                         <div class="col-md-6" data-nekoanim="fadeInUp">

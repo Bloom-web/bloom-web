@@ -191,11 +191,7 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-                                            I support the International Security Foundation efforts to keep Americans travelling the world safe. <a href="http://isf4osac.org/" target="_blank">isf4osac.org</a>
-                                            <br><br>
-                                            Founder and President Global Security Risk Management Alliance. <a href="http://www.gsrma.net/" target="_blank">www.gsrma.net</a>
-                                            <br><br>
-                                            Recipient 2015 Insightful Practitioner Award from Security Industry Association
+                                            O'Hara has more than 30 years of experience in consulting and investigations services, corporate security and law enforcement including managing large-scale security consulting and investigations projects in emerging markets and developing international executive protection, crisis management and response plans. He is a co-founder of the Global Security Risk Management Alliance, an organization that recognizes the blurring distinctions between traditional and logical security. O'Hara has served as Chairman of the Board and President of the ASIS International Board of Directors, and he has served as President of ASIS' Professional Certification Board and Chair of the ASIS International Investigations Council.
                                 		</div>
                                 	</div>
                                     <br><br>
@@ -208,7 +204,7 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-                                            Rob Hile is the Director of Enterprise Command Centers at SureView Systems, Inc.
+                                            Hile currently serves as Director of Enterprise Command Centers for SureView Systems, a provider of security management and command center software. Recognized as a leading voice in the industry, Hile has more than 25 years of security industry, sales and management experience, encompassing sales and business leadership roles with both public and private organizations, such as Siemens, G4S, Convergint and TAC.
                                 		</div>
                                 	</div>
                                     <br><br>
@@ -221,7 +217,7 @@
                                 	<a class="showhide noselect">bio</a>
                                 	<div class="hid box-testimonial light-color text-00 text-left">
                                 		<div class="quote-wrapper">
-                                            20+ years’ experience in nearly all aspects of the technology industry with particular interest in helping business leaders use information technology effectively to accomplish business goals. Sparkhound was formed in 1998 with with a mission to Make a meaningful impact on our client’s businesses by solving their business problems with technology and leadership.
+                                            As President and CEO of Sparkhound, Usher focuses on finding unique ways to solve a client's business and technology challenges. Over the past 18 years, he has shaped Sparkhound into a leading IT services company serving mid-market and enterprise customers. Its end-to-end approach includes the delivery of business consulting, technology solutions and managed services. As a long-time Microsoft partner, Usher brings a unique understanding of the enterprise customer to the board.
                                 		</div>
                                 	</div>
                                     <br><br>

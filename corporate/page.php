@@ -52,7 +52,7 @@
                         <div class="col-md-12"><a name="global" class="anchor"></a>
                             <p class="text000 light">Global Management</p>
                             <div class="text-center">
-                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                <div class="col-md-6 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-heather.jpg" class="responsive">
                                     <p class="text regular">
                                         Heather Zindel<br>
@@ -78,7 +78,7 @@
                                 	</div>
                                     <br><br>
                                 </div>
-                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                <div class="col-md-6 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-nicole.jpg" class="responsive">
                                     <p class="text regular">
                                         Nicole Watson<br>
@@ -102,7 +102,7 @@
                                 	</div>
                                     <br><br>
                                 </div>
-                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                <div class="col-md-6 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-mitch2.jpg" class="responsive">
                                     <p class="text regular">
                                         Mitch Cappelmann<br>
@@ -126,27 +126,7 @@
                                 	</div>
                                     <br><br>
                                 </div>
-                                <div class="col-md-4 col-sm-6 iblock-multi">
-                                    <img src="/images/headshot-andrew3.jpg" class="responsive">
-                                    <p class="text regular">
-                                        Andrew Herb<br>
-                                        <span class="text-00">
-                                            GM, Customer Experience
-                                        </span>
-                                    </p>
-                                	<a class="showhide noselect">bio</a>
-                                	<div class="hid box-testimonial light-color text-00 text-left">
-                                		<div class="quote-wrapper">
-                                            Andrew has over 16 years of experience working in Business Intelligence and IT, developing and managing projects from client conception to deployment. He attended Oregon Institute of Technology and received a Bachelors in Management Information Systems.
-                                            <br><br>
-                                            Andrew is responsible for enhancing Bloom's client experience with technology and maintenance services&mdash;enabled by mobile first, cloud first approaches to solutions.  Before joining Bloom, Andrew was an Account Lead and Developer for Inviso Corporation. During his time with the company he pioneered line-of-business applications for Windows 8, which earned him the nickname of, “Godfather of Apportals”. Additionally, Andrew has worked for industry leaders such as Compaq, Microsoft, Disney and T-Mobile. 
-                                            <br><br>
-                                            Offline, Andrew enjoys spending time with his children, cooking, horseback riding, scuba diving, traveling, and is always up for the next adventure.
-                                		</div>
-                                	</div>
-                                    <br><br>
-                                </div>
-                                <div class="col-md-4 col-sm-6 iblock-multi">
+                                <div class="col-md-6 col-sm-6 iblock-multi">
                                     <img src="/images/headshot-caleb2.jpg" class="responsive">
                                     <p class="text regular">
                                         Caleb Van Dyken<br>

@@ -45,16 +45,7 @@
                                         </span>
                                     </p>
                                 </div>
-                                <div class="item">
-                                    <img src="/images/headshot-eddie.jpg" class="responsive">
-                                    <p class="text0 regular">
-                                        Eddie Mulcahy<br>
-                                        <span class="text-00">
-                                            Project Manager
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="item">
+                               <div class="item">
                                     <img src="/images/headshot-hoby.jpg" class="responsive">
                                     <p class="text0 regular">
                                         Hoby Van Hoose<br>
@@ -69,33 +60,6 @@
                                         John Brooks<br>
                                         <span class="text-00">
                                             Consultant
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="item">
-                                    <img src="/images/headshot-mason.jpg" class="responsive">
-                                    <p class="text0 regular">
-                                        Mason Tejera<br>
-                                        <span class="text-00">
-                                            Developer
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="item">
-                                    <img src="/images/headshot-rachelle.jpg" class="responsive">
-                                    <p class="text0 regular">
-                                        Rachelle Raymond<br>
-                                        <span class="text-00">
-                                            Project Manager
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="item">
-                                    <img src="/images/headshot-sukhie.jpg" class="responsive">
-                                    <p class="text0 regular">
-                                        Sukhie Patel<br>
-                                        <span class="text-00">
-                                            Project Manager
                                         </span>
                                     </p>
                                 </div>

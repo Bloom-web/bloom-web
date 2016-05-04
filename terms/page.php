@@ -1,5 +1,6 @@
 <?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
-    <?php include($base . "/part-doctype.php");?>
+<?php include($base . '/perch/runtime.php');?>
+<?php include($base . "/part-doctype.php");?>
         <title>Bloom - Privacy and Terms</title>
         <meta name="description" content="">
         <meta name="author" content="Bloom">

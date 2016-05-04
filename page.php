@@ -1,4 +1,5 @@
 <?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
+<?php include($base . '/perch/runtime.php');?>
 <?php include($base . "/part-doctype.php");?>
     <title>Bloom</title>
     <meta name="description" content="Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers strategic services to security, marketing and sales executives to help maximize their productivity and efficiency. Bloom also develops and implements an innovative line of business application solutions that accelerate enterprise-wide transformation to a modern, mobile workplace.">

@@ -1,4 +1,5 @@
 <?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
+<?php include($base . '/perch/runtime.php');?>
 <?php include($base . "/part-doctype.php");?>
     <title>Bloom - Contact</title>
     <meta name="description" content="">
@@ -67,7 +68,6 @@
                         <div class="col-sm-6 col-sm-pull-6" data-nekoanim="fadeInLeft">
                             <iframe width="100%" height="500" frameborder="0" scrolling="no" seamless="seamless" src="http://www.bing.com/maps/embed/viewer.aspx?v=3&amp;cp=47.675770~-122.120026&amp;lvl=16&amp;w=600&amp;h=500&amp;sty=h&amp;typ=d&amp;pp=~~47.675770~-122.120026&amp;ps=&amp;dir=0&amp;mkt=en-us&amp;src=SHELL&amp;form=BMEMJS" style="vertical-align:bottom"></iframe>
                         </div>
-
                     </div>
                 </div>
             </section>

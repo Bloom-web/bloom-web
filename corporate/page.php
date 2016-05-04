@@ -1,5 +1,5 @@
 <?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/perch/runtime.php'); ?>
+<?php include($base . '/perch/runtime.php');?>
 <?php include($base . "/part-doctype.php");?>
     <title>Bloom - Corporate</title>
     <meta name="description" content="">

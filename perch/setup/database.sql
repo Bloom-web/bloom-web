@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `__PREFIX__content_items` (
+CREATE TABLE IF NOT EXISTS `perch_content_items` (
   `itemRowID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `itemID` int(10) unsigned NOT NULL DEFAULT '0',
   `regionID` int(10) unsigned NOT NULL DEFAULT '0',
@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__content_items` (
   FULLTEXT KEY `idx_search` (`itemSearch`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__content_regions` (
+CREATE TABLE IF NOT EXISTS `perch_content_regions` (
   `regionID` int(10) NOT NULL AUTO_INCREMENT,
   `pageID` int(10) unsigned NOT NULL,
   `regionKey` varchar(255) NOT NULL DEFAULT '',
@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__content_regions` (
   KEY `idx_path` (`regionPage`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__content_index` (
+CREATE TABLE IF NOT EXISTS `perch_content_index` (
   `indexID` int(10) NOT NULL AUTO_INCREMENT,
   `itemID` int(10) NOT NULL DEFAULT '0',
   `regionID` int(10) NOT NULL DEFAULT '0',
@@ -56,7 +56,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__content_index` (
   KEY `idx_regrev` (`regionID`,`itemRev`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__resources` (
+CREATE TABLE IF NOT EXISTS `perch_resources` (
   `resourceID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `resourceApp` char(32) NOT NULL DEFAULT 'content',
   `resourceBucket` char(16) NOT NULL DEFAULT 'default',
@@ -87,7 +87,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__resources` (
   FULLTEXT KEY `idx_search` (`resourceTitle`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__resource_tags` (
+CREATE TABLE IF NOT EXISTS `perch_resource_tags` (
   `tagID` int(10) NOT NULL AUTO_INCREMENT,
   `tagTitle` varchar(255) NOT NULL DEFAULT '',
   `tagSlug` varchar(255) NOT NULL DEFAULT '',
@@ -95,13 +95,13 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__resource_tags` (
   PRIMARY KEY (`tagID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__resources_to_tags` (
+CREATE TABLE IF NOT EXISTS `perch_resources_to_tags` (
   `resourceID` int(10) NOT NULL DEFAULT '0',
   `tagID` int(10) NOT NULL DEFAULT '0',
   PRIMARY KEY (`resourceID`,`tagID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 ROW_FORMAT=FIXED;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__resource_log` (
+CREATE TABLE IF NOT EXISTS `perch_resource_log` (
   `logID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `appID` char(32) NOT NULL DEFAULT 'content',
   `itemFK` char(32) NOT NULL DEFAULT 'itemRowID',
@@ -113,7 +113,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__resource_log` (
   UNIQUE KEY `idx_uni` (`appID`,`itemFK`,`itemRowID`,`resourceID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__page_templates` (
+CREATE TABLE IF NOT EXISTS `perch_page_templates` (
   `templateID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `templateTitle` varchar(255) NOT NULL DEFAULT '',
   `templatePath` varchar(255) NOT NULL DEFAULT '',
@@ -123,7 +123,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__page_templates` (
   PRIMARY KEY (`templateID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__pages` (
+CREATE TABLE IF NOT EXISTS `perch_pages` (
   `pageID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `pageParentID` int(10) unsigned NOT NULL DEFAULT '0',
   `pagePath` varchar(255) NOT NULL DEFAULT '',
@@ -151,14 +151,14 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__pages` (
   KEY `idx_parent` (`pageParentID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__settings` (
+CREATE TABLE IF NOT EXISTS `perch_settings` (
   `settingID` varchar(60) NOT NULL DEFAULT '',
   `userID` int(10) unsigned NOT NULL DEFAULT '0',
   `settingValue` text NOT NULL,
   PRIMARY KEY (`settingID`,`userID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-INSERT INTO `__PREFIX__settings` (`settingID`, `userID`, `settingValue`)
+INSERT INTO `perch_settings` (`settingID`, `userID`, `settingValue`)
 VALUES
 	('headerColour',0,'#ffffff'),
 	('content_singlePageEdit',0,'1'),
@@ -169,7 +169,7 @@ VALUES
 	('lang',0,'en-gb'),
   ('update___PERCH_VERSION__',0,'done');
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__user_privileges` (
+CREATE TABLE IF NOT EXISTS `perch_user_privileges` (
   `privID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `privKey` varchar(255) NOT NULL DEFAULT '',
   `privTitle` varchar(255) NOT NULL DEFAULT '',
@@ -178,7 +178,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__user_privileges` (
   UNIQUE KEY `idx_key` (`privKey`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-INSERT INTO `__PREFIX__user_privileges` (`privID`, `privKey`, `privTitle`, `privOrder`)
+INSERT INTO `perch_user_privileges` (`privID`, `privKey`, `privTitle`, `privOrder`)
 VALUES
 	(1,'perch.login','Log in',1),
 	(2,'perch.settings','Change settings',2),
@@ -207,13 +207,13 @@ VALUES
   (25,'assets.create','Upload assets',1),
   (26,'assets.manage','Manage assets',2);
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__user_role_privileges` (
+CREATE TABLE IF NOT EXISTS `perch_user_role_privileges` (
   `roleID` int(10) unsigned NOT NULL,
   `privID` int(10) unsigned NOT NULL,
   PRIMARY KEY (`roleID`,`privID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-INSERT INTO `__PREFIX__user_role_privileges` (`roleID`, `privID`)
+INSERT INTO `perch_user_role_privileges` (`roleID`, `privID`)
 VALUES
 	(1,1),
 	(1,7),
@@ -232,7 +232,7 @@ VALUES
   (2,11),
 	(2,12);
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__user_roles` (
+CREATE TABLE IF NOT EXISTS `perch_user_roles` (
   `roleID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `roleTitle` varchar(255) NOT NULL DEFAULT '',
   `roleSlug` varchar(255) NOT NULL DEFAULT '',
@@ -240,12 +240,12 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__user_roles` (
   PRIMARY KEY (`roleID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-INSERT INTO `__PREFIX__user_roles` (`roleID`, `roleTitle`, `roleSlug`, `roleMasterAdmin`)
+INSERT INTO `perch_user_roles` (`roleID`, `roleTitle`, `roleSlug`, `roleMasterAdmin`)
 VALUES
 	(1,'Editor','editor',0),
 	(2,'Admin','admin',1);
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__users` (
+CREATE TABLE IF NOT EXISTS `perch_users` (
   `userID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `userUsername` varchar(255) NOT NULL DEFAULT '',
   `userPassword` varchar(255) NOT NULL DEFAULT '',
@@ -267,7 +267,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__users` (
   KEY `idx_enabled` (`userEnabled`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__user_passwords` (
+CREATE TABLE IF NOT EXISTS `perch_user_passwords` (
   `passwordID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `userID` int(10) unsigned NOT NULL,
   `userPassword` varchar(255) NOT NULL DEFAULT '',
@@ -276,14 +276,14 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__user_passwords` (
   KEY `idx_user` (`userID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__navigation` (
+CREATE TABLE IF NOT EXISTS `perch_navigation` (
   `groupID` int(10) NOT NULL AUTO_INCREMENT,
   `groupTitle` varchar(255) NOT NULL DEFAULT '',
   `groupSlug` varchar(255) NOT NULL DEFAULT '',
   PRIMARY KEY (`groupID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__navigation_pages` (
+CREATE TABLE IF NOT EXISTS `perch_navigation_pages` (
   `navpageID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `pageID` int(10) unsigned NOT NULL DEFAULT '0',
   `groupID` int(10) unsigned NOT NULL DEFAULT '0',
@@ -296,7 +296,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__navigation_pages` (
   KEY `idx_page_group` (`pageID`,`groupID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__categories` (
+CREATE TABLE IF NOT EXISTS `perch_categories` (
   `catID` int(10) NOT NULL AUTO_INCREMENT,
   `setID` int(10) unsigned NOT NULL,
   `catParentID` int(10) unsigned NOT NULL DEFAULT '0',
@@ -311,7 +311,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__categories` (
   KEY `idx_set` (`setID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__category_counts` (
+CREATE TABLE IF NOT EXISTS `perch_category_counts` (
   `countID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `catID` int(10) unsigned NOT NULL,
   `countType` char(64) NOT NULL DEFAULT '',
@@ -321,7 +321,7 @@ CREATE TABLE IF NOT EXISTS `__PREFIX__category_counts` (
   KEY `idx_cat_type` (`countType`,`catID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `__PREFIX__category_sets` (
+CREATE TABLE IF NOT EXISTS `perch_category_sets` (
   `setID` int(10) NOT NULL AUTO_INCREMENT,
   `setTitle` char(64) NOT NULL DEFAULT '',
   `setSlug` char(64) NOT NULL DEFAULT '',

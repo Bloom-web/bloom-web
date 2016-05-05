@@ -1,0 +1,19 @@
+<perch:help>
+</perch:help>
+<perch:repeater id="board" label="board">
+<perch:before></perch:before>
+<div class="col-md-4 col-sm-6 iblock-multi">
+    <img src="<perch:content id="photo" type="image" label="photo" bucket="people" />" class="responsive">
+    <p class="text regular">
+        <perch:content type="text" id="name" label="name" size="m" /><br>
+    </p>
+	<a class="showhide noselect">bio</a>
+	<div class="hid box-testimonial light-color text-00 text-left">
+		<div class="quote-wrapper">
+            <perch:content type="textarea" id="bio" label="bio" markdown="true" editor="markitup" size="l" />
+		</div>
+	</div>
+    <br><br>
+</div>
+<perch:after></perch:after>
+</perch:repeater>

@@ -1,10 +1,10 @@
-    
+ 
     <!-- social sharing metas ================================================== -->
-    <?php $currentServer = $_SERVER['HTTP_HOST']; ?>
+    <?php $currentServer = $_SERVER['HTTP_HOST'];?>
 
     <meta property="og:title" content="Bloom" />
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers strategic services to security, marketing and sales executives to help maximize their productivity and efficiency. Bloom also develops and implements an innovative line of business application solutions that accelerate enterprise-wide transformation to a modern, mobile workplace." />
+    <meta property="og:description" content="<?php perch_content('meta social');?>" />
     <meta property="og:url" content="http://<?php echo $currentServer; ?>/" />
     <meta property="og:image" content="http://<?php echo $currentServer; ?>/images/Bloom-basic-logo-300.png" />
     
@@ -12,7 +12,7 @@
     <meta name="twitter:url" content="http://<?php echo $currentServer; ?>/">
     <meta name="twitter:site" content="@Bloom_CG">
     <meta name="twitter:title" content="Bloom">
-    <meta name="twitter:description" content="Bloom Consulting Group, Inc. is a growth-oriented business management consulting firm that delivers strategic services to security, marketing and sales executives to help maximize their productivity and efficiency. Bloom also develops and implements an innovative line of business application solutions that accelerate enterprise-wide transformation to a modern, mobile workplace.">
+    <meta name="twitter:description" content="<?php perch_content('meta social');?>">
     <meta name="twitter:image" content="http://<?php echo $currentServer; ?>/images/Bloom-basic-logo-300.png" />
   
     

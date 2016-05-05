@@ -1,16 +1,16 @@
 <?php 
 	return array(
 		'people' => array(
-			'web_path'  => '/perch/resources/people',
-			'file_path' => realpath(PERCH_RESFILEPATH.'/people'),
+			'web_path'  => '/imagez/people',
+			'file_path' => realpath(PERCH_RESFILEPATH.DIRECTORY_SEPARATOR.'people'),
 		),
 		'screenshots' => array(
-			'web_path'  => '/perch/resources/screenshots',
-			'file_path' => realpath(PERCH_RESFILEPATH.'/screenshots'),
+			'web_path'  => '/imagez/screenshots',
+			'file_path' => realpath(PERCH_RESFILEPATH.DIRECTORY_SEPARATOR.'screenshots'),
 		),
 		'backgrounds' => array(
-			'web_path'  => '/perch/resources/backgrounds',
-			'file_path' => realpath(PERCH_RESFILEPATH.'/backgrounds'),
+			'web_path'  => '/imagez/backgrounds',
+			'file_path' => realpath(PERCH_RESFILEPATH.DIRECTORY_SEPARATOR.'backgrounds'),
 		)
 	);
 ?>

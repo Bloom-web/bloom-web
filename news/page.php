@@ -3,10 +3,10 @@
 	$storyWithSpaces = str_replace("-", " ", $story);
 ?>
 <?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
+<?php include($base . '/perch/runtime.php');?>
 <?php include($base . "/part-doctype.php");?>
     <title>Bloom - News - <?php echo $storyWithSpaces; ?></title>
-    <meta name="description" content="">
-    <meta name="author" content="Bloom">
+    <?php perch_content('meta tags');?>
 
 <?php include($base . "/part-styles.php");?>
 

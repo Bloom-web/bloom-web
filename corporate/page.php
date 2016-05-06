@@ -2,8 +2,7 @@
 <?php include($base . '/perch/runtime.php');?>
 <?php include($base . "/part-doctype.php");?>
     <title>Bloom - Corporate</title>
-    <meta name="description" content="">
-    <meta name="author" content="Bloom">
+    <?php perch_content('meta tags');?>
 
 <?php include($base . "/part-styles.php");?>
 
@@ -108,7 +107,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 iblock-multi"><a name="news" class="anchor"></a>
-                            <p class="text000 light">Latest news <a href="/bloom.rss" target="_blank"><i class="material-icons icon">rss_feed</i></a></p>
+                            <p class="text000 light">Latest news <a href="/bloom-rss.php" target="_blank"><i class="material-icons icon">rss_feed</i></a></p>
                             <?php perch_content('latest news'); ?>
                             <br><br>
                             <div class="showhide noselect scrunch">

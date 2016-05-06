@@ -2,7 +2,7 @@
 <?php include($base . '/perch/runtime.php');?>
 <?php include($base . "/part-doctype.php");?>
     <title>Bloom - Solutions</title>
-<?php perch_content('meta tags'); ?>
+    <?php perch_content('meta tags'); ?>
 
 <?php include($base . "/part-styles.php");?>
 

@@ -10,7 +10,7 @@
 								<li><a href="/contact/">Contact</a></li>
 								<li><a href="/careers/">Careers</a></li>
 
-								<li><a href="/bloom.rss" class="rss" title="rss"><i class="icon-glyph-342"></i></a></li>
+								<li><a href="/bloom-rss.php" class="rss" title="rss"><i class="icon-glyph-342"></i></a></li>
 								<li><a href="<?php perch_content('twitter');?>" target="_blank" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
 								<li><a href="<?php perch_content('facebook');?>" target="_blank" class="facebook" title="facebook"><i class="icon-glyph-320"></i></a></li>
 								<li><a href="<?php perch_content('linkedin');?>" target="_blank" class="linkedin" title="linkedin"><i class="icon-glyph-308"></i></a></li>

@@ -1,0 +1,12 @@
+                        <div class="col-xs-12"><a name="articles" class="anchor"></a>
+						  <p class="text0000 light"><perch:content type="text" id="title" label="section title" size="m"/></p>
+                        </div>
+<perch:repeater id="articles" label="articles">
+<perch:before></perch:before>
+                        <div class="col-xs-4 col-xxs-12 text-center">
+                            <a href="<perch:content type="text" id="url" label="url" size="xl"/>" target="_blank">
+                                <img src="<perch:content type="image" id="image" label="image"/>" class="img-responsive" style="border:solid 1px black;">
+                            </a>
+                        </div>
+<perch:after></perch:after>
+</perch:repeater>

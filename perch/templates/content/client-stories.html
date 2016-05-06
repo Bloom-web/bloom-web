@@ -1,0 +1,76 @@
+            <section class="pt-medium pb-small light-color">
+                <div class="container"><a name="stories" class="anchor"></a>
+                    <div class="text0000 light"><perch:content type="text" id="sectiontitle" label="section title" size="m"/></div>
+                </div>
+            </section>
+<perch:help>
+</perch:help>
+<perch:repeater id="stories" label="featured stories">
+<perch:before></perch:before>
+<perch:every nth-child="odd">
+            <section class="pt-small pb-small light-color">
+                <div class="container">
+                    <div class="row">
+</perch:every>
+                        <div class="col-md-6" data-nekoanim="fadeInUp">
+                            <div class="col-sm-2 text-center">
+                                <i class="material-icons icon000"><perch:content type="text" id="iconf" label="icon" size="m"/></i>
+                            </div>
+                            <div class="col-xs-10 col-xxs-12">
+                                <p class="text000 light"><perch:content type="text" id="titlef" label="title" size="m"/></p>
+                                <div class="text0 regular">
+                                    <perch:content type="textarea" id="textf" label="textf" markdown="false" textile="false" size="m"/> <a href="<perch:content type="file" id="storyf" label="story pdf" bucket="pdfs"/>" target="_blank" class="text-00 medium">read more (pdf)</a>
+                                </div>
+                            </div>
+                        </div>
+<perch:every nth-child="even">
+                    </div> <!-- / row -->
+                </div><!-- / container -->
+            </section>
+</perch:every>
+<perch:if exists="perch_item_last">
+    <perch:every nth-child="odd">
+                    </div> <!-- / row -->
+                </div><!-- / container -->
+            </section>
+    </perch:every>
+</perch:if>
+<perch:after></perch:after>
+</perch:repeater>
+            <section class="pt-small light-color">
+            </section>
+            <section class="light-color">
+                <div class="showhide noselect text-center scrunch">
+                    <a><span class="text-0">show more<br>success stories<br></span><i class="material-icons icon0000">expand_more</i></a>
+                </div>
+                <div class="hid">
+                        <div class="container">
+                            
+<perch:repeater id="morestories" label="more stories">
+<perch:before></perch:before>
+<perch:every nth-child="odd">
+                            <div class="row pt-small pb-small">
+</perch:every>
+                                <div class="col-md-6" data-nekoanim="fadeInUp">
+                                    <div class="col-xs-2 col-xxs-12 text-center">
+                                        <i class="material-icons icon000"><perch:content type="text" id="icon" label="icon" size="m"/></i>
+                                    </div>
+                                    <div class="col-xs-10 col-xxs-12 iblock-multi">
+                                        <span class="text000 light"><perch:content type="text" id="title" label="title" size="m"/></span><br>
+                                        <a href="<perch:content type="file" id="story" label="story pdf" bucket="pdfs"/>" target="_blank">view pdf</a>
+                                    </div>
+                                </div>
+<perch:every nth-child="even">
+                            </div> <!-- / row -->
+</perch:every>
+<perch:if exists="perch_item_last">
+    <perch:every nth-child="odd">
+                            </div> <!-- / row -->
+    </perch:every>
+</perch:if>
+<perch:after></perch:after>
+</perch:repeater>
+
+                        </div><!-- / container -->
+                </div><!-- / hidden portion -->
+            </section><!-- / showhide section -->

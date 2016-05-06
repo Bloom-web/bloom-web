@@ -1,0 +1,9 @@
+<perch:repeater id="quotes" label="client quotes">
+<perch:before></perch:before>
+<div class="item">
+    <span class="text0"><perch:content type="text" id="title" label="title" size="m"/></span><br>
+    <perch:content type="textarea" id="quote" label="quote" markdown="true" editor="markitup" size="m"/>
+    <span class="text-00 medium">- <perch:content type="text" id="source" label="source" size="m"/></span>
+</div>
+<perch:after></perch:after>
+</perch:repeater>

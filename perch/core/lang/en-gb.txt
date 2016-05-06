@@ -820,5 +820,6 @@
     "Sorry, that account link has expired. For security reasons, you need to %srequest a new link%s": "Sorry, that account link has expired. For security reasons, you need to %srequest a new link%s",
     "In order to set up your new account, enter your email address and you will be sent a link.": "In order to set up your new account, enter your email address and you will be sent a link.",
     "Request link": "Request link",
-    "Thank you. Now check your email for the link.": "Thank you. Now check your email for the link."
+    "Thank you. Now check your email for the link.": "Thank you. Now check your email for the link.",
+    ") writable to upload files.": ") writable to upload files."
 }

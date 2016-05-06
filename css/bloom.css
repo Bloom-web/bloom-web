@@ -138,6 +138,11 @@ body {
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
+.scrunchp p {
+    line-height: 1;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
 .scrunchy {
     line-height: .5;
     padding-bottom: 0px;

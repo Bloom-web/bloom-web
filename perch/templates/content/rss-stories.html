@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="/bloom-rss.php" rel="self" type="application/rss+xml" />
+    <title><perch:content type="text" id="feedtitle" label="feed title"/></title>
+    <link><perch:content type="text" id="feedlink" label="feed link"/></link>
+    <description />
+    <language>en-US</language>
+    <lastBuildDate><perch:content type="date" id="feeddate" label="feed date" format="Y-m-d H:i:s"/> Z</lastBuildDate>
+<perch:repeater id="stories" label="rss stories">
+<perch:before></perch:before>
+    <item>
+      <guid isPermaLink="false"><perch:content type="slug" id="slug" label="title slug" for="title" editable="true" order="2"/></guid>
+      <title><perch:content type="text" id="title" label="title" size="l" order="1"/></title>
+      <pubDate><perch:content type="date" id="date" label="date" format="Y-m-d H:i:s"/> Z</pubDate>
+      <link><perch:content type="text" id="link" label="link" size="xl"/></link>
+	  <description>
+      <perch:content type="textarea" id="description" label="description" size="xl"/>
+		</description>
+    </item>
+<perch:after></perch:after>
+</perch:repeater>
+
+  </channel>
+</rss>

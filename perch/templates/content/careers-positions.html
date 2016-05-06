@@ -1,0 +1,25 @@
+<perch:repeater id="positions" label="open positions">
+<perch:before></perch:before>
+            <section class="<perch:every nth-child="1">pt-small</perch:every> pb-medium light-color" data-nekoanim="fadeInUp">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <p class="text000 light"><perch:content type="text" id="title" label="title" size="l"/></p>
+                            <div class="text regular">
+                                <perch:content type="textarea" id="summary" label="summary" markdown="true" editor="markitup" size="s"/>
+                            </div>
+							<perch:if exists="description">
+                            <a class="showhide noselect text">Description <i class="material-icons aligned">expand_more</i></a>
+                            <div class="hid text-0 regular">
+                                <perch:content type="textarea" id="description" label="description" markdown="true" editor="markitup" size="xl"/>
+                            </div>
+							</perch:if>
+                        </div>
+                        <div class="col-md-4 pad-top-50 text-center">
+                            <a href="mailto:recruiting@bloomconsultinggroup.com?subject=<perch:content type="text" id="title"/>" class="btn default large block text0000">apply now</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+<perch:after></perch:after>
+</perch:repeater>

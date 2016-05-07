@@ -54,6 +54,18 @@
     <script src="/neko-framework/external-plugins/modernizr/modernizr.custom.js"></script>
 
     <!-- RSS ================================================== -->
-    <link rel="alternate" type="application/rss+xml" title="Bloom RSS" href="/bloom.rss" />
-    
+    <link rel="alternate" type="application/rss+xml" title="Bloom RSS" href="/bloom-rss.php" />
+
+    <?php if ($_SERVER['HTTP_HOST'] == "www.bloomconsultinggroup.com" || $_SERVER['HTTP_HOST'] == "bloomconsultinggroup.com") { ?>
+        <script type="text/javascript">
+        var _mfq = _mfq || [];
+          (function() {
+            var mf = document.createElement("script");
+            mf.type = "text/javascript"; mf.async = true;
+            mf.src = "//cdn.mouseflow.com/projects/91bfa345-769f-4990-8fd5-ee6390f74d71.js";
+            document.getElementsByTagName("head")[0].appendChild(mf);
+          })();
+        </script>
+    <?php } else { echo "<!-- tracking disabled for ".$_SERVER['HTTP_HOST']."-->"; }; ?>
+
 </head>

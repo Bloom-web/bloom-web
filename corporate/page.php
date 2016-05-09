@@ -103,7 +103,7 @@
             </section>
             <!-- / page content -->
 
-            <section class="pt-small pb-small light-color">
+            <section class="pt-small pb-medium light-color">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 iblock-multi"><a name="news" class="anchor"></a>
@@ -116,26 +116,6 @@
                             <div class="hid" data-nekoanim="fadeInLeft">
                                 <?php perch_content('older news'); ?>
                             </div>
-                        </div>
-                    </div>
-                    <!-- row -->
-                </div>
-                <!-- container -->
-            </section>
-            <!-- / page content -->
-
-            <section class="pt-small pb-medium light-color">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 iblock-multi"><a name="news" class="anchor"></a>
-                            <p class="text000 light">Bloom branding materials</p>
-                            <a href="<?php perch_content('brand guide');?>" target="_blank">
-                            <i class="material-icons aligned icon000">insert_drive_file</i> 
-                            Brand guide</a> (pdf)
-                            <br><br>
-                            <a href="<?php perch_content('logo variations');?>" target="_blank">
-                            <i class="material-icons aligned icon000">folder</i>
-                            Logo variations</a> (zip archive)
                         </div>
                     </div>
                     <!-- row -->

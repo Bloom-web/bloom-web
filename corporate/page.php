@@ -56,21 +56,6 @@
             </section>
             <!-- / page content -->
             
-            <section class="pt-small pb-small light-color" data-nekoanim="fadeInUp" data-nekodelay="50">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12"><a name="board" class="anchor"></a>
-                            <p class="text000 light">Advisory board</p>
-                            <div class="text-center">
-                                <?php perch_content('board'); ?>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- row -->
-                </div>
-                <!-- container -->
-            </section>
-
             <section class="pt-medium pb-small light-color" data-nekoanim="fadeInUp" data-nekodelay="50">
                 <div class="container">
                     <div class="row">

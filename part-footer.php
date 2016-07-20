@@ -13,7 +13,6 @@
                                     <p><a href="/corporate" class="text00">Corporate</a></p>
                                     <p><a href="/corporate/#about" class="text-0">About Bloom</a></p>
                                     <p><a href="/corporate/#global" class="text-0">Global management team</a></p>
-                                    <p><a href="/corporate/#board" class="text-0">Advisory board</a></p>
                                     <p><a href="/corporate/#culture" class="text-0">Culture</a></p>
                                     <p><a href="/corporate/#news" class="text-0">News</a></p>
                                 </div>
@@ -27,10 +26,7 @@
                                     <p><a href="/services/" class="text00">Services</a></p>
                                     <p><a href="/services/#consulting" class="text-0">Strategic consulting</a></p>
                                     <p><a href="/services/#analytics" class="text-0">IoT and big data analytics</a></p>
-                                    <p><a href="/services/#appdev" class="text-0">Windows application development</a></p>
-                                    <p><a href="/services/#experience" class="text-0">User experience and interface design</a></p>
                                     <p><a href="/services/#performance" class="text-0">Business performance improvement</a></p>
-                                    <p><a href="/services/#holographic" class="text-0">Holographic computing experiences</a></p>
                                     <p><a href="/services/#intelligence" class="text-0">Business intelligence</a></p>
                                     <p><a href="/services/#cloud" class="text-0">Azure cloud services</a></p>
                                     <p><a href="/services/#outsourcing" class="text-0">Project management outsourcing</a></p>

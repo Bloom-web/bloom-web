@@ -91,14 +91,6 @@
                                     <li><a href="/industries/#other">Other</a></li>
                                 </ul>
                             </li>
-                            <li>
-                                <a href="/innovators/" class="has-sub-menu" id="page-innovators">Innovators</a>
-                                <ul class="sub-menu">
-                                    <li><a href="/innovators/#experts">Meet some experts</a></li>
-                                    <li><a href="/innovators/#articles">Featured articles</a></li>
-                                    <li><a href="/innovators/#awards">Awards</a></li>
-                                </ul>
-                            </li>
                         </ul>
                         <!-- / End main navigation -->
                     </div>

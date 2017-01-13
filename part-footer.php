@@ -44,15 +44,6 @@
                                     <p><a href="/industries/#petroleum" class="text-0">Oil &amp; Gas</a></p>
                                     <p><a href="/industries/#entertainment" class="text-0">Entertainment</a></p>
                                     <p><a href="/industries/#other" class="text-0">Other</a></p>
-                                    
-                                    
-                                    
-                                                                    </div>
-                                <div class="col-9-items col-xs-12 iblock-multi">
-                                    <p><a href="/innovators/" class="text00">Innovators</a></p>
-                                    <p><a href="/innovators/#experts" class="text-0">Meet some experts</a></p>
-                                    <p><a href="/innovators/#articles" class="text-0">Featured articles</a></p>
-                                    <p><a href="/innovators/#awards" class="text-0">Awards</a></p>
                                 </div>
                                 <div class="col-9-items col-xs-12 iblock-multi">
                                     <p><a href="/careers/" class="text00">Careers</a></p>

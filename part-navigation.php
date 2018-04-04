@@ -12,7 +12,6 @@
 
 								<li><a href="/bloom-rss.php" class="rss" title="rss"><i class="icon-glyph-342"></i></a></li>
 								<li><a href="<?php perch_content('twitter');?>" target="_blank" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
-								<li><a href="<?php perch_content('facebook');?>" target="_blank" class="facebook" title="facebook"><i class="icon-glyph-320"></i></a></li>
 								<li><a href="<?php perch_content('linkedin');?>" target="_blank" class="linkedin" title="linkedin"><i class="icon-glyph-308"></i></a></li>
 								<li><a href="<?php perch_content('instagram');?>" target="_blank" class="instagram" title="instagram"><i class="icon-glyph-316"></i></a></li>
 							</ul>
@@ -60,18 +59,22 @@
                                     <li><a href="/solutions/#security">Modern Enterprise Security Solutions</a></li>
                                     <li><a href="/solutions/#sales">Modern Enterprise Sales Solutions</a></li>
                                     <li><a href="/solutions/#marketing">Modern Enterprise Marketing Solutions</a></li>
+                                    <li><a href="/solutions/#channels">Modern Enterprise Channel Solutions</a></li>
+                                    <li><a href="/solutions/#logistics">Modern Enterprise Supply Chain/Logistics Solutions</a></li>
+                                    <li><a href="/solutions/#hr">Modern Enterprise Human Resource Solutions</a></li>
+                                    <li><a href="/solutions/#operations">Modern Enterprise Operations Solutions</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/services/" class="has-sub-menu" id="page-services">Services</a>
                                 <ul class="sub-menu">
                                     <li><a href="/services/#consulting">Strategic consulting</a></li>
+                                    <li><a href="/services/#transformation">Project management transformation</a></li>
+                                    <li><a href="/services/#outsourcing">Project management outsourcing</a></li>
+                                    <li><a href="/services/#performance">Business process management</a></li>
                                     <li><a href="/services/#analytics">IoT and big data analytics</a></li>
-                                    <li><a href="/services/#performance">Business performance improvement</a></li>
                                     <li><a href="/services/#intelligence">Business intelligence</a></li>
                                     <li><a href="/services/#cloud">Azure cloud services</a></li>
-                                    <li><a href="/services/#outsourcing">Project management outsourcing</a></li>
-                                    <li><a href="/services/#transformation">Project management transformation</a></li>
                                 </ul>
                             </li>
                             <li>

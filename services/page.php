@@ -23,17 +23,17 @@
             </header>
             <!-- video -->
 			<section class="video-header x-large stay">
-				<video class="html5-fullscreen video-medp" poster="/images/services-loop.jpg" autoplay loop>
+				<video class="html5-fullscreen video-medp" poster="/images/services-new-loop.jpg" autoplay loop>
 					<!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
-					<source type="video/mp4" src="/images/services-loop.mp4" />
-					<source type="video/ogg" src="/images/services-loop.ogv" />
-					<source type="video/webm" src="/images/services-loop.webm" />
+					<source type="video/mp4" src="/images/services-new-loop.mp4" />
+					<source type="video/ogg" src="/images/services-new-loop.ogv" />
+					<source type="video/webm" src="/images/services-new-loop.webm" />
 					<!-- Flash fallback for non-HTML5 browsers without JavaScript -->
 					<object  class="video-flash" type="application/x-shockwave-flash" data="neko-framework/external-plugins/mediaelement/flashmediaelement.swf">
 						<param name="movie" value="neko-framework/external-plugins/mediaelement/flashmediaelement.swf" />
-						<param name="flashvars" value="controls=true&amp;file=/images/services-loop.mp4" />
+						<param name="flashvars" value="controls=true&amp;file=/images/services-new-loop.mp4" />
 						<!-- Image as a last resort -->
-						<img src="/images/services-loop.jpg" title="No video playback capabilities" class="no-video-playback-capabilitites" alt="edena-video" />
+						<img src="/images/services-new-loop.jpg" title="No video playback capabilities" class="no-video-playback-capabilitites" alt="edena-video" />
 					</object>
 				</video>
 			</section>

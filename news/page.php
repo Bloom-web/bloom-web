@@ -1,10 +1,10 @@
-<?php 
-	$story = $_SERVER['QUERY_STRING'];
-	$storyWithSpaces = str_replace("-", " ", $story);
-?>
 <?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
 <?php include($base . '/perch/runtime.php');?>
 <?php include($base . "/part-doctype.php");?>
+<?php 
+	$story = perch_get('s');
+	$storyWithSpaces = str_replace("-", " ", $story);
+?>
     <title>Bloom - News - <?php echo $storyWithSpaces; ?></title>
     <?php perch_content('meta tags');?>
 
@@ -26,8 +26,22 @@
             <section class="pt-medium pb-medium light-color">
                 <div class="container">
                     <div class="row">
-
-						<?php include($base . "/news/" . $story . ".html"); ?>
+                    <?php
+                        perch_content_create('news', array(
+                        'template'   => 'news-item.html',
+                        'multiple'    => true,
+                        'edit-mode' => 'listdetail',
+                        ));
+                    ?>
+                    <?php
+                        perch_content_custom('news', array(
+                        'template'   => 'news-item.html',
+                        'filter' => 'link',
+                        'match' => 'eq',
+                        'value' => $story,
+                        'count' => 1,
+                        ));
+                    ?>
 
                     </div> <!-- / row -->
                 </div><!-- / container -->

@@ -1,0 +1,32 @@
+<perch:help>
+</perch:help>
+<perch:before></perch:before>
+<div class="container">
+    <div class='strata bgc-lghter-gray'>
+        <div class='row'>
+            <div class='small-12 medium-10 medium-offset-1 columns ta-center'>
+                <h1 class='c-blue'><perch:content type="text" id="title" label="title" size="xl" /></h1>
+                <div class='hid'>
+                    <perch:content type="slug" id="link" for="title" size="xl" editable />
+                    <perch:content type="text" id="outsidelink" label="external link" size="xl" />
+                </div>
+                <p>
+                    <small><span>
+                        <b><perch:content type="date" id="date" label="date" format="F j, Y" fieldorder="mdy" /></b>
+                         - 
+                        <perch:content type="text" id="author" label="author" size="l" />
+                    </span></small>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class='strata'>
+        <div class='row'>
+            <div class='small-12 medium-10 medium-offset-1 columns'>
+                <p>
+                    <perch:content type="textarea" id="body" label="body" markdown="true" />
+                </p>
+            </div>
+        </div>
+    </div>
+<perch:after></perch:after>

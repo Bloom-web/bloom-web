@@ -93,14 +93,12 @@
                     <div class="row">
                         <div class="col-md-12 iblock-multi"><a name="news" class="anchor"></a>
                             <p class="text000 light">Latest news <a href="/bloom-rss.php" target="_blank"><i class="material-icons icon">rss_feed</i></a></p>
-                            <?php perch_content('latest news'); ?>
-                            <br><br>
-                            <div class="showhide noselect scrunch">
-                                <a><span class="text-0">older news<br></span><i class="material-icons icon00">expand_more</i></a>
-                            </div>
-                            <div class="hid" data-nekoanim="fadeInLeft">
-                                <?php perch_content('older news'); ?>
-                            </div>
+                            <?php
+                                perch_content_custom('news', array(
+                                'template'   => 'news-list.html',
+                                'page'  =>  '/news/page.php',
+                                ));
+                            ?>
                         </div>
                     </div>
                     <!-- row -->

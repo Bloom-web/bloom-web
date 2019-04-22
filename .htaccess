@@ -8,5 +8,8 @@ AddType application/apportal .apportal
 AddType application/x-font-woff .woff
 AddType application/rss+xml .rss
 
-# Rewrite news url to query
-RewriteRule ^news/([_0-9a-z-]+) news/?s=$1 [NC,L]
+<IfModule mod_rewrite.c>
+	RewriteEngine on 
+	# Rewrite news url to query
+	RewriteRule ^news/([a-zA-Z0-9-/]+)$ news/?s=$1 [L]
+</IfModule>

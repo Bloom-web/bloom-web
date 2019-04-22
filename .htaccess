@@ -1,0 +1,12 @@
+DirectoryIndex page.php page.html page.htm index.php index.html index.htm default.php default.html default.htm
+
+AddType video/mp4 .mp4
+AddType video/ogg .ogv
+AddType video/webm .webm
+AddType video/quicktime .mov
+AddType application/apportal .apportal
+AddType application/x-font-woff .woff
+AddType application/rss+xml .rss
+
+# Rewrite news url to query
+RewriteRule ^news/([_0-9a-z-]+) news/?s=$1 [NC,L]

@@ -1,5 +1,5 @@
 # bloom-web
-Bloom company web site. Optimized to be hosted on an Azure web app service (Perch variable configuration needed).
+Bloom company web site. Previously optimized to be hosted on an Azure web app service but recently updated to run on standard XAMPP servers (Perch variable configuration needed in either case).
 
 Pages and images created by Bloom are Creative Commons Attribution 4.0 International License of Bloom Consulting and Project Management Group Inc.
 

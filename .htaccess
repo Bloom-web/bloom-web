@@ -9,7 +9,16 @@ AddType application/x-font-woff .woff
 AddType application/rss+xml .rss
 
 <IfModule mod_rewrite.c>
-	RewriteEngine on 
+	RewriteEngine on
+	# These are placed by AutoSSL
+	RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+	RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+	RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+	
+	# Redirect to ssl, since the cpanel method didn't work properly
+	RewriteCond %{HTTPS} off
+	RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+	
 	# Rewrite news url to query
 	RewriteRule ^news/([a-zA-Z0-9-/]+)$ news/?s=$1 [L]
 </IfModule>

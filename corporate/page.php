@@ -44,7 +44,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12"><a name="global" class="anchor"></a>
-                            <p class="text000 light">Global Management</p>
+                            <p class="text000 light">Our team</p>
                             <div class="text-center">
                                 <?php perch_content('managers'); ?>
                             </div>

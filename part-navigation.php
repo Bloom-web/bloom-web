@@ -48,7 +48,7 @@
                                 <a href="/corporate/" class="has-sub-menu" id="page-corporate">Corporate</a>
                                 <ul class="sub-menu">
                                     <li><a href="/corporate/#about">About Bloom</a></li>
-                                    <li><a href="/corporate/#global">Global management</a></li>
+                                    <li><a href="/corporate/#global">Our team</a></li>
                                     <li><a href="/corporate/#culture">Culture</a></li>
                                     <li><a href="/corporate/#news">News</a></li>
                                 </ul>

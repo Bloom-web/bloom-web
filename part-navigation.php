@@ -13,7 +13,6 @@
 								<li><a href="/bloom-rss.php" class="rss" title="rss"><i class="icon-glyph-342"></i></a></li>
 								<li><a href="<?php perch_content('twitter');?>" target="_blank" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
 								<li><a href="<?php perch_content('linkedin');?>" target="_blank" class="linkedin" title="linkedin"><i class="icon-glyph-308"></i></a></li>
-								<li><a href="<?php perch_content('instagram');?>" target="_blank" class="instagram" title="instagram"><i class="icon-glyph-316"></i></a></li>
 							</ul>
 						</div>
                     </div>

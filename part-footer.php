@@ -71,7 +71,7 @@
                                 <a href="/terms/">Terms and Privacy</a>
                             </div>
                             <div class="text-00 pad-top-20">
-                            &copy; <?php echo date("Y"); ?> Bloom Consulting and Project Management Inc. all rights reserved.
+                            &copy; <?php echo date("Y"); ?> Bloom Consulting and Project Management Group Inc. all rights reserved.
                             </div>
                             <div class="pad-top-50"></div>
                         </div>

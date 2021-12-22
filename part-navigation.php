@@ -1,23 +1,4 @@
         <header class="menu-header navbar-fixed-top" role="banner">
-            <section id="pre-header">
-                <div class="container">
-                    <div class="row">
-						<div class="col-sm-6">
-
-						</div>
-						<div class="col-sm-6 col-xs-12 quick-contact">
-							<ul class="quick-menu">
-								<li><a href="/contact/">Contact</a></li>
-								<li><a href="/careers/">Careers</a></li>
-
-								<li><a href="/bloom-rss.php" class="rss" title="rss"><i class="icon-glyph-342"></i></a></li>
-								<li><a href="<?php perch_content('twitter');?>" target="_blank" class="twitter" title="twitter"><i class="icon-glyph-339"></i></a></li>
-								<li><a href="<?php perch_content('linkedin');?>" target="_blank" class="linkedin" title="linkedin"><i class="icon-glyph-308"></i></a></li>
-							</ul>
-						</div>
-                    </div>
-                </div>
-            </section>
             <div class="container">
                 <nav class="navbar navbar-default" role="navigation">
                     <div class="navbar-header">
@@ -32,8 +13,8 @@
 
                         <!-- Logo -->
                         <a class="navbar-brand" href="/">
-                            <img src="/images/Bloom-logo-2016_wide-tagline-fullcolor-gray.png" alt="Bloom" class="main-logo" width="150">
-                            <img src="/images/Bloom-logo-2016_wide-tagline-fullcolor-white.png" alt="Bloom" class="main-logo-light abs">
+                            <img src="/images/Bloom-logo-2016-wide-fullcolor-gray.png" alt="Bloom" class="main-logo" width="150">
+                            <img src="/images/Bloom-logo-2016-wide-fullcolor-white.png" alt="Bloom" class="main-logo-light abs">
                         </a>
                         <!-- /Logo -->
                     </div>
@@ -49,7 +30,6 @@
                                     <li><a href="/corporate/#about">About Bloom</a></li>
                                     <li><a href="/corporate/#global">Our team</a></li>
                                     <li><a href="/corporate/#culture">Culture</a></li>
-                                    <li><a href="/corporate/#news">News</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -76,23 +56,23 @@
                                     <li><a href="/services/#cloud">Azure cloud services</a></li>
                                 </ul>
                             </li>
-                            <li>
+<!--                            <li>
                                 <a href="/clients/" class="has-sub-menu" id="page-clients">Clients</a>
                                 <ul class="sub-menu">
                                     <li><a href="/clients/#saying">What people are saying</a></li>
                                     <li><a href="/clients/#stories">Success stories</a></li>
                                 </ul>
                             </li>
+-->
                             <li>
                                 <a href="/industries/" class="has-sub-menu" id="page-industries">Industries</a>
                                 <ul class="sub-menu">
-                                    <li><a href="/industries/#security">Security</a></li>
-                                    <li><a href="/industries/#technology">Technology</a></li>
-                                    <li><a href="/industries/#petroleum">Oil &amp; Gas</a></li>
-                                    <li><a href="/industries/#entertainment">Entertainment</a></li>
-                                    <li><a href="/industries/#other">Other</a></li>
+                                    <li><a href="/industries/#technology">Cloud & High Tech</a></li>
+                                    <li><a href="/industries/#security">Private & Enterprise Security</a></li>
                                 </ul>
                             </li>
+                            <li><a href="/careers/" id="page-careers">Careers</a></li>
+                            <li><a href="/contact/" id="page-contact">Contact</a></li>
                         </ul>
                         <!-- / End main navigation -->
                     </div>

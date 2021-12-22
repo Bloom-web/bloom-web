@@ -6,7 +6,7 @@
 
 <?php include($base . "/part-styles.php");?>
 
-<body class="activate-appear-animation header-6 pre-header-on-sm">
+<body class="activate-appear-animation header-7">
     <!-- global-wrapper -->
     <div id="global-wrapper">
         
@@ -14,23 +14,15 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header xlarge image-background no-padding rel" style="background-image: url('/images/background-industries.jpg');">
+        	<img class="header-arrows arrows-low" src="/images/header-arrows-clear.svg">
+            <header class="page-header xsmall image-background no-padding rel" style="background-image: url('/images/background-industries.jpg');">
             </header>
 
             <!-- page content -->
-            <?php perch_content('industry-featured');?>
-
             <section class="pt-medium light-color">
+            	<?php perch_content('industrys');?>
             </section>
-            
-            <?php perch_content('industrys');?>
-            
-            <section class="pt-medium" data-nekoanim="fadeInUp">
-                    <div class="row">
-                    <?php perch_content('industry images');?>
-                    </div> <!-- / row -->
-            </section>
-            
+           
         </main>
         <!-- / content -->
 

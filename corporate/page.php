@@ -6,7 +6,7 @@
 
 <?php include($base . "/part-styles.php");?>
 
-<body class="activate-appear-animation header-6 pre-header-on-sm">
+<body class="activate-appear-animation header-7">
     <!-- global-wrapper -->
     <div id="global-wrapper">
         
@@ -14,12 +14,8 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header xlarge image-background no-padding rel" style="background-image: url('/images/background-corporate.jpg');">
-                <div class="row">
-                    <div class="header-blurb blurb-corp xl regular col-md-6 caps">
-                        <?php perch_content('blurb'); ?>
-                    </div>
-                </div>
+        	<img class="header-arrows arrows-low" src="/images/header-arrows-clear.svg">
+            <header class="page-header xsmall image-background no-padding rel" style="background-image: url('/images/background-corporate.jpg');">
             </header>
             <!-- page content -->
             
@@ -81,25 +77,6 @@
             				</video>
                         </div>
 
-                    </div>
-                    <!-- row -->
-                </div>
-                <!-- container -->
-            </section>
-            <!-- / page content -->
-
-            <section class="pt-small pb-medium light-color">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 iblock-multi"><a name="news" class="anchor"></a>
-                            <p class="text000 light">Latest news <a href="/bloom-rss.php" target="_blank"><i class="material-icons icon">rss_feed</i></a></p>
-                            <?php
-                                perch_content_custom('news', array(
-                                'template'   => 'news-list.html',
-                                'page'  =>  '/news/page.php',
-                                ));
-                            ?>
-                        </div>
                     </div>
                     <!-- row -->
                 </div>

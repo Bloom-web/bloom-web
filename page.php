@@ -6,7 +6,7 @@
 
     <?php include($base . "/part-styles.php");?>
 
-        <body class="activate-appear-animation header-6 pre-header-on-sm">
+        <body class="activate-appear-animation header-7">
             <!-- global-wrapper -->
             <div id="global-wrapper">
 
@@ -14,12 +14,16 @@
                     <!-- content-->
 
                     <main id="content">
-                        <header class="page-header xlarge stay image-background no-padding rel" style="background-image: url('/images/background-home.jpg');">
-                            <div class="row">
-                                <div class="header-blurb blurb-home text0 regular col-md-7">
+                    	<img class="header-arrows" src="/images/header-arrows-clear.svg">
+                        <header class="page-header xsmall stay image-background no-padding rel ycentered-flex" style="background-image: url('/images/background-home.jpg');">
+                                <div class="container">
+                                <div class="blurb-home white text0000 bold col-md-7">
                                     <?php perch_content('blurb'); ?>
                                 </div>
-                            </div>
+								<div class="col-md-5">
+									
+								</div>
+								</div>
                         </header>
                         <!-- page content -->
                         <?php perch_content('home topic'); ?>

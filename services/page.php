@@ -6,7 +6,7 @@
 
 <?php include($base . "/part-styles.php");?>
 
-<body class="activate-appear-animation header-6 pre-header-on-sm">
+<body class="activate-appear-animation header-7">
     <!-- global-wrapper -->
     <div id="global-wrapper">
         
@@ -14,30 +14,9 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header no-padding rel">
-                <div class="row">
-                    <div class="header-blurb blurb-services text00 regular col-md-5">
-                        <?php perch_content('blurb'); ?>
-                    </div>
-                </div>
+        	<img class="header-arrows arrows-low" src="/images/header-arrows-clear.svg">
+            <header class="page-header xsmall image-background no-padding rel" style="background-image: url('/images/background-services.jpg');">
             </header>
-            <!-- video -->
-			<section class="video-header x-large stay">
-				<video class="html5-fullscreen video-medp" poster="/images/services-new-loop.jpg" autoplay loop>
-					<!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
-					<source type="video/mp4" src="/images/services-new-loop.mp4" />
-					<source type="video/ogg" src="/images/services-new-loop.ogv" />
-					<source type="video/webm" src="/images/services-new-loop.webm" />
-					<!-- Flash fallback for non-HTML5 browsers without JavaScript -->
-					<object  class="video-flash" type="application/x-shockwave-flash" data="neko-framework/external-plugins/mediaelement/flashmediaelement.swf">
-						<param name="movie" value="neko-framework/external-plugins/mediaelement/flashmediaelement.swf" />
-						<param name="flashvars" value="controls=true&amp;file=/images/services-new-loop.mp4" />
-						<!-- Image as a last resort -->
-						<img src="/images/services-new-loop.jpg" title="No video playback capabilities" class="no-video-playback-capabilitites" alt="edena-video" />
-					</object>
-				</video>
-			</section>
-			<!-- / video -->
 
             <!-- page content -->
             <section class="pt-medium light-color">

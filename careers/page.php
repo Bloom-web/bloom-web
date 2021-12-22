@@ -6,7 +6,7 @@
 
 <?php include($base . "/part-styles.php");?>
 
-<body class="activate-appear-animation header-6 pre-header-on-sm">
+<body class="activate-appear-animation header-7">
     <!-- global-wrapper -->
     <div id="global-wrapper">
         

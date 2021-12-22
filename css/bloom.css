@@ -168,6 +168,10 @@ body {
     vertical-align: middle;
     text-align: center;
 }
+.ycentered-flex {
+	display: flex;
+	align-items: center;
+}
 
 .icon-vcenter {
    -ms-transform: translate(0,15%);
@@ -375,6 +379,17 @@ footer a {
 
 /* Objects */
 
+.header-arrows {
+	position: absolute;
+	top: 90px;
+	left: 20px;
+	width: 160px;
+	z-index: 600;
+}
+.arrows-low {
+	top: 330px;
+	z-index: 400;
+}
 .header-blurb {
     background-color: rgba(255, 255, 255, .85);
     text-align: left;
@@ -384,8 +399,7 @@ footer a {
     padding-bottom: 1.5%;
 }
 .blurb-home {
-    position: absolute;
-    top: 250px;
+	background: transparent;
 }
 .blurb-corp {
     position: absolute;
@@ -448,7 +462,11 @@ img .slider-banner-half {
     position:absolute;
     top: 0px;
 }
-
+@media (max-width: 1450px) {
+    .header-arrows {
+		width: 120px;
+	}
+}
 @media (max-width: 1200px) {
     .slider-video {
         width: 400px;
@@ -463,6 +481,9 @@ img .slider-banner-half {
     }
 }
 @media (max-width: 1024px) {
+    .header-arrows {
+		width: 160px;
+	}
     .header-shade {
         height: 0px;
     }
@@ -471,7 +492,7 @@ img .slider-banner-half {
         padding-right: 4%;
     }
     .blurb-home {
-        top: 124px;
+
     }
     .blurb-corp {
         top: 200px;
@@ -511,7 +532,7 @@ img .slider-banner-half {
 @media (max-width: 760px) {
     .blurb-home {
         position: relative;
-        top: 80px;
+
     }
     .blurb-corp {
         position: relative;
@@ -566,7 +587,7 @@ img .slider-banner-half {
 }
 @media (max-width: 480px) {
     .blurb-home {
-        top: 70px;
+
     }
     .slider-home {
         top: 80px;
@@ -623,6 +644,13 @@ span.has-border:hover:after {
     }
 }
 
+/* Modify the header container */
+
+.page-header .container:after {
+	content: none;
+}
+
+
 /* Padding sizes */
 
 .pad-top-50 {
@@ -656,16 +684,25 @@ span.has-border:hover:after {
 }
 /* Adding another column width for our menu footer */
 @media (min-width: 768px) {
+    .col-7-items {
+        width: 14.28571%
+    }
     .col-9-items {
         width: 11.11111111%
     }
 }
 @media (min-width: 992px) {
+    .col-7-items {
+        width: 14.28571%
+    }
     .col-9-items {
         width: 11.11111111%
     }
 }
 @media (min-width: 1200px) {
+    .col-7-items {
+        width: 14.28571%
+    }
     .col-9-items {
         width: 11.11111111%
     }
@@ -755,6 +792,25 @@ span.has-border:hover:after {
   .page-header.xmedium {
     height: 400px;
     margin-top: 0px;
+  }
+}
+
+/* Adding another smaller header size to neko */
+
+.page-header.xsmall {
+  height: 300px;
+  margin-top: 100px;
+}
+@media (min-width: 768px) and (max-width:1023px)  {
+  .page-header.xsmall {
+    height: 275px;
+    margin-top: 100px;
+  }
+}
+@media (min-width: 1024px) {
+  .page-header.xsmall {
+    height: 250px;
+    margin-top: 100px;
   }
 }
 

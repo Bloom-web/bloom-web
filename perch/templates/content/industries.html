@@ -2,29 +2,18 @@
 </perch:help>
 <perch:repeater id="industries" label="industries">
 <perch:before></perch:before>
-<perch:every nth-child="odd">
             <section class="pt-small light-color">
                 <div class="container">
                     <div class="row">
-</perch:every>
-                        <div class="col-md-6" data-nekoanim="fadeInUp">
+                        <div class="col-xs-9 col-xxs-12" data-nekoanim="fadeInUp">
                             <a name="<perch:content type="text" id="anchor" label="anchor" size="m" help="used for link navigation"/>" class="anchor"></a>
-                            <p class="text000 light"><perch:content type="text" id="title" label="title" size="m"/></p>
-                            <div class="text regular">
+                            <p class="text0000 light"><perch:content type="text" id="title" label="title" size="m"/></p>
+                            <div class="text0 regular">
                                 <perch:content type="textarea" id="text" label="text" markdown="true" editor="markitup" size="m"/>
                             </div>
                         </div>
-<perch:every nth-child="even">
                     </div> <!-- / row -->
                 </div><!-- / container -->
             </section>
-</perch:every>
-<perch:if exists="perch_item_last">
-    <perch:every nth-child="odd">
-                    </div> <!-- / row -->
-                </div><!-- / container -->
-            </section>
-    </perch:every>
-</perch:if>
 <perch:after></perch:after>
 </perch:repeater>

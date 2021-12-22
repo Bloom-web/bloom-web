@@ -83,7 +83,7 @@
                 <!-- container -->
             </section>
             <!-- / page content -->
-
+			<section class="pt-medium light-color">  </section>
         </main>
         <!-- / content -->
 

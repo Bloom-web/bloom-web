@@ -19,10 +19,8 @@
             </header>
 
             <!-- page content -->
-            <section class="pt-medium light-color">
-            	<?php perch_content('industrys');?>
-            </section>
-           
+            <?php perch_content('industrys');?>
+			<section class="pt-medium light-color">  </section>
         </main>
         <!-- / content -->
 

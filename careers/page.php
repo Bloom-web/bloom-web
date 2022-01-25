@@ -14,15 +14,8 @@
         <!-- content-->
 
         <main id="content">
-            <header class="page-header x-large stay image-background no-padding rel" style="background-image: url('/images/background-careers.jpg');">
-
-                <div class="row">
-                    <div class="header-blurb blurb-services text00 light col-md-4">
-                        <div class="text0 pad-bottom-20">Employee Testimonials</div>
-                        <div class="owl-carousel neko-data-owl" data-neko_items="1" data-neko_singleitem="true" data-neko_pagination="false" data-neko_navigation="false" data-neko_autoPlay="10000" data-neko_transitionstyle="backSlide">
-                        <?php perch_content('quotes');?>
-                    </div>
-                </div>
+        	<img class="header-arrows arrows-low" src="/images/header-arrows-clear.svg">
+            <header class="page-header xsmall image-background no-padding rel" style="background-image: url('/images/background-careers.jpg');">
             </header>
             <!-- page content -->
             <section class="pt-medium light-color">

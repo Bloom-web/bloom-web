@@ -253,6 +253,10 @@ body {
   left: -2em;
 }
 
+.contents .splide__pagination {
+  bottom: -1.5em;
+}
+
 .splide__list {
   max-width: 90vw;
 }

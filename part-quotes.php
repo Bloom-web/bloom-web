@@ -1,4 +1,4 @@
-<div class="splide" data-splide='{"type":"loop","perPage":1,"autoplay":true,"interval":6000}' role="group" aria-label="Quotes carousel">
+<div class="splide" data-splide='{"type":"loop","perPage":1,"autoplay":true,"interval":7000}' role="group" aria-label="Quotes carousel">
     <div class="splide__track">
         <ul class="splide__list">
             <li class="splide__slide quote">
@@ -27,7 +27,6 @@
                     Director Partner Innovation, Ecosystem Solutions, WW Partner and Commercial<br>
                     Fortune 500 Company
                 </p>
-
             </li>
             <li class="splide__slide quote">
                 <p class="text000 regular text-start pad-bottom-32">
@@ -37,7 +36,6 @@
                     Chief of Staff, Global Industries Group<br>
                     Fortune 500 Company
                 </p>
-
             </li>
             <li class="splide__slide quote">
                 <p class="text000 regular text-start pad-bottom-32">
@@ -47,13 +45,7 @@
                     Value Stream Project Manager<br>
                     Fortune 250 Company
                 </p>
-
             </li>
         </ul>
     </div>
-
-
-</div>    </div>
-
-
 </div>

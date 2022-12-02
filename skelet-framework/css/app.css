@@ -253,6 +253,10 @@ body {
   left: -2em;
 }
 
+.splide__list {
+  max-width: 90vw;
+}
+
 .glider-slide {
   min-height: 20rem;
   display: flex;

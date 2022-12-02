@@ -312,15 +312,6 @@ footer a {
     -ms-user-select: none;
     user-select: none;
 }
-.white {
-    color: #fff;
-}
-.dark {
-    color: #000;
-}
-.grayback {
-    background-color: #f7f9f9;
-}
 
 /* ----  Icon sizing  */
 .material-icons.aligned {
@@ -655,14 +646,46 @@ span.has-border:hover:after {
     visibility: hidden;
 }
 .main-logo-light {
-    width: 300px;
+    width: 100px;
 }
 @media (max-width: 1200px) {
     .main-logo-light {
-        width: 200px;
+        width: 100px;
     }
 }
+.white {
+    color: #fff;
+}
+.dark {
+    color: #000;
+}
+.grayback {
+    background-color: #f7f9f9;
+}
+.theme-dark {
+    background-color: #1E5155;
+    color: #ffffff;
+}
+.theme-light {
+    background-color: #33807D;
+    color: #ffffff;
+}
 
+body.dark-header.green-header .menu-header {
+    background-color: #1E5155;
+}
+body.header-7.green-header .menu-header {
+    border-color: #008A87;
+}
+body.dark-header .menu-header .nav > li > a.active, body .menu-header .nav > li.active > a.active, body .menu-header .nav > li > a.active:hover, body .menu-header .nav > li.active > a.active:hover, body .menu-header .nav > li > a:hover, body .menu-header .nav > li.active > a:hover {
+    color: #60CAD9;
+}
+body.header-7.dark-header .menu-header .navbar-default .navbar-nav > li > a:not(.btn).active:after {
+    border-color: #60CAD9;
+}
+body.header-7.dark-header .menu-header .navbar-default .navbar-nav > li:hover > a:not(.btn):after {
+    border-color: #60CAD9;
+}
 /* Modify the header container */
 
 .page-header .container:after {

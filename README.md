@@ -10,4 +10,4 @@ HTML templates require a license from Little Neko http://www.little-neko.com/
 
 Stock images and vidoes require a license from Shutterstock http://www.shutterstock.com/
 
-Perch CMS requires a license from http://www.edgeofmyseat.com/
+Perch CMS requires a license from http://www.perchcms.com/

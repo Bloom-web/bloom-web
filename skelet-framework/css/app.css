@@ -1,0 +1,549 @@
+/*** app.css */
+
+/*** CSS variables */
+:root {
+  overflow-x: hidden;
+  --focus: transparent; /* disable buttons outline:; or change its color */
+  --linkColor: var(--colorBlueLight);
+  --linkHover: var(--colorBlueLight);
+
+  --bgColor: transparent;
+  --color: var(--colorBlack);
+  --colorInverse: #fff;
+  --selectionBg: hsla(21, 79%, 54%, 1);
+  --selectionText: var(--colorBlack);
+
+  --fontFamily: "Roboto", var(--fontFallback);
+  --fontFamilyVar: "Roboto Flex", var(--fontFallback);
+  --fontFamilyScript: "Caveat", cursive;
+
+  --padding: 0rem;
+  --margin: 0rem;
+
+  --space-4: 0.4rem;
+  --space-8: 0.8rem;
+  --space-16: 1.6rem;
+  --space-24: 2.4rem;
+  --space-32: 3.2rem;
+  --space-48: 4.8rem;
+  --space-64: 6.4rem;
+  --space-96: 9.6rem;
+  --space-128: 12.8rem;
+
+  --colorWhite: #fff;
+  --colorBlack: #000;
+  --colorTealDark: #1e5155;
+  --colorTealAccessible: #00818b;
+  --colorTeal: #00a7a3;
+  --colorTealLight: hsla(178, 100%, 43%, 1);
+  --colorTealBright: #00fff7;
+  --colorYellowDark: #a66314;
+  --colorYellow: #f6931d;
+  --colorYellowLight: hsla(33, 100%, 62%, 1);
+  --colorOrangeDark: #c4530f;
+  --colorOrange: #ea6312;
+  --colorOrangeLight: hsla(22, 100%, 65%, 1);
+  --colorBlueDark: #084352;
+  --colorBlue: #58b9c6;
+  --colorBlueLight: hsla(187, 79%, 67%, 1);
+  --colorGray: #ebebeb;
+  --colorGrayLight: #f7f9f9;
+}
+
+/*** Bloom css */
+
+/* ------------------------  Colors  */
+
+.color-orange {
+  color: var(--colorOrange);
+}
+.color-orange-dark {
+  color: var(--colorOrangeDark);
+}
+.theme-black,
+.theme-black a {
+  background-color: var(--colorBlack);
+  color: var(--colorWhite);
+}
+.theme-white,
+.theme-white a {
+  background-color: var(--colorWhite);
+  color: var(--colorBlack);
+}
+.theme-light,
+.theme-light a {
+  background-color: var(--colorWhite);
+  color: var(--colorTealDark);
+}
+.theme-teal-dark,
+.theme-teal-dark a {
+  background-color: var(--colorTealDark);
+  color: var(--colorWhite);
+}
+.theme-teal-bright,
+.theme-teal-bright a {
+  background-color: var(--colorTealBright);
+  color: var(--colorBlack);
+}
+.theme-teal,
+.theme-teal a {
+  background-color: var(--colorTeal);
+  color: var(--colorBlack);
+}
+.theme-teal-light,
+.theme-teal-light a {
+  background-color: var(--colorTealLight);
+  color: var(--colorBlack);
+}
+.theme-yellow,
+.theme-yellow a {
+  background-color: var(--colorYellow);
+  color: var(--colorBlack);
+}
+.theme-yellow-light,
+.theme-yellow-light a {
+  background-color: var(--colorYellowLight);
+  color: var(--colorBlack);
+}
+.theme-yellow-dark,
+.theme-yellow-dark a {
+  background-color: var(--colorYellowDark);
+  color: var(--colorWhite);
+}
+.theme-orange,
+.theme-orange a {
+  background-color: var(--colorOrange);
+  color: var(--colorBlack);
+}
+.theme-orange-light,
+.theme-orange-light a {
+  background-color: var(--colorOrangeLight);
+  color: var(--colorBlack);
+}
+.theme-orange-dark,
+.theme-orange-dark a {
+  background-color: var(--colorOrangeDark);
+  color: var(--colorWhite);
+}
+.theme-blue,
+.theme-blue a {
+  background-color: var(--colorBlue);
+  color: var(--colorBlack);
+}
+.theme-blue-dark,
+.theme-blue-dark a {
+  background-color: var(--colorBlueDark);
+  color: var(--colorWhite);
+}
+.theme-gray,
+.theme-gray a {
+  background-color: var(--colorGrayLight);
+  color: var(--colorTealDark);
+}
+
+/* ------------------------  Layout  */
+
+body {
+  background: var(--colorTealDark);
+}
+#app {
+}
+.center-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  z-index: 10;
+}
+.navbar {
+  max-width: 100rem;
+  padding-top: var(--space-8);
+  padding-bottom: var(--space-8);
+}
+.navshadow {
+  box-shadow: 0px 2px 11px 4px var(--colorTealDark);
+  margin-bottom: 1.1rem;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  width: 100vw;
+  padding-top: var(--space-48);
+  padding-bottom: var(--space-48);
+}
+.section.nogap {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.section.withgap {
+  margin-bottom: var(--space-64);
+}
+.section.spaced {
+  margin-bottom: 0;
+  min-height: 40rem;
+}
+.section.tall {
+  margin-bottom: 0;
+  min-height: 60rem;
+}
+.section .contents {
+  max-width: 100rem;
+  padding-left: var(--space-16);
+  padding-right: var(--space-16);
+}
+.no-colgap {
+  gap: var(--rowGap, 1rem) 0;
+}
+.icon-info-item {
+  grid-template-columns: 8rem 1fr;
+  margin-bottom: var(--space-16);
+}
+.box-padded {
+  padding: 1.6rem;
+}
+.box-well-padded {
+  width: 100%;
+  padding: 9.6rem;
+}
+.inset {
+  box-shadow: 6px 5px 10px 0px rgba(0, 0, 0, 0.2) inset,
+    12px 12px 42px 0px rgba(0, 0, 0, 0.37) inset;
+}
+.icon-box {
+  width: 8rem;
+  height: 8rem;
+}
+.icon-box.large {
+  width: 14rem;
+  height: 14rem;
+}
+.icon-box.xlarge {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1/1;
+}
+.logo-partner {
+  max-width: 16rem;
+  max-height: 8rem;
+  filter: grayscale(1);
+}
+.narrowed {
+  max-width: 39rem;
+}
+.quote {
+  flex-direction: column;
+  font-family: var(--fontFamilyScript);
+  padding-right: var(--space-24);
+}
+.quote-icon {
+  width: 1.8rem;
+  transform: translate(-1.6rem, 2rem);
+}
+.quote-font {
+  font-family: var(--fontFamilyScript);
+}
+
+/* ------------------------  Splide carousel  */
+.contents .splide__arrow--next {
+  right: -2em;
+}
+
+.contents .splide__arrow--prev {
+  left: -2em;
+}
+
+.glider-slide {
+  min-height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 0;
+}
+.glider-next.arrow,
+.glider-prev.arrow {
+  border-radius: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  -webkit-transform: rotate(360deg);
+}
+.glider-prev.arrow {
+  border-width: 8px 13.9px 8px 0;
+  border-color: transparent var(--colorOrange) transparent transparent;
+}
+.glider-next.arrow {
+  border-width: 8px 0 8px 13.9px;
+  border-color: transparent transparent transparent var(--colorOrange);
+}
+
+a.underline {
+  color: var(--colorTealAccessible);
+  text-decoration: none;
+  border-bottom: 0.2rem dashed var(--colorTeal);
+  padding-bottom: 0.2em;
+}
+a:hover.underline {
+  color: var(--colorTeal);
+}
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    hsla(0, 0%, 0%, 0),
+    hsla(0, 0%, 0%, 0.75),
+    hsla(0, 0%, 0%, 0)
+  );
+  margin: 1.6rem 0;
+}
+hr.inverse {
+  background-image: linear-gradient(
+    to right,
+    hsla(0, 100%, 100%, 0),
+    hsla(0, 100%, 100%, 0.75),
+    hsla(0, 100%, 100%, 0)
+  );
+}
+.grid-two-rows {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+@media (max-width: 600px) {
+  .grid-two-rows {
+    grid-template-rows: auto auto;
+    row-gap: var(--space-32);
+  }
+  .box-well-padded {
+    padding: 1.6rem;
+  }
+}
+
+.pad-bottom-16 {
+  padding-bottom: var(--space-16);
+}
+.pad-bottom-24 {
+  padding-bottom: var(--space-24);
+}
+.pad-bottom-32 {
+  padding-bottom: var(--space-32);
+}
+.pad-bottom-48 {
+  padding-bottom: var(--space-48);
+}
+.pad-bottom-64 {
+  padding-bottom: var(--space-64);
+}
+.pad-bottom-96 {
+  padding-bottom: var(--space-96);
+}
+.pad-bottom-128 {
+  padding-bottom: var(--space-128);
+}
+/* ------------------------  Text and sizing  */
+
+.text-0000 {
+  font-size: 60%;
+}
+.text-000 {
+  font-size: 70%;
+}
+.text-00 {
+  font-size: 80%;
+}
+.text-0 {
+  font-size: 90%;
+}
+.text {
+  font-size: 100%;
+}
+.text0 {
+  font-size: 120%;
+}
+.text00 {
+  font-size: 140%;
+}
+.text000 {
+  font-size: 160%;
+}
+.text0000 {
+  font-size: 220%;
+}
+.text00000 {
+  font-size: 350%;
+}
+.text-display {
+  font-size: 500%;
+}
+@media (max-width: 1024px) {
+  .text-0000 {
+    font-size: 50%;
+  }
+  .text-000 {
+    font-size: 60%;
+  }
+  .text-00 {
+    font-size: 70%;
+  }
+  .text-0 {
+    font-size: 80%;
+  }
+  .text {
+    font-size: 90%;
+  }
+  .text0 {
+    font-size: 100%;
+  }
+  .text00 {
+    font-size: 120%;
+  }
+  .text000 {
+    font-size: 150%;
+  }
+  .text0000 {
+    font-size: 200%;
+  }
+  .text00000 {
+    font-size: 300%;
+  }
+  .text-display {
+    font-size: 450%;
+  }
+}
+@media (max-width: 460px) {
+  .text000 {
+    font-size: 140%;
+  }
+  .text0000 {
+    font-size: 160%;
+  }
+  .text-display {
+    font-size: 400%;
+  }
+}
+.hairline {
+  font-weight: 100;
+}
+.thin {
+  font-weight: 200;
+}
+.light {
+  font-weight: 300;
+}
+.regular {
+  font-weight: 400;
+}
+.medium {
+  font-weight: 500;
+}
+.bold {
+  font-weight: 700;
+}
+.black {
+  font-weight: 900;
+}
+.caps {
+  text-transform: uppercase;
+}
+a .pad {
+  padding: 3%;
+}
+footer a {
+  color: rgba(255, 255, 255, 1);
+}
+.link {
+  color: rgba(34, 134, 210, 1);
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.blink {
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#content li {
+  list-style-position: outside;
+  margin-left: 1.5em;
+}
+
+/* These two make clickable objects avoid selection artifacts */
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.noselect:focus {
+  outline: none;
+}
+
+/*** Dark mode */
+:where(.dark-mode, #dark-mode, [dark-mode], [data-mode="dark"]) {
+}
+
+@supports (font-variation-settings: normal) {
+  :root {
+    --fontFamily: var(--fontFamilyVar);
+  }
+} /* If Variable fonts are supported */
+a,
+a:hover {
+  text-decoration: none;
+} /* remove underline from links */
+
+/* ------------------
+  media query
+------------------ */
+@media (prefers-reduced-motion: reduce) {
+} /* User prefers NO motion-based animation */
+
+/*** Detect OS Dark/Light mode */
+@media (prefers-color-scheme: dark) {
+} /* if OS in DARK mode */
+@media (prefers-color-scheme: light) {
+} /* if OS in LIGHT mode */
+
+/*** Responsive */
+/** Skelet. BREAKING POINTS */
+@media (max-width: 600px) {
+} /* Grid SMALL becomes active */
+@media (min-width: 601px) and (max-width: 1024px) {
+} /* Grid MEDIUM becomes active */
+@media (min-width: 1599px) {
+} /* Grid LARGE becomes active */
+
+/** General breaking points */
+/* Device = Most of Mobile (Portrait) | Screen = b/w 0 to 480px */
+@media (max-width: 480px) {
+}
+/* Device = Low Resolution Tablet, Mobile (Landscape) | Screen = b/w 481px to 767px */
+@media (min-width: 481px) and (max-width: 767px) {
+}
+/* Device = Tablet, iPad (landscape) | Screen = b/w 768px to 1024px */
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+}
+/* Device = Tablet, iPad (portrait) | Screen = b/w 768px to 1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+/* Device = Laptop, Desktop | Screen = b/w 1025px to 1280px */
+@media (min-width: 1025px) and (max-width: 1280px) {
+}
+/* Device = Desktop | Screen = 1281px to higher resolution desktops */
+@media (min-width: 1281px) {
+}
+/* Device = Desktop | Screen = 1599px huge resolution desktops */
+@media (min-width: 1599px) {
+}

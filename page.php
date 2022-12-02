@@ -322,37 +322,39 @@
 
             <!-- Partnering section -->
             <div class="section spaced">
-                <x-grid columns="1" class="contents text-start" ji=center>
-                    <x-col as=center>
-                        <p class="text0000 bold color-orange text-center">Collectively, We Conquer.</p>
-                        <p class="text0 text-center pad-bottom-64">Partnering with visionary executives is the heartbeat of our business.</p>
-                        <x-grid columns="3" columns-s="1" as=center ji=center>
-                            <x-col class="pad-bottom-16" as=center>
-                                <img src="/images/logo-microsoft.png" class="inline-block logo-partner">
-                            </x-col>
-                            <x-col class="pad-bottom-16" as=center>
-                                <img src="/images/logo-redhat.png" class="inline-block logo-partner">
-                            </x-col>
-                            <x-col class="pad-bottom-16" as=center>
-                                <img src="/images/logo-vmware.png" class="inline-block logo-partner">
-                            </x-col>
-                        </x-grid>
-                        <x-grid columns="3" columns-s="1" as=center ji=center>
-                            <x-col class="pad-bottom-16" as=center>
-                                <img src="/images/logo-facebook.svg" class="inline-block logo-partner">
-                            </x-col>
-                            <x-col class="pad-bottom-16" as=center>
-                                <img src="/images/logo-polycom.svg" class="inline-block logo-partner">
-                            </x-col>
-                            <x-col class="pad-bottom-16" as=center>
-                                <img src="/images/logo-vulcan.svg" class="inline-block logo-partner">
-                            </x-col>
-                        </x-grid>
-                        <p class="text00 text-center pad-bottom-32">
-                            We work with <span class="color-orange-dark">amazing</span> companies.
-                        </p>
-                    </x-col>
-                </x-grid>
+                <div class="contents text-start">
+                    <x-grid columns="1" ji=center>
+                        <x-col as=center>
+                            <p class="text0000 bold color-orange text-center">Collectively, We Conquer.</p>
+                            <p class="text0 text-center pad-bottom-64">Partnering with visionary executives is the heartbeat of our business.</p>
+                            <x-grid columns="3" columns-s="1" as=center ji=center>
+                                <x-col class="pad-bottom-16" as=center>
+                                    <img src="/images/logo-microsoft.png" class="inline-block logo-partner">
+                                </x-col>
+                                <x-col class="pad-bottom-16" as=center>
+                                    <img src="/images/logo-redhat.png" class="inline-block logo-partner">
+                                </x-col>
+                                <x-col class="pad-bottom-16" as=center>
+                                    <img src="/images/logo-vmware.png" class="inline-block logo-partner">
+                                </x-col>
+                            </x-grid>
+                            <x-grid columns="3" columns-s="1" as=center ji=center>
+                                <x-col class="pad-bottom-16" as=center>
+                                    <img src="/images/logo-facebook.svg" class="inline-block logo-partner">
+                                </x-col>
+                                <x-col class="pad-bottom-16" as=center>
+                                    <img src="/images/logo-polycom.svg" class="inline-block logo-partner">
+                                </x-col>
+                                <x-col class="pad-bottom-16" as=center>
+                                    <img src="/images/logo-vulcan.svg" class="inline-block logo-partner">
+                                </x-col>
+                            </x-grid>
+                            <p class="text00 text-center pad-bottom-32">
+                                We work with <span class="color-orange-dark">amazing</span> companies.
+                            </p>
+                        </x-col>
+                    </x-grid>
+                </div>
                 <div class="contents">
                     <?php include($base . "/part-quotes.php"); ?>
                 </div>

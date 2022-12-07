@@ -367,6 +367,8 @@
     <!-- / global wrapper -->
     <?php include($base . "/part-footer.php"); ?>
 
+    <?php include($base . "/part-loader-screen.php"); ?>
+
     <?php include($base . "/part-scripts.php"); ?>
 </body>
 

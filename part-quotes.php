@@ -1,4 +1,4 @@
-<div class="splide" data-splide='{"type":"loop","perPage":1,"autoplay":true,"interval":7000}' role="group" aria-label="Quotes carousel">
+<div class="splide" data-splide='{"type":"loop","perPage":1,"autoplay":true,"interval":7000,"drag":true}' role="group" aria-label="Quotes carousel">
     <div class="splide__track">
         <ul class="splide__list">
             <li class="splide__slide quote">

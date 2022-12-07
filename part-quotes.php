@@ -12,7 +12,7 @@
             </li>
             <li class="splide__slide quote">
                 <p class="text000 regular text-start pad-bottom-32">
-                    <img src="/images/icon-quote-dark.png" class="quote-icon"> We found [Bloom] really <b>diligent and strategic</b> in driving the best business strategies needed for our group. The variety of depth [Bloom] had across <b>Strategy, Analytics, Planning and Domain Business</b> was hard to find. I found [Bloom] to be really wonderful in <b>shaping the direction</b> that we are headed today."
+                    <img src="/images/icon-quote-dark.png" class="quote-icon"> We found Bloom really <b>diligent and strategic</b> in driving the best business strategies needed for our group. The variety of depth Bloom had across <b>Strategy, Analytics, Planning and Domain Business</b> was hard to find. I found Bloom to be really wonderful in <b>shaping the direction</b> that we are headed today."
                 </p>
                 <p class="text0">
                     Industry Solutions & ISV Data Strategy and Analytics Leader<br>

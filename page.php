@@ -22,13 +22,13 @@
                     <img src="/images/logo-bloom-icon-theme-light.svg" class="inline" style="height: 300px;">
                     <x-col span="4" class="" style="max-width: 500px; text-align:center;" ai=center>
                         <div class="text00000 light pad-bottom-16" style="line-height: 1.1;">
-                            We <span class="color-orange-dark">exist</span> to <span class="color-orange-dark">help</span>
+                            We help
                         </div>
                         <div class="text0000 medium pad-bottom-32" style="line-height: 1.1;">
-                            cloud innovators conquer ambitious ideas.
+                            <span class="color-orange-dark">Cloud innovators</span> conquer ambitious ideas
                         </div>
                         <div class="text000 bold quote-font" style="color:var(--colorTealAccessible);">
-                            Putting our experience and tenacity to work.
+                            ...from Strategy to Execution.
                         </div>
                     </x-col>
                 </x-flex>
@@ -40,7 +40,7 @@
                     <div>
                         <p class="text0000 medium">How We Help</p>
                         <p class="text0 pad-bottom-32">
-                            We are a woman-owned management consulting firm. We specialize in catapulting cloud & channel growth, while doing our part to be <a href="/green/" class="underline">kind to our planet</a>.
+                            We are a management consulting firm. We specialize in catapulting cloud & channel growth, while doing our part to be <a href="/green/" class="underline">kind to our planet</a>.
                         </p>
                     </div>
                     <x-grid columns="4" columns-m="2" columns-s="2">
@@ -139,7 +139,7 @@
                 <div class="contents text-start">
                     <p class="text0000 medium">Revenue Operations</p>
                     <p class="text0 regular pad-bottom-16">
-                        For every business, Revenue is a top priority. Creating a cohesive approach to generating revenue is a win-win. Ensure your business is adapting to propel your growth. From Strategy to Operations, we're your partner for the journey.
+                        For every business, revenue is a top priority. Creating a cohesive approach to generating revenue is a win-win. Ensure your business is adapting to propel your growth. From Strategy to Operations, we're your partner for the journey.
                     </p>
                     <x-grid columns-s="1" class="icon-info-item">
                         <x-col as=center>

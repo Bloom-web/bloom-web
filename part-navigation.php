@@ -1,18 +1,18 @@
         <header class="sticky theme-teal-dark center-header" role="banner">
             <nav class="navbar" role="navigation">
-                <x-grid columns="8" columns-m="6" columns-s="3" ac=center ai=center jc=center ji=center>
-                    <x-col class="">
+                <x-grid columns="6" columns-m="6" columns-s="3" ac=center ai=center jc=center ji=center>
+                    <x-col span-s="3">
                         <!-- Logo -->
-                        <a class="" href="/">
-                            <img src="/images/logo-bloom-wide-theme-dark.svg" alt="Bloom" style="width:120px">
+                        <a href="/">
+                            <img src="/images/logo-bloom-icon-theme-dark.svg" alt="Bloom" style="height:4.4rem">
                         </a>
                         <!-- /Logo -->
                     </x-col>
-                    <x-col span="4" span-m="2" span-s="2">
+                    <x-col span="2" span-m="2" span-s="3">
                     </x-col>
                     <!-- Nav -->
-                    <x-col ai=right>
-                        <a href="/" class="text bold text-truncate" id="page-home">Home</a>
+                    <x-col>
+                        <a href="/" class="text bold text-truncate" id="page-home">How we help</a>
                     </x-col>
                     <x-col>
                         <a href="/work/" class="text bold text-truncate" id="page-work">Work with us</a>

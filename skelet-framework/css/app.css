@@ -155,7 +155,7 @@ body {
   z-index: 10;
 }
 .navbar {
-  max-width: 100rem;
+  width: clamp(32rem, 100vw, 103.2rem);
   padding-top: var(--space-8);
   padding-bottom: var(--space-8);
 }

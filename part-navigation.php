@@ -4,7 +4,7 @@
                     <x-col span-s="3">
                         <!-- Logo -->
                         <a href="/">
-                            <img src="/images/logo-bloom-icon-theme-dark.svg" alt="Bloom" style="height:4.4rem">
+                            <img src="/images/logo-bloom-wide-theme-dark.svg" alt="Bloom" style="height:4.4rem">
                         </a>
                         <!-- /Logo -->
                     </x-col>

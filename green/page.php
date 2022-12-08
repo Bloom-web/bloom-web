@@ -46,9 +46,6 @@
                         <p class="text0 pad-bottom-16">
                             The EcoVadis methodology is based on international sustainability standards (Global Reporting Initiative, United Nations Global Compact, ISO 26000), and supervised by a scientific committee of sustainability and supply chain experts, to ensure reliable third-party sustainability assessments. Currently, EcoVadis has 50,000 subscribers, spread across 150 countries and 190 industries.
                         </p>
-                        <p class="text0">
-                            Bloom is committed to remaining a 100% remote work business, reducing emissions and energy consumption.
-                        </p>
                     </x-col>
                 </x-grid>
             </div>

@@ -28,7 +28,7 @@
 
  <!-- Skelet framework  -->
  <link type="text/css" rel="stylesheet" href="/skelet-framework/css/skelet.min.css">
- <link type="text/css" rel="stylesheet" href="/skelet-framework/css/app.css">
+ <link type="text/css" rel="stylesheet" href="/skelet-framework/css/app.css?v=20030725">
 
  <link type="text/css" rel="stylesheet" href="/splide/splide.min.css">
 

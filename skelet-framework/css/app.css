@@ -82,59 +82,71 @@
 
 .color-orange {
   color: var(--colorOrange);
+  --color: var(--colorOrange);
 }
 .color-orange-dark {
   color: var(--colorOrangeDark);
+  --color: var(--colorOrangeDark);
 }
 .theme-black,
 .theme-black a {
   background-color: var(--colorBlack);
   color: var(--colorWhite);
+  --color: var(--colorWhite);
 }
 .theme-white,
 .theme-white a {
   background-color: var(--colorWhite);
   color: var(--colorBlack);
+  --color: 
 }
 .theme-light,
 .theme-light a {
   background-color: var(--colorWhite);
   color: var(--colorTealDark);
+  --color: 
 }
 .theme-teal-dark,
 .theme-teal-dark a {
   background-color: var(--colorTealDark);
   color: var(--colorWhite);
+  --color: var(--colorWhite);
 }
 .theme-teal-bright,
 .theme-teal-bright a {
   background-color: var(--colorTealBright);
   color: var(--colorBlack);
+  --color: var(--colorBlack);
 }
 .theme-teal,
 .theme-teal a {
   background-color: var(--colorTeal);
   color: var(--colorBlack);
+  --color: var(--colorBlack);
 }
 .theme-teal-light,
 .theme-teal-light a {
   background-color: var(--colorTealLight);
   color: var(--colorBlack);
+  --color: var(--colorBlack);
 }
 .theme-yellow,
 .theme-yellow a {
   background-color: var(--colorYellow);
   color: var(--colorBlack);
+  --color: var(--colorBlack);
 }
 .theme-yellow-light,
 .theme-yellow-light a {
   background-color: var(--colorYellowLight);
   color: var(--colorBlack);
+  --color: var(--colorBlack);
 }
 .theme-yellow-dark,
 .theme-yellow-dark a {
   background-color: var(--colorYellowDark);
   color: var(--colorWhite);
+  --color: var(--colorBlack);
 }
 .theme-orange,
 .theme-orange a {
@@ -145,26 +157,31 @@
 .theme-orange-light a {
   background-color: var(--colorOrangeLight);
   color: var(--colorBlack);
+  --color: var(--colorBlack);
 }
 .theme-orange-dark,
 .theme-orange-dark a {
   background-color: var(--colorOrangeDark);
   color: var(--colorWhite);
+  --color: var(--colorWhite);
 }
 .theme-blue,
 .theme-blue a {
   background-color: var(--colorBlue);
   color: var(--colorBlack);
+  --color: var(--colorBlack);
 }
 .theme-blue-dark,
 .theme-blue-dark a {
   background-color: var(--colorBlueDark);
   color: var(--colorWhite);
+  --color: var(--colorWhite);
 }
 .theme-gray,
 .theme-gray a {
   background-color: var(--colorGrayLight);
   color: var(--colorTealDark);
+  --color: var(--colorTealDark);
 }
 
 /* ------------------------  Layout  */
@@ -261,6 +278,8 @@ body {
   flex-direction: column;
   font-family: var(--fontFamilyScript);
   padding-right: var(--space-24);
+  padding-bottom: var(--space-32);
+  
 }
 .quote-icon {
   width: 1.8rem;
@@ -268,6 +287,18 @@ body {
 }
 .quote-font {
   font-family: var(--fontFamilyScript);
+}
+
+.spaced-items p {
+	padding-bottom: var(--space-32);
+}
+
+/* ------------------------  Green page text  */
+.go-green-text {
+	font-size: 110%;
+}
+.go-green-text p {
+	padding-bottom: var(--space-32);
 }
 
 /* ------------------------  Splide carousel  */
@@ -311,13 +342,13 @@ body {
   border-color: transparent transparent transparent var(--colorOrange);
 }
 
-a.underline {
+a.underline, .go-green-text a {
   color: var(--colorTealAccessible);
   text-decoration: none;
   border-bottom: 0.2rem dashed var(--colorTeal);
   padding-bottom: 0.2em;
 }
-a:hover.underline {
+a:hover.underline, .go-green-text a:hover {
   color: var(--colorTeal);
 }
 hr {
@@ -376,6 +407,13 @@ hr.inverse {
 }
 /* ------------------------  Text and sizing  */
 
+h1.nostyle, h2.nostyle, h3.nostyle, h4.nostyle, h5.nostyle, h6.nostyle,
+.h1.nostyle, .h2.nostyle, .h3.nostyle, .h4.nostyle, .h5.nostyle, .h6.nostyle {
+	font-size:1.7rem;
+	font-weight: var(--fontWeight);
+	line-height: var(--fontLine);
+	color: var(--color);
+}
 .text-0000 {
   font-size: 60%;
 }

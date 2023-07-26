@@ -21,61 +21,37 @@
             <div class="section">
                 <x-grid columns="2" columns-m="1" columns-s="1" class="contents text-start">
                     <x-col span="1" class="box-padded center">
-                        <img src="/images/profile-nicole-watson-transparent.webp" class="inline" style="border-radius: 400px; background-color:var(--colorWhite); border: 2px solid var(--colorTealDark); width: 10rem;">
-                        <p class="text0000 medium quote-font pad-bottom-32">
-                            Nicole Watson<br>
-                            CEO
-                        </p>
-                        <p class="text000 quote-font color-orange-dark pad-bottom-16">
-                            My Superpowers
-                        </p>
-                        <p class="text narrowed pad-bottom-16">
-                            Building global businesses & brands
-                            <br>
-                            <br>
-                            Crafting go-to-market strategies & programs
-                            <br>
-                            <br>
-                            Re-engineering business processes
-                            <br>
-                            <br>
-                            Developing profitable revenue streams via direct & indirect sales channels
-                        </p>
-                        <a href="https://www.linkedin.com/in/nicoleawatson/" target="_blank">
-                            <img src="/images/icon-linkedin.svg" class="inline" style="width: 5rem;">
-                        </a>
+						<?php perch_content('work nicole'); ?>
                     </x-col>
                     <x-col span="1" span-s="1" class="box-padded" ji=center>
-                        <p class="text0000 center">
-                            Our Team of Experts
-                        </p>
-                        <p class="text000 bold quote-font color-orange-dark pad-bottom-32 center">
-                            The right talent at the right time
-                        </p>
-                        <x-grid columns="2" columns-s="2">
-                            <x-col class="theme-teal-dark">
-                                <div class="icon-box xlarge center-axyz text0 center">
-                                    Sr. Consultants
-                                </div>
-                            </x-col>
-                            <x-col class="theme-teal-dark" ji=center>
-                                <div class="icon-box xlarge center-axyz text0 center">
-                                    Project Managers
-                                </div>
-                            </x-col>
-                            <x-col class="theme-teal-dark" ji=center>
-                                <div class="icon-box xlarge center-axyz text0 center">
-                                    Consultants
-                                </div>
-                            </x-col>
-                            <x-col class="theme-teal-dark" ji=center>
-                                <div class="icon-box xlarge center-axyz text0 center">
-                                    Business Analysts
-                                </div>
-                            </x-col>
-                        </x-grid>
+                    	<?php perch_content('work team'); ?>
                     </x-col>
                 </x-grid>
+            </div>
+            <hr>
+            <!-- Section -->
+            <div class="section">
+            	<p class="text0000 bold text-center">
+            		<?php perch_content('green title'); ?>
+            	</p>
+                <x-grid columns="12" columns-m="1" columns-s="1" class="contents text-start">
+                    <x-col span="3" order-m="last" order-s="last" class="box-padded center">
+                        <img src="/images/badge-ecovadis-silver-2022-fallback.png" srcset="/images/badge-ecovadis-silver-2022@1x.webp 1x, /images/badge-ecovadis-silver-2022@2x.webp 2x" class="inline">
+                    </x-col>
+                    <x-col span="9" span-s="1" class="box-padded go-green-text">
+                    	<?php perch_content('green text'); ?>
+                    </x-col>
+                </x-grid>
+            </div>
+            <!-- Partnering section -->
+            <div class="section spaced">
+                <div class="contents text-start">
+                    <x-grid columns="1" ji=center>
+                        <x-col as=center>
+							<?php perch_content('work companies'); ?>
+                        </x-col>
+                    </x-grid>
+                </div>
             </div>
 
             <hr>

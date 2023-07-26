@@ -1,0 +1,21 @@
+<div class="contents">
+	<div class="splide" data-splide='{"type":"loop","perPage":1,"autoplay":true,"interval":7000,"drag":true,"arrows":false}' role="group" aria-label="Quotes carousel">
+	 <div class="splide__track">
+	     <ul class="splide__list">
+	     	<perch:repeater id="quotes" label="Quotes">
+	         <li class="splide__slide quote">
+	         	<div class="splide__slide__container">
+	         	   <div class="text000 regular text-start pad-bottom-32">
+	         	       <img src="/images/icon-quote-dark.png" class="quote-icon"> <perch:content type="textarea" markdown="true" size="m" id="quote" label="Quote text" />
+	         	    </div>
+	         	   <div class="text00">
+	         	     <perch:content type="text" id="source" label="Quote source" /><br>
+	             	   <perch:content type="text" id="company" label="Source company" />
+	             	</div>
+	             </div>
+	         </li>
+	         </perch:repeater>
+		     </ul>
+	    </div>
+	</div>
+</div>

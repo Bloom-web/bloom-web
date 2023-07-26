@@ -18,7 +18,7 @@
                         <a href="/work/" class="text bold text-truncate" id="page-work">Work with us</a>
                     </x-col>
                     <x-col>
-                        <a href="/green/" class="text bold text-truncate" id="page-green">Go green</a>
+                        <a href="/careers/" class="text bold text-truncate" id="page-careers">Careers</a>
                     </x-col>
                     <!-- Nav -->
                 </x-grid>

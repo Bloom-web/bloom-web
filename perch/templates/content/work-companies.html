@@ -1,0 +1,20 @@
+                            <p class="text0000 bold color-orange text-center">
+                            	<perch:content type="text" id="title" label="Title" />
+                            </p>
+                            <p class="text0 text-center pad-bottom-64">
+                            	<perch:content type="text" id="tagline" label="Tagline" />
+                            </p>
+                            <x-grid columns="3" columns-s="1" as=center ji=center>
+                            	<perch:repeater id="logos1" label="Logos row 1">
+                            		<x-col class="pad-bottom-16" as=center>
+                                    <img src="<perch:content type="image" id="logo" label="Partner logo" bucket="Logos" />" class="inline-block logo-partner">
+                                </x-col>
+                            </perch:repeater>
+                            </x-grid>
+                            <x-grid columns="3" columns-s="1" as=center ji=center>
+                            	<perch:repeater id="logos2" label="Logos row 2">
+                            		<x-col class="pad-bottom-16" as=center>
+                                    <img src="<perch:content type="image" id="logo" label="Partner logo" bucket="Logos" />" class="inline-block logo-partner">
+                                </x-col>
+                            </perch:repeater>
+                            </x-grid>

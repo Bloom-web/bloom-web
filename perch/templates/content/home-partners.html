@@ -1,0 +1,25 @@
+                <div class="contents">
+                    <x-grid columns="1" ji=center>
+                        <x-col as=center>
+                            <h2 class="nostyle"><span class="text0000 bold color-orange text-center"><perch:content type="text" id="title" label="Title" /></span></h2>
+                            <div class="text0 text-center pad-bottom-64"><perch:content type="text" id="tagline" label="Tagline" /></div>
+                            <x-grid columns="3" columns-s="1" as=center ji=center>
+                            	<perch:repeater id="logos1" label="Logos row 1">
+                            		<x-col class="pad-bottom-16" as=center>
+                                    <img src="<perch:content type="image" id="logo" label="Partner logo" bucket="Logos" />" class="inline-block logo-partner">
+                                </x-col>
+                            </perch:repeater>
+                            </x-grid>
+                            <x-grid columns="3" columns-s="1" as=center ji=center>
+                            	<perch:repeater id="logos2" label="Logos row 2">
+                            		<x-col class="pad-bottom-16" as=center>
+                                    <img src="<perch:content type="image" id="logo" label="Partner logo" bucket="Logos" />" class="inline-block logo-partner">
+                                </x-col>
+                            </perch:repeater>
+                            </x-grid>
+                            <p class="text00 text-center pad-bottom-32">
+                                <perch:content type="text" id="closing_start" label="Closing start" /> <span class="color-orange-dark"><perch:content type="text" id="closing_orange" label="Closing orange" /></span> <perch:content type="text" id="closing_end" label="Closing end" />.
+                            </p>
+                        </x-col>
+                    </x-grid>
+                </div>

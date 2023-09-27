@@ -464,5 +464,10 @@
     "Template tag ID \u2018%s\u2019 contains disallowed characters": "Template tag ID \u2018%s\u2019 contains disallowed characters",
     "Markdown formatting": "Markdown formatting",
     "The template for this region (%s) cannot be found.": "The template for this region (%s) cannot be found.",
-    "Admin": "Admin"
+    "Admin": "Admin",
+    "Reset your password": "Reset your password",
+    "If you have forgotten your password, enter your email address and you will be sent a recovery link.": "If you have forgotten your password, enter your email address and you will be sent a recovery link.",
+    "Thank you. Now check your email for the link.": "Thank you. Now check your email for the link.",
+    "If you do not receive an email, look in your spam folder and also check that the email address you have used is the one we have for you.": "If you do not receive an email, look in your spam folder and also check that the email address you have used is the one we have for you.",
+    "%sLog in%s %sTry again%s": "%sLog in%s %sTry again%s"
 }

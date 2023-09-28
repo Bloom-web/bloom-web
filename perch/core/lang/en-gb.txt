@@ -467,15 +467,7 @@
     "Admin": "Admin",
     "Reset your password": "Reset your password",
     "If you have forgotten your password, enter your email address and you will be sent a recovery link.": "If you have forgotten your password, enter your email address and you will be sent a recovery link.",
-    "Your passwords must match and meet complexity requirements.": "Your passwords must match and meet complexity requirements.",
-    "Editing My Account": "Editing My Account",
-    "Change password": "Change password",
-    "New password": "New password",
-    "Repeat new password": "Repeat new password",
-    "Add User": "Add User",
-    "Adding a New User Account": "Adding a New User Account",
-    "Repeat the password": "Repeat the password",
-    "Send welcome email": "Send welcome email",
-    "Create user": "Create user",
-    "User successfully created.": "User successfully created."
+    "Thank you. Now check your email for the link.": "Thank you. Now check your email for the link.",
+    "If you do not receive an email, look in your spam folder and also check that the email address you have used is the one we have for you.": "If you do not receive an email, look in your spam folder and also check that the email address you have used is the one we have for you.",
+    "%sLog in%s %sTry again%s": "%sLog in%s %sTry again%s"
 }

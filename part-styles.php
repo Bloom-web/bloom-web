@@ -24,7 +24,7 @@
  <link rel="preconnect" href="https://fonts.googleapis.com">
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400;8..144,500;8..144,700;8..144,900&display=swap" rel="stylesheet">
- <link href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,700,900" rel="stylesheet" type="text/css">
+ <link href="https://fonts.googleapis.com/css?family=Open Sans:100,200,300,400,500,700,900" rel="stylesheet" type="text/css">
 
  <!-- Skelet framework  -->
  <link type="text/css" rel="stylesheet" href="/skelet-framework/css/skelet.min.css">

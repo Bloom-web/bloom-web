@@ -495,5 +495,7 @@
     "Create user": "Create user",
     "Your passwords must match and meet complexity requirements.": "Your passwords must match and meet complexity requirements.",
     "User successfully created.": "User successfully created.",
-    "Edit page locations": "Edit page locations"
+    "Edit page locations": "Edit page locations",
+    "User successfully updated.": "User successfully updated.",
+    "Password recovery instructions have been sent by email.": "Password recovery instructions have been sent by email."
 }

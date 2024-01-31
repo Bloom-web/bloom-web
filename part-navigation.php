@@ -12,13 +12,13 @@
                     </x-col>
                     <!-- Nav -->
                     <x-col>
-                        <a href="/" class="text bold text-truncate" id="page-home">How we help</a>
+                        <a href="/" class="text bold text-truncate" id="page-home">Who we are</a>
+                    </x-col>
+                    <x-col>
+                        <a href="/how-we-help/" class="text bold text-truncate" id="page-how">How we help</a>
                     </x-col>
                     <x-col>
                         <a href="/work/" class="text bold text-truncate" id="page-work">Work with us</a>
-                    </x-col>
-                    <x-col>
-                        <a href="/who/" class="text bold text-truncate" id="page-careers">Who we are</a>
                     </x-col>
                     <!-- Nav -->
                 </x-grid>

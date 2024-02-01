@@ -73,11 +73,8 @@
 			<?php perch_content('how we help'); ?>
 
 			
-            <div class="section" id="who-we-are">
+            <div class="section theme-gray" id="who-we-are">
             	<div class="contents">
-            		<h2 class="nostyle text-start"><span class="text0000 medium">
-            			<?php perch_content('who title'); ?>
-            		</span></h2>
             		<div class="text0 text-start spaced-items">
 						<?php perch_content('who intro'); ?>
             		</div>

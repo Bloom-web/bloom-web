@@ -18,18 +18,18 @@
         <main id="content" class="center">
         	
             <!-- How we help section -->
-			<?php perch_content('how we help'); ?>
+			<?php perch_content('hero'); ?>
 
-            <!-- How blocks -->
+			<div class="section spaced theme-gray">
+ 			<?php perch_content('quotes'); ?>
+			</div>
+			
+           <!-- How blocks -->
 			<?php perch_content('how blocks'); ?>
 
             <!-- Partnering section -->
             <div class="section spaced">
-            	
-			<?php perch_content('quotes'); ?>
-			
 			<?php perch_content('partners'); ?>
-			
             </div>
             <hr>
             <?php include($base . "/part-contact.php"); ?>

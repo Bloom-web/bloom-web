@@ -1,7 +1,7 @@
 <?php $base = $_SERVER["DOCUMENT_ROOT"]; ?>
 <?php include($base . '/perch/runtime.php'); ?>
 <?php include($base . "/part-doctype.php"); ?>
-<title>Bloom - How we help</title>
+<title>Bloom</title>
 <?php perch_content('meta tags'); ?>
 
 <?php include($base . "/part-styles.php"); ?>

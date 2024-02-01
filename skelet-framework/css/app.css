@@ -568,12 +568,12 @@ footer a {
 /*** Dark mode */
 :where(.dark-mode, #dark-mode, [dark-mode], [data-mode="dark"]) {
 }
-
+/* If Variable fonts are supported
 @supports (font-variation-settings: normal) {
   :root {
     --fontFamily: var(--fontFamilyVar);
   }
-} /* If Variable fonts are supported */
+}  */
 a,
 a:hover {
   text-decoration: none;

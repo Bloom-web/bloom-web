@@ -12,7 +12,7 @@
                     </x-col>
                     <!-- Nav -->
                     <x-col>
-                        <a href="/" class="text bold text-truncate" id="page-home">Who we are</a>
+                        <a href="/#who-we-are" class="text bold text-truncate" id="page-home">Who we are</a>
                     </x-col>
                     <x-col>
                         <a href="/how-we-help/" class="text bold text-truncate" id="page-how">How we help</a>

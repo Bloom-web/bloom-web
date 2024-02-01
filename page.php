@@ -17,44 +17,47 @@
         <!-- page content -->
         <main id="content">
             <!-- Hero -->
-			<?php perch_content('hero'); ?>
+            <x-grid columns="1" class="section theme-teal-dark" ji=center ai=center>
+                <span class="text-display hairline quote-font" style="color:var(--colorTealLight);">
+                   We're celebrating<br>
+               </span>
+               <img src="/images/logo-bloom-wide-theme-dark.svg" class="inline" style="width:300px;">
+            </x-grid>
 
-            <div class="section center">
-            	<div class="contents">
-            		<h2 class="nostyle text-start"><span class="text0000 medium">
-            			<?php perch_content('who title'); ?>
-            		</span></h2>
-            		<div class="text0 text-start spaced-items">
-						<?php perch_content('who intro'); ?>
-            		</div>
-            		<x-grid columns="2">
-	            		<x-cell span="1+2">
-		            		<div class="text000 medium color-orange-dark text-start">
-								<?php perch_content('Who diversity title'); ?>
-		            		</div>
-		            		<div class="text0 text-start spaced-items">
-								<?php perch_content('Who diversity body'); ?>
-		            		</div>
-	            		</x-cell>
-	            		<x-cell span="1+1">
-		            		<div class="text000 medium color-orange-dark text-start">
-								<?php perch_content('Who drive title'); ?>
-		            		</div>
-		            		<div class="text0 text-start spaced-items">
-								<?php perch_content('Who drive body'); ?>
-		            		</div>
-	            		</x-cell>
-	            		<x-cell span="2+1">
-		            		<div class="text000 medium color-orange-dark text-start">
-								<?php perch_content('Who delivery title'); ?>
-		            		</div>
-		            		<div class="text0 text-start spaced-items">
-								<?php perch_content('Who delivery body'); ?>
-		            		</div>
-	            		</x-cell>
-            		</x-grid>
-        	  </div>
-            </div>
+			<div class="section center theme-orange-light">
+				<div class="contents">
+					<div class="text00000 bold">
+						Microsoft
+					</div>
+					<div class="text-display bold" style="max-width:60rem;">
+						Top 5 Supplier of the Year
+					</div>
+					<div class="text000 thin">
+						2024 Diverse-owned Category
+					</div>
+				</div>
+			</div>
+			
+			<div class="section theme-gray">
+				<div class="contents">
+					<div class="text0">
+						<span class="bold">
+						Bloom Consulting Group & Project Management is one of five Finalists for Microsoft Diverse-Owned Supplier of the Year at the Microsoft Supplier Prestige Awards 2024.
+						</span>
+						<br><br>
+						We are honored to be selected has been selected as one of five finalists for Diverse-Owned Supplier of the Year at the Microsoft Supplier Prestige Awards 2024.
+						<br><br>
+						The Diverse-Owned Supplier of the Year category recognizes suppliers that are third party certified diverse-owned suppliers who strengthen Microsoft portfolio, amplify Microsoft’s values and commitments, and exemplify the MSP Pillars of Strategy, Priority, Agility, and Modernization. 
+						 <br><br>
+						For the last 15 years, we have been privileged to work with great leaders across tech industry and this remarkable achievement wouldn't have been possible without their continued support and trust in our services. 
+						 <br><br>
+						Thank you to all our former and current clients for your trust in our ability to deliver business results while honoring our values of Diversity, Drive and top-notch Delivery! 
+						 <br><br>
+						The Microsoft Supplier Prestige Awards ceremony will be broadcast on February 29th, 2024. 
+					</div>
+				</div>
+			</div>
+			
             <!-- Partnering section -->
             <div class="section spaced">
                 <div class="contents">
@@ -64,6 +67,45 @@
                         </x-col>
                     </x-grid>
                 </div>
+            </div>
+            
+			<!-- How we help section -->
+			<?php perch_content('how we help'); ?>
+
+			
+            <div class="section" id="who-we-are">
+            	<div class="contents">
+            		<h2 class="nostyle text-start"><span class="text0000 medium">
+            			<?php perch_content('who title'); ?>
+            		</span></h2>
+            		<div class="text0 text-start spaced-items">
+						<?php perch_content('who intro'); ?>
+            		</div>
+            		<details>
+	            		<summary class="text000 medium color-orange-dark inline-markdown link">
+								<?php perch_content('Who diversity title'); ?>
+		            	</summary>
+		            		<div class="text0 text-start spaced-items">
+								<?php perch_content('Who diversity body'); ?>
+		            		</div>
+		            </details>
+            		<details>
+	            		<summary class="text000 medium color-orange-dark inline-markdown link">
+								<?php perch_content('Who drive title'); ?>
+		            	</summary>
+		            		<div class="text0 text-start spaced-items">
+								<?php perch_content('Who drive body'); ?>
+		            		</div>
+		            </details>
+            		<details>
+	            		<summary class="text000 medium color-orange-dark inline-markdown link">
+								<?php perch_content('Who delivery title'); ?>
+		            	</summary>
+		            		<div class="text0 text-start spaced-items">
+								<?php perch_content('Who delivery body'); ?>
+		            		</div>
+		            </details>
+        	  </div>
             </div>
             <!-- Commitment section -->
             <div class="section">

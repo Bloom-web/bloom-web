@@ -268,7 +268,7 @@ body {
 .logo-partner {
   max-width: 16rem;
   max-height: 8rem;
-  filter: grayscale(1);
+  /* filter: grayscale(1); */
 }
 .narrowed {
   max-width: 39rem;
@@ -290,6 +290,10 @@ body {
 
 .spaced-items p {
 	padding-bottom: var(--space-32);
+}
+
+.inline-markdown p {
+	display: inline-block;
 }
 
 /* ------------------------  Green page text  */
@@ -523,7 +527,7 @@ footer a {
   color: rgba(255, 255, 255, 1);
 }
 .link {
-  color: rgba(34, 134, 210, 1);
+  color: var(--colorTealAccessible);
   cursor: pointer;
   -webkit-touch-callout: none;
   -webkit-user-select: none;

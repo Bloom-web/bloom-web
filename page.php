@@ -40,20 +40,8 @@
 			
 			<div class="section theme-gray">
 				<div class="contents">
-					<div class="text0">
-						<span class="bold">
-						Bloom Consulting Group & Project Management is one of five Finalists for Microsoft Diverse-Owned Supplier of the Year at the Microsoft Supplier Prestige Awards 2024.
-						</span>
-						<br><br>
-						We are honored to be selected has been selected as one of five finalists for Diverse-Owned Supplier of the Year at the Microsoft Supplier Prestige Awards 2024.
-						<br><br>
-						The Diverse-Owned Supplier of the Year category recognizes suppliers that are third party certified diverse-owned suppliers who strengthen Microsoft portfolio, amplify Microsoft’s values and commitments, and exemplify the MSP Pillars of Strategy, Priority, Agility, and Modernization. 
-						 <br><br>
-						For the last 15 years, we have been privileged to work with great leaders across tech industry and this remarkable achievement wouldn't have been possible without their continued support and trust in our services. 
-						 <br><br>
-						Thank you to all our former and current clients for your trust in our ability to deliver business results while honoring our values of Diversity, Drive and top-notch Delivery! 
-						 <br><br>
-						The Microsoft Supplier Prestige Awards ceremony will be broadcast on February 29th, 2024. 
+					<div class="text0 spaced-items">
+						<?php perch_content('Top 5 winner'); ?>
 					</div>
 				</div>
 			</div>

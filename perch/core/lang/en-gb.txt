@@ -497,5 +497,9 @@
     "User successfully created.": "User successfully created.",
     "Edit page locations": "Edit page locations",
     "User successfully updated.": "User successfully updated.",
-    "Password recovery instructions have been sent by email.": "Password recovery instructions have been sent by email."
+    "Password recovery instructions have been sent by email.": "Password recovery instructions have been sent by email.",
+    "Editing My Account": "Editing My Account",
+    "Change password": "Change password",
+    "New password": "New password",
+    "Repeat new password": "Repeat new password"
 }

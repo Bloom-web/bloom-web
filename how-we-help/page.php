@@ -17,13 +17,24 @@
         <!-- page content -->
         <main id="content" class="center">
         	
-            <!-- How we help section -->
 			<?php perch_content('hero'); ?>
 
 			<div class="section spaced theme-gray">
  			<?php perch_content('quotes'); ?>
 			</div>
 			
+			<!-- How we help section -->
+			<div class="section theme-gray">
+                <div class="contents text-start">
+                    <h2 class="nostyle">
+                    	<span class="text0000 medium">
+                    		<?php perch_content('How title'); ?>
+                    	</span>
+                    </h2>
+					<?php perch_content('how we help'); ?>
+				</div>
+			</div>
+
            <!-- How blocks -->
 			<?php perch_content('how blocks'); ?>
 

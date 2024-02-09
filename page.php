@@ -18,21 +18,21 @@
         <main id="content">
             <!-- Hero -->
             <x-grid columns="1" class="section theme-teal-dark" ji=center ai=center>
-                <span class="text-display hairline quote-font" style="color:var(--colorTealLight);">
+                <span class="text00000 hairline quote-font" style="color:var(--colorTealLight);">
                    We're celebrating<br>
                </span>
-               <img src="/images/logo-bloom-wide-theme-dark.svg" class="inline" style="width:300px;">
+               <img src="/images/logo-bloom-wide-theme-dark.svg" class="inline" style="width:200px;">
             </x-grid>
 
 			<div class="section center theme-orange-light">
 				<div class="contents">
-					<div class="text00000 bold">
+					<div class="text000 bold">
 						Microsoft
 					</div>
-					<div class="text-display bold" style="max-width:60rem;">
+					<div class="text00000 bold" style="max-width:60rem;">
 						Top 5 Supplier of the Year
 					</div>
-					<div class="text000 thin">
+					<div class="text0 thin">
 						2024 Diverse-owned Category
 					</div>
 				</div>
@@ -58,15 +58,32 @@
             </div>
             
 			<!-- How we help section -->
-			<?php perch_content('how we help'); ?>
+			<div class="section theme-gray">
+                <div class="contents text-start">
+                    <h2 class="nostyle">
+                    	<span class="text0000 medium">
+                    		<?php perch_content('Who title'); ?>
+                    	</span>
+                    </h2>
+					<?php perch_content('how we help'); ?>
+				</div>
+			</div>
 
 			
             <div class="section theme-gray" id="who-we-are">
             	<div class="contents">
             		<div class="text0 text-start spaced-items">
-						<?php perch_content('who intro'); ?>
+						<?php perch_content('Who intro'); ?>
             		</div>
-            		<details>
+            		<h2 class="nostyle">
+            			<span class="text0000 medium">
+            			<?php perch_content('Values title'); ?>
+            			</span>
+            		</h2>
+             		<div class="text0 text-start spaced-items">
+						<?php perch_content('Values intro'); ?>
+            		</div>
+           		<details>
 	            		<summary class="text000 medium color-orange-dark inline-markdown link">
 								<?php perch_content('Who diversity title'); ?>
 		            	</summary>

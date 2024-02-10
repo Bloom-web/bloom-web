@@ -58,7 +58,7 @@
             </div>
             
 			<!-- How we help section -->
-			<div class="section theme-gray">
+			<div class="section theme-gray" id="who-we-are">
                 <div class="contents text-start">
                     <h2 class="nostyle">
                     	<span class="text0000 medium">
@@ -70,7 +70,7 @@
 			</div>
 
 			
-            <div class="section theme-gray" id="who-we-are">
+            <div class="section theme-gray">
             	<div class="contents">
             		<div class="text0 text-start spaced-items">
 						<?php perch_content('Who intro'); ?>

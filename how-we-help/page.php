@@ -24,20 +24,23 @@
 			</div>
 			
 			<!-- How we help section -->
-			<div class="section theme-gray">
-                <div class="contents text-start">
-                    <h2 class="nostyle">
-                    	<span class="text0000 medium">
-                    		<?php perch_content('How title'); ?>
-                    	</span>
-                    </h2>
-					<?php perch_content('how we help'); ?>
+			<div id="tabContainer">
+				<div class="section">
+	                <div class="contents text-start">
+	                    <h2 class="nostyle">
+	                    	<span class="text0000 medium">
+	                    		<?php perch_content('How title'); ?>
+	                    	</span>
+	                    </h2>
+						<?php perch_content('how we help'); ?>
+					</div>
+				</div>
+	
+	           <!-- How blocks -->
+	            <div id="tabsContent">
+					<?php perch_content('how blocks'); ?>
 				</div>
 			</div>
-
-           <!-- How blocks -->
-			<?php perch_content('how blocks'); ?>
-
             <!-- Partnering section -->
             <div class="section spaced">
 			<?php perch_content('partners'); ?>
@@ -65,53 +68,54 @@
     </script>
     <script>
     /**
-	* Created by edesimone on 04/06/16.
+	* Created by edesimone on 04/06/16. Updated Hoby 2024-02-09
 	*/
 	window.onload=function() {
 
-    // get tab container
-    var container = document.getElementById("tabContainer");
-    var tabcon = document.getElementById("tabscontent");
-    // set current tab
-    var navitem = document.getElementById("tabHeader_1");
-
-    //store which tab we are on
-    var ident = navitem.id.split("_")[1];
-    //alert(ident);
-    navitem.parentNode.setAttribute("data-current",ident);
-    //set current tab with class of activetabheader
-    navitem.setAttribute("class","tabActiveHeader");
-
-    //hide two tab contents we don't need
-
-    var pages = tabcon.getElementsByClassName("tabpage");
-    for (var i = 0; i < pages.length; i++) {
-        var comp=i+1;
-        if(ident!=comp) {
-            pages.item(i).style.display = "none";
-        }
-    };
-
-    //this adds click event to tabs
-    var tabs = container.getElementsByTagName("x-col");
-    for (var i = 0; i < tabs.length; i++) {
-        tabs[i].onclick=displayPage;
-    	}
+	    // get tab container
+	    var container = document.getElementById("tabContainer");
+	    var tabcon = document.getElementById("tabsContent");
+	    // set current tab
+	    var navitem = document.getElementById("tabHeader_1");
+	
+	    //this adds click event to tabs
+	    var tabs = container.getElementsByClassName("tabHeader");
+	    for (var i = 0; i < tabs.length; i++) {
+	        tabs[i].onclick=displayPage;
+	    	}
+    	
+	    //store which tab we are on
+	    var ident = navitem.id.split("_")[1];
+	    //alert(ident);
+	    navitem.parentNode.setAttribute("data-current",ident);
+	    //set current tab with class of activetabheader
+	    navitem.setAttribute("class","tabActiveHeader");
+	
+	    //hide tab contents we don't need
+	    var pages = tabcon.getElementsByClassName("tabpage");
+	    for (var i = 0; i < pages.length; i++) {
+	        var comp=i+1;
+	        if(ident!=comp) {
+	            pages.item(i).style.display = "none";
+	        }
+	    };
+    	
 	}
 
 	// on click of one of tabs
 	function displayPage() {
 	    var current = this.parentNode.getAttribute("data-current");
-	    //remove class of activetabheader and hide old contents
-	    document.getElementById("tabHeader_" + current).removeAttribute("class");
+	    //change class of activetabheader and hide old contents
+	    document.getElementById("tabHeader_" + current).setAttribute("class","tabHeader");
 	    document.getElementById("tabpage_" + current).style.display="none";
-	
+
 	    var ident = this.id.split("_")[1];
 	
 	    //add class of activetabheader to new active tab and show contents
 	    this.setAttribute("class","tabActiveHeader");
-	    document.getElementById("tabpage_" + ident).style.display="block";
+	    document.getElementById("tabpage_" + ident).style.display="flex";
 	    this.parentNode.setAttribute("data-current",ident);
+	    
 	}
     </script>
 </body>

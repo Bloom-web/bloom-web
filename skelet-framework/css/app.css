@@ -546,6 +546,25 @@ footer a {
   user-select: none;
 }
 
+#tabContainer .tabSet {
+	-webkit-box-shadow: 0px 8px 0px 0px var(--colorGray);
+	-moz-box-shadow: 0px 8px 0px 0px var(--colorGray);
+	box-shadow: 0px 8px 0px 0px var(--colorGray);
+}
+#tabContainer .tabHeader, #tabContainer .tabActiveHeader {
+	cursor:pointer;
+}
+#tabContainer .tabHeader:hover {
+	-webkit-box-shadow: 0px 8px 0px 0px var(--colorBlue);
+	-moz-box-shadow: 0px 8px 0px 0px var(--colorBlue);
+	box-shadow: 0px 8px 0px 0px var(--colorBlue);
+}
+#tabContainer .tabActiveHeader {
+	-webkit-box-shadow: 0px 8px 0px 0px var(--colorTealAccessible);
+	-moz-box-shadow: 0px 8px 0px 0px var(--colorTealAccessible);
+	box-shadow: 0px 8px 0px 0px var(--colorTealAccessible);
+}
+
 #content li {
   list-style-position: outside;
   margin-left: 1.5em;
